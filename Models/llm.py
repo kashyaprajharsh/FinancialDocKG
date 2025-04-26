@@ -1,7 +1,6 @@
 import instructor
 from google.genai import types
 from google import genai
-from langchain_google_genai import ChatGoogleGenerativeAI
 from schemas.models import TripleList
 from utils.prompts import extraction_system_prompt, extraction_user_prompt_template
 import os
