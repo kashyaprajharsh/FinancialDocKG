@@ -1,0 +1,7016 @@
+[
+  {
+    "subject": "iphone",
+    "predicate": "includes accounts",
+    "object": "smartphones",
+    "source_chunk": 6
+  },
+  {
+    "subject": "mac",
+    "predicate": "includes accounts",
+    "object": "personal computers",
+    "source_chunk": 6
+  },
+  {
+    "subject": "ipad",
+    "predicate": "includes accounts",
+    "object": "multipurpose tablets",
+    "source_chunk": 6
+  },
+  {
+    "subject": "wearables",
+    "predicate": "includes accounts",
+    "object": "smartwatches, wireless headphones and spatial computers",
+    "source_chunk": 6
+  },
+  {
+    "subject": "apple tv",
+    "predicate": "includes accounts",
+    "object": "media streaming and gaming device",
+    "source_chunk": 6
+  },
+  {
+    "subject": "homepod",
+    "predicate": "includes accounts",
+    "object": "high-fidelity wireless smart speakers",
+    "source_chunk": 6
+  },
+  {
+    "subject": "applecare",
+    "predicate": "offers",
+    "object": "fee-based service and support",
+    "source_chunk": 6
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "offers",
+    "object": "digital content",
+    "source_chunk": 7
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "offers",
+    "object": "subscription-based services",
+    "source_chunk": 7
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "offers",
+    "object": "payment services",
+    "source_chunk": 7
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "manages business",
+    "object": "americas",
+    "source_chunk": 7
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "manages business",
+    "object": "europe",
+    "source_chunk": 7
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "manages business",
+    "object": "greater china",
+    "source_chunk": 7
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "manages business",
+    "object": "japan",
+    "source_chunk": 7
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "manages business",
+    "object": "rest of asia pacific",
+    "source_chunk": 7
+  },
+  {
+    "subject": "direct distribution channels",
+    "predicate": "accounted for",
+    "object": "38 %",
+    "source_chunk": 7
+  },
+  {
+    "subject": "indirect distribution channels",
+    "predicate": "accounted for",
+    "object": "62 %",
+    "source_chunk": 7
+  },
+  {
+    "subject": "indirect distribution channels",
+    "predicate": "accounted for",
+    "object": "38",
+    "source_chunk": 8
+  },
+  {
+    "subject": "indirect distribution channels",
+    "predicate": "accounted for",
+    "object": "62",
+    "source_chunk": 8
+  },
+  {
+    "subject": "markets for company products and services",
+    "predicate": "characterized by",
+    "object": "aggressive price competition",
+    "source_chunk": 8
+  },
+  {
+    "subject": "markets for company products and services",
+    "predicate": "characterized by",
+    "object": "short product life cycles",
+    "source_chunk": 8
+  },
+  {
+    "subject": "markets for company products and services",
+    "predicate": "characterized by",
+    "object": "evolving industry standards",
+    "source_chunk": 8
+  },
+  {
+    "subject": "principal competitive factors",
+    "predicate": "includes accounts",
+    "object": "price",
+    "source_chunk": 8
+  },
+  {
+    "subject": "principal competitive factors",
+    "predicate": "includes accounts",
+    "object": "product and service features",
+    "source_chunk": 8
+  },
+  {
+    "subject": "principal competitive factors",
+    "predicate": "includes accounts",
+    "object": "service and support",
+    "source_chunk": 8
+  },
+  {
+    "subject": "competitors",
+    "predicate": "collaborate to",
+    "object": "offer integrated solutions",
+    "source_chunk": 9
+  },
+  {
+    "subject": "components",
+    "predicate": "exposed to",
+    "object": "industry-wide shortage",
+    "source_chunk": 9
+  },
+  {
+    "subject": "components",
+    "predicate": "exposed to",
+    "object": "significant commodity pricing fluctuations",
+    "source_chunk": 9
+  },
+  {
+    "subject": "company",
+    "predicate": "using",
+    "object": "custom components",
+    "source_chunk": 9
+  },
+  {
+    "subject": "custom components",
+    "predicate": "available from",
+    "object": "one source",
+    "source_chunk": 9
+  },
+  {
+    "subject": "company",
+    "predicate": "expects",
+    "object": "extend or renew agreements",
+    "source_chunk": 9
+  },
+  {
+    "subject": "industries",
+    "predicate": "characterized by",
+    "object": "rapid technological advances",
+    "source_chunk": 9
+  },
+  {
+    "subject": "company",
+    "predicate": "through",
+    "object": "licensing of intellectual property",
+    "source_chunk": 9
+  },
+  {
+    "subject": "company",
+    "predicate": "held in",
+    "object": "broad collection",
+    "source_chunk": 10
+  },
+  {
+    "subject": "hardware",
+    "predicate": "includes accounts",
+    "object": "intellectual property rights",
+    "source_chunk": 10
+  },
+  {
+    "subject": "accessories",
+    "predicate": "includes accounts",
+    "object": "intellectual property rights",
+    "source_chunk": 10
+  },
+  {
+    "subject": "software",
+    "predicate": "includes accounts",
+    "object": "intellectual property rights",
+    "source_chunk": 10
+  },
+  {
+    "subject": "services",
+    "predicate": "includes accounts",
+    "object": "intellectual property rights",
+    "source_chunk": 10
+  },
+  {
+    "subject": "company",
+    "predicate": "supports with",
+    "object": "innovative skills",
+    "source_chunk": 10
+  },
+  {
+    "subject": "company",
+    "predicate": "supports with",
+    "object": "technical competence",
+    "source_chunk": 10
+  },
+  {
+    "subject": "company",
+    "predicate": "supports with",
+    "object": "marketing abilities",
+    "source_chunk": 10
+  },
+  {
+    "subject": "company",
+    "predicate": "seeks to",
+    "object": "thousands",
+    "source_chunk": 10
+  },
+  {
+    "subject": "company",
+    "predicate": "seeks to",
+    "object": "applications",
+    "source_chunk": 10
+  },
+  {
+    "subject": "apple inc.",
+    "predicate": "experiences",
+    "object": "higher net sales",
+    "source_chunk": 11
+  },
+  {
+    "subject": "higher net sales",
+    "predicate": "because of",
+    "object": "seasonal holiday demand",
+    "source_chunk": 11
+  },
+  {
+    "subject": "new product introductions",
+    "predicate": "can result",
+    "object": "impact net sales",
+    "source_chunk": 11
+  },
+  {
+    "subject": "new product introductions",
+    "predicate": "can result",
+    "object": "impact cost of sales",
+    "source_chunk": 11
+  },
+  {
+    "subject": "new product introductions",
+    "predicate": "can result",
+    "object": "impact operating expenses",
+    "source_chunk": 11
+  },
+  {
+    "subject": "channel inventory",
+    "predicate": "often",
+    "object": "declines",
+    "source_chunk": 11
+  },
+  {
+    "subject": "apple inc.",
+    "predicate": "had employees",
+    "object": "164000",
+    "source_chunk": 11
+  },
+  {
+    "subject": "the company",
+    "predicate": "are",
+    "object": "equal opportunity employer",
+    "source_chunk": 12
+  },
+  {
+    "subject": "the company",
+    "predicate": "builds",
+    "object": "more inclusive workforce",
+    "source_chunk": 12
+  },
+  {
+    "subject": "the company",
+    "predicate": "foster",
+    "object": "inclusive culture",
+    "source_chunk": 12
+  },
+  {
+    "subject": "the company",
+    "predicate": "supports with",
+    "object": "equitable pay",
+    "source_chunk": 12
+  },
+  {
+    "subject": "the company",
+    "predicate": "believes in",
+    "object": "open communication",
+    "source_chunk": 12
+  },
+  {
+    "subject": "the company",
+    "predicate": "identifies",
+    "object": "potential workplace risks",
+    "source_chunk": 12
+  },
+  {
+    "subject": "the company",
+    "predicate": "research and development",
+    "object": "measures",
+    "source_chunk": 12
+  },
+  {
+    "subject": "the company",
+    "predicate": "supports with",
+    "object": "general safety",
+    "source_chunk": 12
+  },
+  {
+    "subject": "the company",
+    "predicate": "supports with",
+    "object": "security",
+    "source_chunk": 12
+  },
+  {
+    "subject": "investor relations website",
+    "predicate": "are",
+    "object": "investor.apple.com",
+    "source_chunk": 13
+  },
+  {
+    "subject": "press releases",
+    "predicate": "includes accounts",
+    "object": "financial performance",
+    "source_chunk": 13
+  },
+  {
+    "subject": "press releases",
+    "predicate": "includes accounts",
+    "object": "environmental, social and governance matters",
+    "source_chunk": 13
+  },
+  {
+    "subject": "press releases",
+    "predicate": "includes accounts",
+    "object": "annual meeting of shareholders",
+    "source_chunk": 13
+  },
+  {
+    "subject": "company\u2019s operations",
+    "predicate": "depend on",
+    "object": "global and regional economic conditions",
+    "source_chunk": 13
+  },
+  {
+    "subject": "sales outside the u.s.",
+    "predicate": "representing",
+    "object": "majority",
+    "source_chunk": 13
+  },
+  {
+    "subject": "sales outside the u.s.",
+    "predicate": "representing",
+    "object": "company\u2019s total net sales",
+    "source_chunk": 13
+  },
+  {
+    "subject": "company",
+    "predicate": "are",
+    "object": "global supply chain",
+    "source_chunk": 13
+  },
+  {
+    "subject": "global supply chain",
+    "predicate": "are",
+    "object": "large and complex",
+    "source_chunk": 13
+  },
+  {
+    "subject": "company\u2019s operations and performance",
+    "predicate": "depend on",
+    "object": "global and regional economic conditions",
+    "source_chunk": 14
+  },
+  {
+    "subject": "adverse macroeconomic conditions",
+    "predicate": "affect",
+    "object": "consumer confidence and spending",
+    "source_chunk": 14
+  },
+  {
+    "subject": "fiscal and monetary policy",
+    "predicate": "affect",
+    "object": "company\u2019s products and services",
+    "source_chunk": 14
+  },
+  {
+    "subject": "decline in economic conditions",
+    "predicate": "includes accounts",
+    "object": "financial instability",
+    "source_chunk": 14
+  },
+  {
+    "subject": "adverse economic conditions",
+    "predicate": "increase",
+    "object": "company\u2019s trade receivables",
+    "source_chunk": 14
+  },
+  {
+    "subject": "adverse economic conditions",
+    "predicate": "decline",
+    "object": "company\u2019s financial instruments",
+    "source_chunk": 14
+  },
+  {
+    "subject": "political events",
+    "predicate": "affect",
+    "object": "company and its customers",
+    "source_chunk": 14
+  },
+  {
+    "subject": "outsourcing partners",
+    "predicate": "partner location",
+    "object": "china mainland",
+    "source_chunk": 15
+  },
+  {
+    "subject": "outsourcing partners",
+    "predicate": "partner location",
+    "object": "india",
+    "source_chunk": 15
+  },
+  {
+    "subject": "outsourcing partners",
+    "predicate": "partner location",
+    "object": "japan",
+    "source_chunk": 15
+  },
+  {
+    "subject": "outsourcing partners",
+    "predicate": "partner location",
+    "object": "south korea",
+    "source_chunk": 15
+  },
+  {
+    "subject": "outsourcing partners",
+    "predicate": "partner location",
+    "object": "taiwan",
+    "source_chunk": 15
+  },
+  {
+    "subject": "outsourcing partners",
+    "predicate": "partner location",
+    "object": "vietnam",
+    "source_chunk": 15
+  },
+  {
+    "subject": "tensions between governments",
+    "predicate": "amounted to",
+    "object": "tariffs",
+    "source_chunk": 15
+  },
+  {
+    "subject": "disputes and conflicts",
+    "predicate": "can result",
+    "object": "affect business",
+    "source_chunk": 15
+  },
+  {
+    "subject": "apple inc.",
+    "predicate": "fiscal year ended",
+    "object": "september 28, 2024",
+    "source_chunk": 1
+  },
+  {
+    "subject": "apple inc.",
+    "predicate": "commission file number",
+    "object": "001-36743",
+    "source_chunk": 1
+  },
+  {
+    "subject": "apple inc.",
+    "predicate": "state of incorporation",
+    "object": "california",
+    "source_chunk": 1
+  },
+  {
+    "subject": "apple inc.",
+    "predicate": "irs employer identification number",
+    "object": "94-2404110",
+    "source_chunk": 1
+  },
+  {
+    "subject": "apple inc.",
+    "predicate": "address",
+    "object": "one apple park way",
+    "source_chunk": 1
+  },
+  {
+    "subject": "one apple park way",
+    "predicate": "partner location",
+    "object": "cupertino, california 95014",
+    "source_chunk": 1
+  },
+  {
+    "subject": "apple inc.",
+    "predicate": "telephone number",
+    "object": "(408) 996-1010",
+    "source_chunk": 1
+  },
+  {
+    "subject": "aapl",
+    "predicate": "exchange listed on",
+    "object": "nasdaq stock market llc",
+    "source_chunk": 1
+  },
+  {
+    "subject": "registrant",
+    "predicate": "submitted electronically",
+    "object": "yes",
+    "source_chunk": 2
+  },
+  {
+    "subject": "registrant",
+    "predicate": "are",
+    "object": "large accelerated filer",
+    "source_chunk": 2
+  },
+  {
+    "subject": "registrant",
+    "predicate": "has",
+    "object": "filed report",
+    "source_chunk": 2
+  },
+  {
+    "subject": "shell company",
+    "predicate": "are",
+    "object": "no",
+    "source_chunk": 2
+  },
+  {
+    "subject": "non-affiliates",
+    "predicate": "market value",
+    "object": "march 29, 2024",
+    "source_chunk": 2
+  },
+  {
+    "subject": "non-affiliates",
+    "predicate": "market value",
+    "object": "$2,628,553,000,000",
+    "source_chunk": 2
+  },
+  {
+    "subject": "executive officers and directors",
+    "predicate": "held in",
+    "object": "common stock",
+    "source_chunk": 2
+  },
+  {
+    "subject": "registrant\u2019s second fiscal quarter",
+    "predicate": "was approximately",
+    "object": "2,628,553,000,000",
+    "source_chunk": 3
+  },
+  {
+    "subject": "common stock",
+    "predicate": "total shares",
+    "object": "15,115,823,000",
+    "source_chunk": 3
+  },
+  {
+    "subject": "common stock",
+    "predicate": "total shares",
+    "object": "october 18, 2024",
+    "source_chunk": 3
+  },
+  {
+    "subject": "registrant\u2019s definitive proxy statement",
+    "predicate": "relating to",
+    "object": "2025",
+    "source_chunk": 3
+  },
+  {
+    "subject": "registrant\u2019s definitive proxy statement",
+    "predicate": "for",
+    "object": "annual meeting of shareholders",
+    "source_chunk": 3
+  },
+  {
+    "subject": "fiscal year",
+    "predicate": "ends",
+    "object": "september 28, 2024",
+    "source_chunk": 3
+  },
+  {
+    "subject": "annual report",
+    "predicate": "are",
+    "object": "form 10-k",
+    "source_chunk": 3
+  },
+  {
+    "subject": "item 1",
+    "predicate": "because of",
+    "object": "business",
+    "source_chunk": 4
+  },
+  {
+    "subject": "item 1a",
+    "predicate": "because of",
+    "object": "risk factors",
+    "source_chunk": 4
+  },
+  {
+    "subject": "item 1b",
+    "predicate": "because of",
+    "object": "unresolved staff comments",
+    "source_chunk": 4
+  },
+  {
+    "subject": "item 1c",
+    "predicate": "because of",
+    "object": "cybersecurity",
+    "source_chunk": 4
+  },
+  {
+    "subject": "item 2",
+    "predicate": "because of",
+    "object": "properties",
+    "source_chunk": 4
+  },
+  {
+    "subject": "item 3",
+    "predicate": "because of",
+    "object": "legal proceedings",
+    "source_chunk": 4
+  },
+  {
+    "subject": "item 4",
+    "predicate": "because of",
+    "object": "mine safety disclosures",
+    "source_chunk": 4
+  },
+  {
+    "subject": "item 5",
+    "predicate": "because of",
+    "object": "registrant\u2019s common equity",
+    "source_chunk": 4
+  },
+  {
+    "subject": "item 7",
+    "predicate": "because of",
+    "object": "financial condition",
+    "source_chunk": 4
+  },
+  {
+    "subject": "item 10",
+    "predicate": "because of",
+    "object": "corporate governance",
+    "source_chunk": 4
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "designs",
+    "object": "smartphones",
+    "source_chunk": 5
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "designs",
+    "object": "personal computers",
+    "source_chunk": 5
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "designs",
+    "object": "tablets",
+    "source_chunk": 5
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "designs",
+    "object": "wearables",
+    "source_chunk": 5
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "designs",
+    "object": "accessories",
+    "source_chunk": 5
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "sales of",
+    "object": "related services",
+    "source_chunk": 5
+  },
+  {
+    "subject": "iphone",
+    "predicate": "depend on",
+    "object": "ios operating system",
+    "source_chunk": 5
+  },
+  {
+    "subject": "company\u2019s fiscal year",
+    "predicate": "ends",
+    "object": "last saturday of september",
+    "source_chunk": 5
+  },
+  {
+    "subject": "manufacturers",
+    "predicate": "exposed to",
+    "object": "locations",
+    "source_chunk": 16
+  },
+  {
+    "subject": "global climate change",
+    "predicate": "because of",
+    "object": "natural disasters",
+    "source_chunk": 16
+  },
+  {
+    "subject": "slowdowns and outages",
+    "predicate": "because of",
+    "object": "service offerings",
+    "source_chunk": 16
+  },
+  {
+    "subject": "such events",
+    "predicate": "increase",
+    "object": "costs",
+    "source_chunk": 16
+  },
+  {
+    "subject": "such events",
+    "predicate": "create",
+    "object": "supply and manufacturing chain",
+    "source_chunk": 16
+  },
+  {
+    "subject": "such events",
+    "predicate": "affect",
+    "object": "consumer spending and demand",
+    "source_chunk": 16
+  },
+  {
+    "subject": "company's suppliers",
+    "predicate": "maintains",
+    "object": "safe working environments",
+    "source_chunk": 16
+  },
+  {
+    "subject": "covid-19 pandemic",
+    "predicate": "because of",
+    "object": "supply chain",
+    "source_chunk": 16
+  },
+  {
+    "subject": "company",
+    "predicate": "can result",
+    "object": "require substantial recovery time",
+    "source_chunk": 17
+  },
+  {
+    "subject": "company",
+    "predicate": "can result",
+    "object": "experience significant expenditures",
+    "source_chunk": 17
+  },
+  {
+    "subject": "company",
+    "predicate": "can result",
+    "object": "lose significant sales",
+    "source_chunk": 17
+  },
+  {
+    "subject": "company",
+    "predicate": "supports with",
+    "object": "single or limited sources",
+    "source_chunk": 17
+  },
+  {
+    "subject": "company",
+    "predicate": "maintains",
+    "object": "insurance coverage",
+    "source_chunk": 17
+  },
+  {
+    "subject": "global markets",
+    "predicate": "are",
+    "object": "highly competitive",
+    "source_chunk": 17
+  },
+  {
+    "subject": "global markets",
+    "predicate": "exposed to",
+    "object": "rapid technological change",
+    "source_chunk": 17
+  },
+  {
+    "subject": "company",
+    "predicate": "require",
+    "object": "significant investments",
+    "source_chunk": 17
+  },
+  {
+    "subject": "company",
+    "predicate": "has",
+    "object": "global smartphone market",
+    "source_chunk": 18
+  },
+  {
+    "subject": "company",
+    "predicate": "has",
+    "object": "minority market share",
+    "source_chunk": 18
+  },
+  {
+    "subject": "company",
+    "predicate": "faces competition in",
+    "object": "personal computer market",
+    "source_chunk": 18
+  },
+  {
+    "subject": "competitors",
+    "predicate": "infringe on",
+    "object": "intellectual property",
+    "source_chunk": 18
+  },
+  {
+    "subject": "company",
+    "predicate": "maintains",
+    "object": "competitive advantage",
+    "source_chunk": 18
+  },
+  {
+    "subject": "competitors",
+    "predicate": "offers",
+    "object": "lower-priced products",
+    "source_chunk": 18
+  },
+  {
+    "subject": "company",
+    "predicate": "illegitimately obtain",
+    "object": "digital content",
+    "source_chunk": 18
+  },
+  {
+    "subject": "company",
+    "predicate": "depend on",
+    "object": "maintain functional design advantages",
+    "source_chunk": 19
+  },
+  {
+    "subject": "company",
+    "predicate": "require",
+    "object": "manage introductions transitions",
+    "source_chunk": 19
+  },
+  {
+    "subject": "company",
+    "predicate": "introduce continually",
+    "object": "new products services technologies",
+    "source_chunk": 19
+  },
+  {
+    "subject": "company",
+    "predicate": "must stimulate",
+    "object": "stimulate customer demand",
+    "source_chunk": 19
+  },
+  {
+    "subject": "company",
+    "predicate": "require",
+    "object": "manage the transition",
+    "source_chunk": 19
+  },
+  {
+    "subject": "new product service introductions",
+    "predicate": "because of",
+    "object": "successful development",
+    "source_chunk": 19
+  },
+  {
+    "subject": "company",
+    "predicate": "manage risks",
+    "object": "production ramp-up issues",
+    "source_chunk": 19
+  },
+  {
+    "subject": "company",
+    "predicate": "because of",
+    "object": "outsourcing partners",
+    "source_chunk": 19
+  },
+  {
+    "subject": "company",
+    "predicate": "performed by",
+    "object": "manufacturing",
+    "source_chunk": 19
+  },
+  {
+    "subject": "outsourcing partners",
+    "predicate": "partner location",
+    "object": "china mainland",
+    "source_chunk": 20
+  },
+  {
+    "subject": "outsourcing partners",
+    "predicate": "partner location",
+    "object": "india",
+    "source_chunk": 20
+  },
+  {
+    "subject": "outsourcing partners",
+    "predicate": "partner location",
+    "object": "japan",
+    "source_chunk": 20
+  },
+  {
+    "subject": "outsourcing partners",
+    "predicate": "partner location",
+    "object": "south korea",
+    "source_chunk": 20
+  },
+  {
+    "subject": "outsourcing partners",
+    "predicate": "partner location",
+    "object": "taiwan",
+    "source_chunk": 20
+  },
+  {
+    "subject": "outsourcing partners",
+    "predicate": "partner location",
+    "object": "vietnam",
+    "source_chunk": 20
+  },
+  {
+    "subject": "outsourcing arrangements",
+    "predicate": "can reduce",
+    "object": "lower operating costs",
+    "source_chunk": 20
+  },
+  {
+    "subject": "outsourcing arrangements",
+    "predicate": "can result",
+    "object": "reduced direct control",
+    "source_chunk": 20
+  },
+  {
+    "subject": "arrangements with partners",
+    "predicate": "may contain",
+    "object": "product defect expense reimbursement",
+    "source_chunk": 20
+  },
+  {
+    "subject": "availability and quality",
+    "predicate": "can result",
+    "object": "suffer",
+    "source_chunk": 26
+  },
+  {
+    "subject": "company",
+    "predicate": "supports with",
+    "object": "compelling software applications",
+    "source_chunk": 26
+  },
+  {
+    "subject": "company\u2019s products and operating systems",
+    "predicate": "exposed to",
+    "object": "rapid technological change",
+    "source_chunk": 26
+  },
+  {
+    "subject": "applications",
+    "predicate": "because of",
+    "object": "dissatisfied customers",
+    "source_chunk": 26
+  },
+  {
+    "subject": "applications",
+    "predicate": "because of",
+    "object": "lower customer demand",
+    "source_chunk": 26
+  },
+  {
+    "subject": "company",
+    "predicate": "distributes through",
+    "object": "app store",
+    "source_chunk": 26
+  },
+  {
+    "subject": "developers",
+    "predicate": "maintains",
+    "object": "all of the revenue",
+    "source_chunk": 26
+  },
+  {
+    "subject": "company",
+    "predicate": "retains",
+    "object": "commission",
+    "source_chunk": 26
+  },
+  {
+    "subject": "company",
+    "predicate": "seeks to",
+    "object": "comply with",
+    "source_chunk": 26
+  },
+  {
+    "subject": "business changes",
+    "predicate": "because of",
+    "object": "reduced app store or other sales",
+    "source_chunk": 26
+  },
+  {
+    "subject": "failure to obtain digital content",
+    "predicate": "can result",
+    "object": "material adverse impact",
+    "source_chunk": 27
+  },
+  {
+    "subject": "company",
+    "predicate": "entered into",
+    "object": "numerous third parties",
+    "source_chunk": 27
+  },
+  {
+    "subject": "third-party content providers",
+    "predicate": "may use",
+    "object": "competing products and services",
+    "source_chunk": 27
+  },
+  {
+    "subject": "content owners",
+    "predicate": "seeks to",
+    "object": "limit company\u2019s access",
+    "source_chunk": 27
+  },
+  {
+    "subject": "company",
+    "predicate": "offers",
+    "object": "reasonable prices",
+    "source_chunk": 27
+  },
+  {
+    "subject": "company",
+    "predicate": "because of",
+    "object": "intense and increasing competition",
+    "source_chunk": 27
+  },
+  {
+    "subject": "company",
+    "predicate": "supply",
+    "object": "security solutions",
+    "source_chunk": 27
+  },
+  {
+    "subject": "company\u2019s success",
+    "predicate": "because of",
+    "object": "talents and efforts",
+    "source_chunk": 27
+  },
+  {
+    "subject": "company\u2019s future success",
+    "predicate": "because of",
+    "object": "talents and efforts",
+    "source_chunk": 28
+  },
+  {
+    "subject": "key personnel",
+    "predicate": "includes accounts",
+    "object": "chief executive officer",
+    "source_chunk": 28
+  },
+  {
+    "subject": "company\u2019s key personnel",
+    "predicate": "partner location",
+    "object": "silicon valley",
+    "source_chunk": 28
+  },
+  {
+    "subject": "company\u2019s culture",
+    "predicate": "affect",
+    "object": "recruit and retain employees",
+    "source_chunk": 28
+  },
+  {
+    "subject": "company",
+    "predicate": "because of",
+    "object": "performance",
+    "source_chunk": 28
+  },
+  {
+    "subject": "company",
+    "predicate": "distributes through",
+    "object": "cellular network carriers",
+    "source_chunk": 28
+  },
+  {
+    "subject": "company",
+    "predicate": "believes in",
+    "object": "enhance reseller sales",
+    "source_chunk": 28
+  },
+  {
+    "subject": "selected resellers\u2019 stores",
+    "predicate": "staffing with",
+    "object": "company employees",
+    "source_chunk": 28
+  },
+  {
+    "subject": "programs",
+    "predicate": "require",
+    "object": "substantial investment",
+    "source_chunk": 29
+  },
+  {
+    "subject": "resellers financial condition",
+    "predicate": "can result",
+    "object": "weaken",
+    "source_chunk": 29
+  },
+  {
+    "subject": "uncertainty",
+    "predicate": "can result",
+    "object": "reduce ordering",
+    "source_chunk": 29
+  },
+  {
+    "subject": "company business",
+    "predicate": "because of",
+    "object": "information technology system failures",
+    "source_chunk": 29
+  },
+  {
+    "subject": "company global supply chain",
+    "predicate": "depend on",
+    "object": "complex information technology systems",
+    "source_chunk": 29
+  },
+  {
+    "subject": "failures or disruptions",
+    "predicate": "prevent detection",
+    "object": "interfering with customer transactions",
+    "source_chunk": 29
+  },
+  {
+    "subject": "losses confidential information",
+    "predicate": "exposed to",
+    "object": "reputational financial legal consequences",
+    "source_chunk": 29
+  },
+  {
+    "subject": "security measures",
+    "predicate": "measures",
+    "object": "cannot provide absolute security",
+    "source_chunk": 30
+  },
+  {
+    "subject": "malicious attacks",
+    "predicate": "can result",
+    "object": "disrupt business operations",
+    "source_chunk": 30
+  },
+  {
+    "subject": "company",
+    "predicate": "seeks to",
+    "object": "secure confidential information",
+    "source_chunk": 30
+  },
+  {
+    "subject": "attacks",
+    "predicate": "can result",
+    "object": "impair company's ability",
+    "source_chunk": 30
+  },
+  {
+    "subject": "attacks",
+    "predicate": "can result",
+    "object": "escalate",
+    "source_chunk": 30
+  },
+  {
+    "subject": "company",
+    "predicate": "because of",
+    "object": "high profile",
+    "source_chunk": 30
+  },
+  {
+    "subject": "malicious attacks",
+    "predicate": "attacks",
+    "object": "affect many companies",
+    "source_chunk": 30
+  },
+  {
+    "subject": "tools",
+    "predicate": "techniques",
+    "object": "designed to circumvent controls",
+    "source_chunk": 30
+  },
+  {
+    "subject": "environmental, social and governance considerations",
+    "predicate": "exposed to",
+    "object": "potential liabilities",
+    "source_chunk": 36
+  },
+  {
+    "subject": "environmental, social and governance considerations",
+    "predicate": "exposed to",
+    "object": "increased costs",
+    "source_chunk": 36
+  },
+  {
+    "subject": "environmental, social and governance considerations",
+    "predicate": "exposed to",
+    "object": "reputational harm",
+    "source_chunk": 36
+  },
+  {
+    "subject": "environmental, social and governance considerations",
+    "predicate": "exposed to",
+    "object": "adverse effects",
+    "source_chunk": 36
+  },
+  {
+    "subject": "technology industry",
+    "predicate": "exposed to",
+    "object": "intense scrutiny",
+    "source_chunk": 36
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "increasing regulation",
+    "source_chunk": 36
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "government investigations",
+    "source_chunk": 36
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "legal actions",
+    "source_chunk": 36
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "penalties",
+    "source_chunk": 36
+  },
+  {
+    "subject": "company",
+    "predicate": "implemented plan",
+    "object": "communicate with consumers",
+    "source_chunk": 37
+  },
+  {
+    "subject": "company",
+    "predicate": "seeks to",
+    "object": "comply with dma",
+    "source_chunk": 37
+  },
+  {
+    "subject": "changes to ios, ipados",
+    "predicate": "includes accounts",
+    "object": "new business terms",
+    "source_chunk": 37
+  },
+  {
+    "subject": "dma",
+    "predicate": "provision for",
+    "object": "significant fines",
+    "source_chunk": 37
+  },
+  {
+    "subject": "changes introduced by company in eu",
+    "predicate": "seeks to",
+    "object": "reduce privacy risks",
+    "source_chunk": 37
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "antitrust investigations",
+    "source_chunk": 37
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "civil antitrust lawsuits",
+    "source_chunk": 37
+  },
+  {
+    "subject": "the company",
+    "predicate": "exposed to",
+    "object": "significant fines",
+    "source_chunk": 38
+  },
+  {
+    "subject": "the company",
+    "predicate": "require",
+    "object": "changes to business practices",
+    "source_chunk": 38
+  },
+  {
+    "subject": "the company",
+    "predicate": "has",
+    "object": "commercial relationships",
+    "source_chunk": 38
+  },
+  {
+    "subject": "the company",
+    "predicate": "licenses with",
+    "object": "google llc",
+    "source_chunk": 38
+  },
+  {
+    "subject": "licensing arrangements",
+    "predicate": "exposed to",
+    "object": "government investigations",
+    "source_chunk": 38
+  },
+  {
+    "subject": "the company business",
+    "predicate": "exposed to",
+    "object": "data protection",
+    "source_chunk": 38
+  },
+  {
+    "subject": "the company",
+    "predicate": "exposed to",
+    "object": "federal, state and international laws",
+    "source_chunk": 38
+  },
+  {
+    "subject": "complying with requirements",
+    "predicate": "because of",
+    "object": "incur substantial costs",
+    "source_chunk": 39
+  },
+  {
+    "subject": "noncompliance",
+    "predicate": "because of",
+    "object": "significant penalties or legal liability",
+    "source_chunk": 39
+  },
+  {
+    "subject": "failure to comply",
+    "predicate": "because of",
+    "object": "inquiries or proceedings",
+    "source_chunk": 39
+  },
+  {
+    "subject": "penalties",
+    "predicate": "includes accounts",
+    "object": "ongoing audit requirements",
+    "source_chunk": 39
+  },
+  {
+    "subject": "penalties",
+    "predicate": "includes accounts",
+    "object": "significant legal liability",
+    "source_chunk": 39
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "litigation or government investigations",
+    "source_chunk": 39
+  },
+  {
+    "subject": "company",
+    "predicate": "incur",
+    "object": "significant fees or fines",
+    "source_chunk": 39
+  },
+  {
+    "subject": "company",
+    "predicate": "responsible for",
+    "object": "investigatory expenses",
+    "source_chunk": 39
+  },
+  {
+    "subject": "company",
+    "predicate": "increase",
+    "object": "payment card transaction costs",
+    "source_chunk": 40
+  },
+  {
+    "subject": "company",
+    "predicate": "lose",
+    "object": "ability to process payment cards",
+    "source_chunk": 40
+  },
+  {
+    "subject": "company",
+    "predicate": "fluctuate",
+    "object": "net sales",
+    "source_chunk": 40
+  },
+  {
+    "subject": "company",
+    "predicate": "vary across",
+    "object": "profit margins",
+    "source_chunk": 40
+  },
+  {
+    "subject": "gross margins",
+    "predicate": "because of",
+    "object": "product pricing pressures",
+    "source_chunk": 40
+  },
+  {
+    "subject": "company",
+    "predicate": "experiences",
+    "object": "higher net sales",
+    "source_chunk": 40
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "invested in",
+    "object": "manufacturing process equipment",
+    "source_chunk": 21
+  },
+  {
+    "subject": "prepayments",
+    "predicate": "has",
+    "object": "long-term supply agreements",
+    "source_chunk": 21
+  },
+  {
+    "subject": "arrangements",
+    "predicate": "ensure",
+    "object": "supply of components",
+    "source_chunk": 21
+  },
+  {
+    "subject": "outsourcing partners",
+    "predicate": "experience",
+    "object": "financial problems",
+    "source_chunk": 21
+  },
+  {
+    "subject": "financial problems",
+    "predicate": "be disrupted",
+    "object": "continued supply",
+    "source_chunk": 21
+  },
+  {
+    "subject": "changes",
+    "predicate": "require",
+    "object": "supply chain",
+    "source_chunk": 21
+  },
+  {
+    "subject": "ability",
+    "predicate": "depend on",
+    "object": "operating results",
+    "source_chunk": 21
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "obtains from",
+    "object": "single sources",
+    "source_chunk": 21
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "exposed to",
+    "object": "pricing risks",
+    "source_chunk": 21
+  },
+  {
+    "subject": "high demand",
+    "predicate": "experiences",
+    "object": "global semiconductor industry",
+    "source_chunk": 21
+  },
+  {
+    "subject": "high demand",
+    "predicate": "because of",
+    "object": "supply",
+    "source_chunk": 21
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "entered into",
+    "object": "supply agreements",
+    "source_chunk": 21
+  },
+  {
+    "subject": "component suppliers",
+    "predicate": "exposed to",
+    "object": "poor financial conditions",
+    "source_chunk": 21
+  },
+  {
+    "subject": "financial conditions",
+    "predicate": "because of",
+    "object": "business failure",
+    "source_chunk": 21
+  },
+  {
+    "subject": "new products",
+    "predicate": "using",
+    "object": "custom components",
+    "source_chunk": 21
+  },
+  {
+    "subject": "component shortages",
+    "predicate": "supply",
+    "object": "adversely affect business",
+    "source_chunk": 22
+  },
+  {
+    "subject": "suppliers",
+    "predicate": "decide to",
+    "object": "concentrate on production",
+    "source_chunk": 22
+  },
+  {
+    "subject": "outsourcing partner",
+    "predicate": "has",
+    "object": "delayed shipments",
+    "source_chunk": 22
+  },
+  {
+    "subject": "financial condition",
+    "predicate": "has",
+    "object": "adversely affected",
+    "source_chunk": 22
+  },
+  {
+    "subject": "products and services",
+    "predicate": "because of",
+    "object": "design defects",
+    "source_chunk": 22
+  },
+  {
+    "subject": "products and services",
+    "predicate": "because of",
+    "object": "manufacturing defects",
+    "source_chunk": 22
+  },
+  {
+    "subject": "operating system software",
+    "predicate": "often",
+    "object": "have issues",
+    "source_chunk": 22
+  },
+  {
+    "subject": "component defects",
+    "predicate": "can result",
+    "object": "create risk",
+    "source_chunk": 22
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "product liability claims",
+    "source_chunk": 23
+  },
+  {
+    "subject": "company",
+    "predicate": "incur",
+    "object": "significant warranty",
+    "source_chunk": 23
+  },
+  {
+    "subject": "quality problems",
+    "predicate": "because of",
+    "object": "loss of competitive advantage",
+    "source_chunk": 23
+  },
+  {
+    "subject": "quality problems",
+    "predicate": "because of",
+    "object": "reduced demand",
+    "source_chunk": 23
+  },
+  {
+    "subject": "quality problems",
+    "predicate": "because of",
+    "object": "harm to reputation",
+    "source_chunk": 23
+  },
+  {
+    "subject": "company",
+    "predicate": "records",
+    "object": "write-downs",
+    "source_chunk": 23
+  },
+  {
+    "subject": "company",
+    "predicate": "accrues",
+    "object": "cancellation fee reserves",
+    "source_chunk": 23
+  },
+  {
+    "subject": "company",
+    "predicate": "reviews for",
+    "object": "impairment",
+    "source_chunk": 23
+  },
+  {
+    "subject": "company",
+    "predicate": "records",
+    "object": "write-down",
+    "source_chunk": 24
+  },
+  {
+    "subject": "manufacturing purchase obligations",
+    "predicate": "cover",
+    "object": "150 days",
+    "source_chunk": 24
+  },
+  {
+    "subject": "company",
+    "predicate": "order",
+    "object": "excess components",
+    "source_chunk": 24
+  },
+  {
+    "subject": "company",
+    "predicate": "order",
+    "object": "insufficient components",
+    "source_chunk": 24
+  },
+  {
+    "subject": "company",
+    "predicate": "supports with",
+    "object": "third-party intellectual property",
+    "source_chunk": 24
+  },
+  {
+    "subject": "company products",
+    "predicate": "can result",
+    "object": "infringe patents",
+    "source_chunk": 24
+  },
+  {
+    "subject": "licenses",
+    "predicate": "obtained on",
+    "object": "commercially reasonable terms",
+    "source_chunk": 24
+  },
+  {
+    "subject": "failure",
+    "predicate": "require",
+    "object": "modify products",
+    "source_chunk": 24
+  },
+  {
+    "subject": "failure to obtain intellectual property",
+    "predicate": "require",
+    "object": "modify certain products",
+    "source_chunk": 25
+  },
+  {
+    "subject": "failure to obtain intellectual property",
+    "predicate": "can result",
+    "object": "material adverse impact",
+    "source_chunk": 25
+  },
+  {
+    "subject": "company\u2019s future performance",
+    "predicate": "because of",
+    "object": "support from developers",
+    "source_chunk": 25
+  },
+  {
+    "subject": "customer decisions",
+    "predicate": "depend on",
+    "object": "availability of software",
+    "source_chunk": 25
+  },
+  {
+    "subject": "software availability",
+    "predicate": "because of",
+    "object": "relative benefits",
+    "source_chunk": 25
+  },
+  {
+    "subject": "company",
+    "predicate": "can make",
+    "object": "minority market share",
+    "source_chunk": 25
+  },
+  {
+    "subject": "quality of applications",
+    "predicate": "can result",
+    "object": "suffer",
+    "source_chunk": 25
+  },
+  {
+    "subject": "company",
+    "predicate": "has",
+    "object": "high profile",
+    "source_chunk": 31
+  },
+  {
+    "subject": "company",
+    "predicate": "create",
+    "object": "confidential information",
+    "source_chunk": 31
+  },
+  {
+    "subject": "company",
+    "predicate": "using",
+    "object": "encryption",
+    "source_chunk": 31
+  },
+  {
+    "subject": "company",
+    "predicate": "using",
+    "object": "authentication technologies",
+    "source_chunk": 31
+  },
+  {
+    "subject": "company",
+    "predicate": "deploys",
+    "object": "multifactor authentication",
+    "source_chunk": 31
+  },
+  {
+    "subject": "insurance coverage",
+    "predicate": "address",
+    "object": "data security risks",
+    "source_chunk": 31
+  },
+  {
+    "subject": "company",
+    "predicate": "invested in",
+    "object": "new business strategies",
+    "source_chunk": 31
+  },
+  {
+    "subject": "company",
+    "predicate": "invested in",
+    "object": "acquisitions",
+    "source_chunk": 31
+  },
+  {
+    "subject": "significant risks and uncertainties",
+    "predicate": "representing",
+    "object": "distraction of management",
+    "source_chunk": 32
+  },
+  {
+    "subject": "regulatory approvals",
+    "predicate": "require",
+    "object": "onerous conditions",
+    "source_chunk": 32
+  },
+  {
+    "subject": "risks",
+    "predicate": "are",
+    "object": "new ventures",
+    "source_chunk": 32
+  },
+  {
+    "subject": "failure of investment",
+    "predicate": "affect",
+    "object": "company's business",
+    "source_chunk": 32
+  },
+  {
+    "subject": "numerous risks",
+    "predicate": "exposed to",
+    "object": "retail stores",
+    "source_chunk": 32
+  },
+  {
+    "subject": "company",
+    "predicate": "can make",
+    "object": "manage costs",
+    "source_chunk": 32
+  },
+  {
+    "subject": "unfavorable results",
+    "predicate": "affect",
+    "object": "legal proceedings",
+    "source_chunk": 32
+  },
+  {
+    "subject": "unfavorable results",
+    "predicate": "affect",
+    "object": "government investigations",
+    "source_chunk": 32
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "costs and damages",
+    "source_chunk": 32
+  },
+  {
+    "subject": "indemnification provisions",
+    "predicate": "exposed to",
+    "object": "costs and damages",
+    "source_chunk": 33
+  },
+  {
+    "subject": "company",
+    "predicate": "claims magnitude",
+    "object": "increased",
+    "source_chunk": 33
+  },
+  {
+    "subject": "company",
+    "predicate": "faces",
+    "object": "patent claims",
+    "source_chunk": 33
+  },
+  {
+    "subject": "patent claims",
+    "predicate": "depend on",
+    "object": "cellular-enabled products",
+    "source_chunk": 33
+  },
+  {
+    "subject": "company",
+    "predicate": "defending",
+    "object": "infringement actions",
+    "source_chunk": 33
+  },
+  {
+    "subject": "plaintiffs",
+    "predicate": "seeks to",
+    "object": "substantial damages",
+    "source_chunk": 33
+  },
+  {
+    "subject": "defending litigation",
+    "predicate": "can result",
+    "object": "expensive time-consuming disruptive",
+    "source_chunk": 33
+  },
+  {
+    "subject": "agreements",
+    "predicate": "increase",
+    "object": "cost of sales",
+    "source_chunk": 33
+  },
+  {
+    "subject": "litigation outcome",
+    "predicate": "are",
+    "object": "uncertain",
+    "source_chunk": 33
+  },
+  {
+    "subject": "outcome",
+    "predicate": "because of",
+    "object": "monetary damages",
+    "source_chunk": 33
+  },
+  {
+    "subject": "remedial corporate measures",
+    "predicate": "because of",
+    "object": "significant monetary damages",
+    "source_chunk": 34
+  },
+  {
+    "subject": "the company",
+    "predicate": "require",
+    "object": "change its business practices",
+    "source_chunk": 34
+  },
+  {
+    "subject": "the company",
+    "predicate": "require",
+    "object": "limit the company\u2019s ability",
+    "source_chunk": 34
+  },
+  {
+    "subject": "the company",
+    "predicate": "exposed to",
+    "object": "potential liabilities",
+    "source_chunk": 34
+  },
+  {
+    "subject": "the company",
+    "predicate": "exposed to",
+    "object": "increased costs",
+    "source_chunk": 34
+  },
+  {
+    "subject": "the company",
+    "predicate": "exposed to",
+    "object": "adverse effects",
+    "source_chunk": 34
+  },
+  {
+    "subject": "global operations",
+    "predicate": "exposed to",
+    "object": "complex and changing laws",
+    "source_chunk": 34
+  },
+  {
+    "subject": "compliance",
+    "predicate": "are",
+    "object": "onerous and expensive",
+    "source_chunk": 34
+  },
+  {
+    "subject": "regulatory changes",
+    "predicate": "affect",
+    "object": "business",
+    "source_chunk": 35
+  },
+  {
+    "subject": "apple",
+    "predicate": "exposed to",
+    "object": "changing regulations",
+    "source_chunk": 35
+  },
+  {
+    "subject": "environmental social governance considerations",
+    "predicate": "exposed to",
+    "object": "potential liabilities",
+    "source_chunk": 35
+  },
+  {
+    "subject": "environmental social governance considerations",
+    "predicate": "exposed to",
+    "object": "increased costs",
+    "source_chunk": 35
+  },
+  {
+    "subject": "environmental social governance considerations",
+    "predicate": "exposed to",
+    "object": "reputational harm",
+    "source_chunk": 35
+  },
+  {
+    "subject": "environmental social governance considerations",
+    "predicate": "exposed to",
+    "object": "adverse effects",
+    "source_chunk": 35
+  },
+  {
+    "subject": "company",
+    "predicate": "conform with",
+    "object": "applicable laws regulations",
+    "source_chunk": 35
+  },
+  {
+    "subject": "violated laws",
+    "predicate": "affect",
+    "object": "business reputation",
+    "source_chunk": 35
+  },
+  {
+    "subject": "violated laws",
+    "predicate": "affect",
+    "object": "financial condition",
+    "source_chunk": 35
+  },
+  {
+    "subject": "new product",
+    "predicate": "affect",
+    "object": "seasonal holiday demand",
+    "source_chunk": 41
+  },
+  {
+    "subject": "single product demand",
+    "predicate": "affect",
+    "object": "decline",
+    "source_chunk": 41
+  },
+  {
+    "subject": "decline",
+    "predicate": "affect",
+    "object": "quarterly net sales",
+    "source_chunk": 41
+  },
+  {
+    "subject": "foreign exchange rate",
+    "predicate": "because of",
+    "object": "fluctuations",
+    "source_chunk": 41
+  },
+  {
+    "subject": "currency weakening",
+    "predicate": "leads",
+    "object": "reduce",
+    "source_chunk": 41
+  },
+  {
+    "subject": "company",
+    "predicate": "leads",
+    "object": "international pricing",
+    "source_chunk": 41
+  },
+  {
+    "subject": "currency strengthening",
+    "predicate": "because of",
+    "object": "reduce",
+    "source_chunk": 41
+  },
+  {
+    "subject": "company",
+    "predicate": "because of",
+    "object": "international pricing",
+    "source_chunk": 41
+  },
+  {
+    "subject": "company",
+    "predicate": "using",
+    "object": "hedge",
+    "source_chunk": 41
+  },
+  {
+    "subject": "derivative instruments",
+    "predicate": "hedges",
+    "object": "certain exposures",
+    "source_chunk": 41
+  },
+  {
+    "subject": "hedging activities",
+    "predicate": "limits",
+    "object": "currency derivative instruments",
+    "source_chunk": 42
+  },
+  {
+    "subject": "strengthening of foreign currencies",
+    "predicate": "because of",
+    "object": "gross margins",
+    "source_chunk": 42
+  },
+  {
+    "subject": "company",
+    "predicate": "hedges",
+    "object": "fluctuations in foreign exchange rates",
+    "source_chunk": 42
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "credit risk",
+    "source_chunk": 42
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "fluctuations in values",
+    "source_chunk": 42
+  },
+  {
+    "subject": "company\u2019s investments",
+    "predicate": "because of",
+    "object": "liquidity",
+    "source_chunk": 42
+  },
+  {
+    "subject": "company\u2019s investments",
+    "predicate": "because of",
+    "object": "credit deterioration",
+    "source_chunk": 42
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "trade accounts receivable",
+    "source_chunk": 42
+  },
+  {
+    "subject": "company\u2019s exposure",
+    "predicate": "compared to",
+    "object": "credit and collectibility risk",
+    "source_chunk": 42
+  },
+  {
+    "subject": "credit risk",
+    "predicate": "concentrated within",
+    "object": "cellular network carriers",
+    "source_chunk": 43
+  },
+  {
+    "subject": "trade receivables risk",
+    "predicate": "increase",
+    "object": "certain international markets",
+    "source_chunk": 43
+  },
+  {
+    "subject": "unsecured vendor non-trade receivables",
+    "predicate": "because of",
+    "object": "purchases of components",
+    "source_chunk": 43
+  },
+  {
+    "subject": "prepayments",
+    "predicate": "because of",
+    "object": "long-term supply agreements",
+    "source_chunk": 43
+  },
+  {
+    "subject": "individual vendors",
+    "predicate": "partner location",
+    "object": "asia",
+    "source_chunk": 43
+  },
+  {
+    "subject": "the company",
+    "predicate": "exposed to",
+    "object": "tax rates",
+    "source_chunk": 43
+  },
+  {
+    "subject": "the company",
+    "predicate": "exposed to",
+    "object": "new tax legislation",
+    "source_chunk": 43
+  },
+  {
+    "subject": "the company",
+    "predicate": "subject to taxes",
+    "object": "numerous foreign jurisdictions",
+    "source_chunk": 43
+  },
+  {
+    "subject": "organisation for economic co-operation and development",
+    "predicate": "introducing",
+    "object": "global minimum tax standards",
+    "source_chunk": 43
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "exposed to",
+    "object": "examination of tax returns",
+    "source_chunk": 44
+  },
+  {
+    "subject": "company",
+    "predicate": "can result",
+    "object": "adverse outcome",
+    "source_chunk": 44
+  },
+  {
+    "subject": "company's price",
+    "predicate": "exposed to",
+    "object": "stock",
+    "source_chunk": 44
+  },
+  {
+    "subject": "company's stock",
+    "predicate": "experiences",
+    "object": "price volatility",
+    "source_chunk": 44
+  },
+  {
+    "subject": "stock price",
+    "predicate": "representing",
+    "object": "expectations of future growth",
+    "source_chunk": 44
+  },
+  {
+    "subject": "future dividends",
+    "predicate": "exposed to",
+    "object": "declaration",
+    "source_chunk": 44
+  },
+  {
+    "subject": "share repurchase program",
+    "predicate": "require",
+    "object": "acquire shares",
+    "source_chunk": 44
+  },
+  {
+    "subject": "company's stock price",
+    "predicate": "can result",
+    "object": "decline significantly",
+    "source_chunk": 44
+  },
+  {
+    "subject": "company management",
+    "predicate": "has",
+    "object": "identifying, assessing and managing material risks",
+    "source_chunk": 45
+  },
+  {
+    "subject": "information security team",
+    "predicate": "develops and distributes",
+    "object": "information security policies, standards and procedures",
+    "source_chunk": 45
+  },
+  {
+    "subject": "information security team",
+    "predicate": "executes",
+    "object": "security controls",
+    "source_chunk": 45
+  },
+  {
+    "subject": "information security team",
+    "predicate": "assesses",
+    "object": "security risk and compliance posture",
+    "source_chunk": 45
+  },
+  {
+    "subject": "information security team",
+    "predicate": "monitors and responds",
+    "object": "security events",
+    "source_chunk": 45
+  },
+  {
+    "subject": "information security team",
+    "predicate": "executes",
+    "object": "security testing and assessments",
+    "source_chunk": 45
+  },
+  {
+    "subject": "head of corporate information security",
+    "predicate": "leads since",
+    "object": "2016",
+    "source_chunk": 45
+  },
+  {
+    "subject": "company",
+    "predicate": "entered into",
+    "object": "assess, test or assist",
+    "source_chunk": 45
+  },
+  {
+    "subject": "supplier trust team",
+    "predicate": "maintains",
+    "object": "information security risks",
+    "source_chunk": 45
+  },
+  {
+    "subject": "first quarter 2024",
+    "predicate": "announced in",
+    "object": "macbook pro 14-in",
+    "source_chunk": 51
+  },
+  {
+    "subject": "first quarter 2024",
+    "predicate": "announced in",
+    "object": "macbook pro 16-in",
+    "source_chunk": 51
+  },
+  {
+    "subject": "first quarter 2024",
+    "predicate": "announced in",
+    "object": "imac",
+    "source_chunk": 51
+  },
+  {
+    "subject": "second quarter 2024",
+    "predicate": "announced in",
+    "object": "macbook air 13-in",
+    "source_chunk": 51
+  },
+  {
+    "subject": "second quarter 2024",
+    "predicate": "announced in",
+    "object": "macbook air 15-in",
+    "source_chunk": 51
+  },
+  {
+    "subject": "third quarter 2024",
+    "predicate": "announced in",
+    "object": "ipad air",
+    "source_chunk": 51
+  },
+  {
+    "subject": "third quarter 2024",
+    "predicate": "announced in",
+    "object": "ipad pro",
+    "source_chunk": 51
+  },
+  {
+    "subject": "third quarter 2024",
+    "predicate": "announced in",
+    "object": "ios 18",
+    "source_chunk": 51
+  },
+  {
+    "subject": "third quarter 2024",
+    "predicate": "announced in",
+    "object": "macos sequoia",
+    "source_chunk": 51
+  },
+  {
+    "subject": "third quarter 2024",
+    "predicate": "announced in",
+    "object": "ipados 18",
+    "source_chunk": 51
+  },
+  {
+    "subject": "americas 2024",
+    "predicate": "mac net sales",
+    "object": "167045 million",
+    "source_chunk": 52
+  },
+  {
+    "subject": "americas 2023",
+    "predicate": "mac net sales",
+    "object": "162560 million",
+    "source_chunk": 52
+  },
+  {
+    "subject": "americas 2022",
+    "predicate": "mac net sales",
+    "object": "169658 million",
+    "source_chunk": 52
+  },
+  {
+    "subject": "europe 2024",
+    "predicate": "mac net sales",
+    "object": "101328 million",
+    "source_chunk": 52
+  },
+  {
+    "subject": "europe 2023",
+    "predicate": "mac net sales",
+    "object": "94294 million",
+    "source_chunk": 52
+  },
+  {
+    "subject": "europe 2022",
+    "predicate": "mac net sales",
+    "object": "95118 million",
+    "source_chunk": 52
+  },
+  {
+    "subject": "greater china 2024",
+    "predicate": "mac net sales",
+    "object": "66952 million",
+    "source_chunk": 52
+  },
+  {
+    "subject": "greater china 2023",
+    "predicate": "mac net sales",
+    "object": "72559 million",
+    "source_chunk": 52
+  },
+  {
+    "subject": "greater china 2022",
+    "predicate": "mac net sales",
+    "object": "74200 million",
+    "source_chunk": 52
+  },
+  {
+    "subject": "europe",
+    "predicate": "mac net sales",
+    "object": "101328",
+    "source_chunk": 53
+  },
+  {
+    "subject": "greater china",
+    "predicate": "mac net sales",
+    "object": "66952",
+    "source_chunk": 53
+  },
+  {
+    "subject": "japan",
+    "predicate": "mac net sales",
+    "object": "25052",
+    "source_chunk": 53
+  },
+  {
+    "subject": "rest of asia pacific",
+    "predicate": "mac net sales",
+    "object": "30658",
+    "source_chunk": 53
+  },
+  {
+    "subject": "total net sales",
+    "predicate": "net income",
+    "object": "391035",
+    "source_chunk": 53
+  },
+  {
+    "subject": "iphone",
+    "predicate": "mac net sales",
+    "object": "201183",
+    "source_chunk": 53
+  },
+  {
+    "subject": "mac",
+    "predicate": "mac net sales",
+    "object": "29984",
+    "source_chunk": 53
+  },
+  {
+    "subject": "ipad",
+    "predicate": "mac net sales",
+    "object": "26694",
+    "source_chunk": 53
+  },
+  {
+    "subject": "wearables, home and accessories",
+    "predicate": "mac net sales",
+    "object": "37005",
+    "source_chunk": 53
+  },
+  {
+    "subject": "services",
+    "predicate": "mac net sales",
+    "object": "96169",
+    "source_chunk": 53
+  },
+  {
+    "subject": "mac",
+    "predicate": "mac net sales",
+    "object": "29984",
+    "source_chunk": 54
+  },
+  {
+    "subject": "products",
+    "predicate": "products gross margin",
+    "object": "109633",
+    "source_chunk": 54
+  },
+  {
+    "subject": "services",
+    "predicate": "products gross margin",
+    "object": "71050",
+    "source_chunk": 54
+  },
+  {
+    "subject": "total gross margin",
+    "predicate": "products gross margin",
+    "object": "180683",
+    "source_chunk": 54
+  },
+  {
+    "subject": "research and development",
+    "predicate": "research and development",
+    "object": "31370",
+    "source_chunk": 54
+  },
+  {
+    "subject": "selling, general and administrative",
+    "predicate": "selling general and administrative",
+    "object": "26097",
+    "source_chunk": 54
+  },
+  {
+    "subject": "products",
+    "predicate": "amounted to",
+    "object": "109,633",
+    "source_chunk": 55
+  },
+  {
+    "subject": "services",
+    "predicate": "amounted to",
+    "object": "71,050",
+    "source_chunk": 55
+  },
+  {
+    "subject": "total gross margin",
+    "predicate": "amounted to",
+    "object": "180,683",
+    "source_chunk": 55
+  },
+  {
+    "subject": "products",
+    "predicate": "percentage",
+    "object": "37.2 %",
+    "source_chunk": 55
+  },
+  {
+    "subject": "services",
+    "predicate": "percentage",
+    "object": "73.9 %",
+    "source_chunk": 55
+  },
+  {
+    "subject": "total gross margin",
+    "predicate": "percentage",
+    "object": "46.2 %",
+    "source_chunk": 55
+  },
+  {
+    "subject": "selling, general and administrative",
+    "predicate": "are",
+    "object": "8 %",
+    "source_chunk": 55
+  },
+  {
+    "subject": "selling, general and administrative",
+    "predicate": "amounted to",
+    "object": "26,097",
+    "source_chunk": 55
+  },
+  {
+    "subject": "total operating expenses",
+    "predicate": "amounted to",
+    "object": "57,467",
+    "source_chunk": 55
+  },
+  {
+    "subject": "provision for income taxes",
+    "predicate": "includes accounts",
+    "object": "29749000000",
+    "source_chunk": 56
+  },
+  {
+    "subject": "provision for income taxes",
+    "predicate": "includes accounts",
+    "object": "16741000000",
+    "source_chunk": 56
+  },
+  {
+    "subject": "provision for income taxes",
+    "predicate": "includes accounts",
+    "object": "19300000000",
+    "source_chunk": 56
+  },
+  {
+    "subject": "effective tax rate",
+    "predicate": "includes accounts",
+    "object": "24.1",
+    "source_chunk": 56
+  },
+  {
+    "subject": "effective tax rate",
+    "predicate": "includes accounts",
+    "object": "14.7",
+    "source_chunk": 56
+  },
+  {
+    "subject": "effective tax rate",
+    "predicate": "includes accounts",
+    "object": "16.2",
+    "source_chunk": 56
+  },
+  {
+    "subject": "statutory federal income tax rate",
+    "predicate": "includes accounts",
+    "object": "21",
+    "source_chunk": 56
+  },
+  {
+    "subject": "unrestricted cash",
+    "predicate": "amounted to",
+    "object": "140800000000",
+    "source_chunk": 56
+  },
+  {
+    "subject": "company",
+    "predicate": "has",
+    "object": "97300000000",
+    "source_chunk": 56
+  },
+  {
+    "subject": "company",
+    "predicate": "has",
+    "object": "10000000000",
+    "source_chunk": 56
+  },
+  {
+    "subject": "company",
+    "predicate": "has",
+    "object": "15600000000",
+    "source_chunk": 56
+  },
+  {
+    "subject": "company",
+    "predicate": "there were",
+    "object": "$15.6 billion",
+    "source_chunk": 57
+  },
+  {
+    "subject": "leases",
+    "predicate": "obligation date",
+    "object": "september 28, 2024",
+    "source_chunk": 57
+  },
+  {
+    "subject": "12 months",
+    "predicate": "payable to",
+    "object": "$2.0 billion",
+    "source_chunk": 57
+  },
+  {
+    "subject": "company",
+    "predicate": "there were",
+    "object": "$53.0 billion",
+    "source_chunk": 57
+  },
+  {
+    "subject": "manufacturing purchase",
+    "predicate": "obligation date",
+    "object": "september 28, 2024",
+    "source_chunk": 57
+  },
+  {
+    "subject": "12 months",
+    "predicate": "payable to",
+    "object": "$52.9 billion",
+    "source_chunk": 57
+  },
+  {
+    "subject": "company",
+    "predicate": "there were",
+    "object": "$12.0 billion",
+    "source_chunk": 57
+  },
+  {
+    "subject": "other purchase",
+    "predicate": "obligation date",
+    "object": "september 28, 2024",
+    "source_chunk": 57
+  },
+  {
+    "subject": "12 months",
+    "predicate": "payable to",
+    "object": "$4.1 billion",
+    "source_chunk": 57
+  },
+  {
+    "subject": "deemed repatriation tax",
+    "predicate": "was",
+    "object": "$16.5 billion",
+    "source_chunk": 57
+  },
+  {
+    "subject": "deemed repatriation tax",
+    "predicate": "balance date",
+    "object": "september 28, 2024",
+    "source_chunk": 57
+  },
+  {
+    "subject": "tax rate",
+    "predicate": "effective rate",
+    "object": "24.1 %",
+    "source_chunk": 58
+  },
+  {
+    "subject": "tax rate",
+    "predicate": "effective rate",
+    "object": "14.7 %",
+    "source_chunk": 58
+  },
+  {
+    "subject": "tax rate",
+    "predicate": "effective rate",
+    "object": "16.2 %",
+    "source_chunk": 58
+  },
+  {
+    "subject": "income tax rate",
+    "predicate": "statutory federal",
+    "object": "21 %",
+    "source_chunk": 58
+  },
+  {
+    "subject": "company",
+    "predicate": "pay",
+    "object": "\u20ac14.2 billion",
+    "source_chunk": 59
+  },
+  {
+    "subject": "\u20ac14.2 billion",
+    "predicate": "compared to",
+    "object": "$15.8 billion",
+    "source_chunk": 59
+  },
+  {
+    "subject": "state aid decision tax",
+    "predicate": "payable to",
+    "object": "ireland",
+    "source_chunk": 59
+  },
+  {
+    "subject": "obligation funds",
+    "predicate": "held in",
+    "object": "september 28, 2024",
+    "source_chunk": 59
+  },
+  {
+    "subject": "company\u2019s quarterly cash dividend",
+    "predicate": "was",
+    "object": "$0.25",
+    "source_chunk": 59
+  },
+  {
+    "subject": "company",
+    "predicate": "repurchased",
+    "object": "$110 billion",
+    "source_chunk": 59
+  },
+  {
+    "subject": "quarterly dividend",
+    "predicate": "increase",
+    "object": "$0.24",
+    "source_chunk": 59
+  },
+  {
+    "subject": "company",
+    "predicate": "repurchased",
+    "object": "$95.0 billion",
+    "source_chunk": 59
+  },
+  {
+    "subject": "company",
+    "predicate": "pay",
+    "object": "$15.2 billion",
+    "source_chunk": 59
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "income taxes",
+    "source_chunk": 60
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "us",
+    "source_chunk": 60
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "numerous foreign jurisdictions",
+    "source_chunk": 60
+  },
+  {
+    "subject": "financial statements",
+    "predicate": "conform with",
+    "object": "us gaap",
+    "source_chunk": 60
+  },
+  {
+    "subject": "company",
+    "predicate": "using",
+    "object": "retrospective transition method",
+    "source_chunk": 60
+  },
+  {
+    "subject": "company",
+    "predicate": "adopt",
+    "object": "asu 2023-07",
+    "source_chunk": 60
+  },
+  {
+    "subject": "company",
+    "predicate": "relating to",
+    "object": "fourth quarter of 2025",
+    "source_chunk": 60
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "legal proceedings and claims",
+    "source_chunk": 60
+  },
+  {
+    "subject": "audit committee",
+    "predicate": "assists oversight",
+    "object": "cybersecurity matters",
+    "source_chunk": 46
+  },
+  {
+    "subject": "audit committee",
+    "predicate": "reviews for",
+    "object": "cybersecurity risks",
+    "source_chunk": 46
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "headquartered",
+    "object": "cupertino, california",
+    "source_chunk": 46
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "has",
+    "object": "september 28, 2024",
+    "source_chunk": 46
+  },
+  {
+    "subject": "commission",
+    "predicate": "investigations under",
+    "object": "digital markets act",
+    "source_chunk": 46
+  },
+  {
+    "subject": "commission",
+    "predicate": "announced in",
+    "object": "march 25, 2024",
+    "source_chunk": 46
+  },
+  {
+    "subject": "investigations",
+    "predicate": "concerns",
+    "object": "article 5(4) of the dma",
+    "source_chunk": 46
+  },
+  {
+    "subject": "commission",
+    "predicate": "announced in",
+    "object": "june 24, 2024",
+    "source_chunk": 46
+  },
+  {
+    "subject": "company",
+    "predicate": "violate",
+    "object": "app store rules",
+    "source_chunk": 46
+  },
+  {
+    "subject": "commission",
+    "predicate": "fines up to",
+    "object": "10% of annual worldwide net sales",
+    "source_chunk": 46
+  },
+  {
+    "subject": "commission",
+    "predicate": "fines up to",
+    "object": "up to 10% of company\u2019s annual worldwide net sales",
+    "source_chunk": 47
+  },
+  {
+    "subject": "company",
+    "predicate": "conform with",
+    "object": "dma",
+    "source_chunk": 47
+  },
+  {
+    "subject": "u.s. department of justice",
+    "predicate": "filed motion",
+    "object": "march 21, 2024",
+    "source_chunk": 47
+  },
+  {
+    "subject": "doj",
+    "predicate": "alleging",
+    "object": "monopolization or attempted monopolization",
+    "source_chunk": 47
+  },
+  {
+    "subject": "monopolization",
+    "predicate": "markets for",
+    "object": "performance smartphones",
+    "source_chunk": 47
+  },
+  {
+    "subject": "monopolization",
+    "predicate": "markets for",
+    "object": "smartphones",
+    "source_chunk": 47
+  },
+  {
+    "subject": "doj",
+    "predicate": "seeks to",
+    "object": "equitable relief",
+    "source_chunk": 47
+  },
+  {
+    "subject": "epic",
+    "predicate": "violate",
+    "object": "federal and state antitrust laws",
+    "source_chunk": 47
+  },
+  {
+    "subject": "app store review guidelines",
+    "predicate": "violate",
+    "object": "unfair competition law",
+    "source_chunk": 47
+  },
+  {
+    "subject": "company",
+    "predicate": "implemented plan",
+    "object": "january 16, 2024",
+    "source_chunk": 47
+  },
+  {
+    "subject": "company",
+    "predicate": "filed motion",
+    "object": "california district court",
+    "source_chunk": 48
+  },
+  {
+    "subject": "company",
+    "predicate": "filed motion",
+    "object": "september 30, 2024",
+    "source_chunk": 48
+  },
+  {
+    "subject": "company",
+    "predicate": "narrow or vacate",
+    "object": "injunction",
+    "source_chunk": 48
+  },
+  {
+    "subject": "company",
+    "predicate": "settled matters",
+    "object": "fourth quarter of 2024",
+    "source_chunk": 48
+  },
+  {
+    "subject": "company\u2019s common stock",
+    "predicate": "exchange listed on",
+    "object": "the nasdaq stock market llc",
+    "source_chunk": 48
+  },
+  {
+    "subject": "23,301",
+    "predicate": "shareholders of record",
+    "object": "october 18, 2024",
+    "source_chunk": 48
+  },
+  {
+    "subject": "three months",
+    "predicate": "ends",
+    "object": "september 28, 2024",
+    "source_chunk": 48
+  },
+  {
+    "subject": "35,697",
+    "predicate": "declared per",
+    "object": "$ 224.11",
+    "source_chunk": 48
+  },
+  {
+    "subject": "42,910",
+    "predicate": "declared per",
+    "object": "$ 221.39",
+    "source_chunk": 48
+  },
+  {
+    "subject": "33,653",
+    "predicate": "declared per",
+    "object": "$ 222.86",
+    "source_chunk": 48
+  },
+  {
+    "subject": "june 30, 2024",
+    "predicate": "received",
+    "object": "35697",
+    "source_chunk": 49
+  },
+  {
+    "subject": "june 30, 2024",
+    "predicate": "pay",
+    "object": "224.11",
+    "source_chunk": 49
+  },
+  {
+    "subject": "august 4, 2024",
+    "predicate": "received",
+    "object": "42910",
+    "source_chunk": 49
+  },
+  {
+    "subject": "august 4, 2024",
+    "predicate": "pay",
+    "object": "221.39",
+    "source_chunk": 49
+  },
+  {
+    "subject": "september 1, 2024",
+    "predicate": "received",
+    "object": "33653",
+    "source_chunk": 49
+  },
+  {
+    "subject": "september 1, 2024",
+    "predicate": "pay",
+    "object": "222.86",
+    "source_chunk": 49
+  },
+  {
+    "subject": "shares",
+    "predicate": "amounted to",
+    "object": "112260",
+    "source_chunk": 49
+  },
+  {
+    "subject": "dollars",
+    "predicate": "amounted to",
+    "object": "89074",
+    "source_chunk": 49
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "approved",
+    "object": "110 billion",
+    "source_chunk": 49
+  },
+  {
+    "subject": "share repurchase program",
+    "predicate": "announced in",
+    "object": "may 2, 2024",
+    "source_chunk": 49
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "using",
+    "object": "20.9 billion",
+    "source_chunk": 49
+  },
+  {
+    "subject": "2024",
+    "predicate": "through",
+    "object": "fourth quarter",
+    "source_chunk": 49
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "using",
+    "object": "4.1 billion",
+    "source_chunk": 49
+  },
+  {
+    "subject": "previous repurchase program",
+    "predicate": "approved",
+    "object": "may 2023",
+    "source_chunk": 49
+  },
+  {
+    "subject": "open market and privately negotiated purchases",
+    "predicate": "average price",
+    "object": "224.11",
+    "source_chunk": 50
+  },
+  {
+    "subject": "august 4, 2024 to august 31, 2024",
+    "predicate": "purchased in",
+    "object": "42910",
+    "source_chunk": 50
+  },
+  {
+    "subject": "open market and privately negotiated purchases",
+    "predicate": "average price",
+    "object": "221.39",
+    "source_chunk": 50
+  },
+  {
+    "subject": "september 1, 2024 to september 28, 2024",
+    "predicate": "purchased in",
+    "object": "33653",
+    "source_chunk": 50
+  },
+  {
+    "subject": "open market and privately negotiated purchases",
+    "predicate": "average price",
+    "object": "222.86",
+    "source_chunk": 50
+  },
+  {
+    "subject": "total",
+    "predicate": "total shares",
+    "object": "112260",
+    "source_chunk": 50
+  },
+  {
+    "subject": "total",
+    "predicate": "amounted to",
+    "object": "89074",
+    "source_chunk": 50
+  },
+  {
+    "subject": "apple inc. september 2024",
+    "predicate": "value of",
+    "object": "430",
+    "source_chunk": 50
+  },
+  {
+    "subject": "s&p 500 index september 2024",
+    "predicate": "value of",
+    "object": "210",
+    "source_chunk": 50
+  },
+  {
+    "subject": "dow jones u.s. technology supersector index september 2024",
+    "predicate": "value of",
+    "object": "322",
+    "source_chunk": 50
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "interest rates",
+    "source_chunk": 61
+  },
+  {
+    "subject": "company",
+    "predicate": "exposed to",
+    "object": "foreign exchange rates",
+    "source_chunk": 61
+  },
+  {
+    "subject": "investment portfolio",
+    "predicate": "amounted to",
+    "object": "decline in fair value $ 2,755",
+    "source_chunk": 61
+  },
+  {
+    "subject": "investment portfolio",
+    "predicate": "amounted to",
+    "object": "decline in fair value $ 3,089",
+    "source_chunk": 61
+  },
+  {
+    "subject": "term debt",
+    "predicate": "amounted to",
+    "object": "increase in annual interest expense $ 139",
+    "source_chunk": 61
+  },
+  {
+    "subject": "term debt",
+    "predicate": "amounted to",
+    "object": "increase in annual interest expense $ 194",
+    "source_chunk": 61
+  },
+  {
+    "subject": "company",
+    "predicate": "are",
+    "object": "net receiver",
+    "source_chunk": 61
+  },
+  {
+    "subject": "changes in exchange rates",
+    "predicate": "because of",
+    "object": "strengthening of the u.s. dollar",
+    "source_chunk": 61
+  },
+  {
+    "subject": "company",
+    "predicate": "may use",
+    "object": "derivative instruments",
+    "source_chunk": 62
+  },
+  {
+    "subject": "company",
+    "predicate": "may use",
+    "object": "offset exposures",
+    "source_chunk": 62
+  },
+  {
+    "subject": "company",
+    "predicate": "may use",
+    "object": "adjust local currency pricing",
+    "source_chunk": 62
+  },
+  {
+    "subject": "company",
+    "predicate": "using",
+    "object": "value-at-risk model",
+    "source_chunk": 62
+  },
+  {
+    "subject": "var model",
+    "predicate": "using",
+    "object": "monte carlo simulation",
+    "source_chunk": 62
+  },
+  {
+    "subject": "company",
+    "predicate": "expects",
+    "object": "95% confidence",
+    "source_chunk": 62
+  },
+  {
+    "subject": "company",
+    "predicate": "maximum one-day loss",
+    "object": "$538 million",
+    "source_chunk": 62
+  },
+  {
+    "subject": "$538 million",
+    "predicate": "as of",
+    "object": "september 28, 2024",
+    "source_chunk": 62
+  },
+  {
+    "subject": "company",
+    "predicate": "maximum one-day loss",
+    "object": "$669 million",
+    "source_chunk": 62
+  },
+  {
+    "subject": "$669 million",
+    "predicate": "as of",
+    "object": "september 30, 2023",
+    "source_chunk": 62
+  },
+  {
+    "subject": "term debt",
+    "predicate": "affect",
+    "object": "100 basis points",
+    "source_chunk": 63
+  },
+  {
+    "subject": "annual interest expense",
+    "predicate": "because of",
+    "object": "$139",
+    "source_chunk": 63
+  },
+  {
+    "subject": "annual interest expense",
+    "predicate": "because of",
+    "object": "$194",
+    "source_chunk": 63
+  },
+  {
+    "subject": "consolidated statements of operations",
+    "predicate": "cover",
+    "object": "september 28, 2024",
+    "source_chunk": 63
+  },
+  {
+    "subject": "consolidated statements of operations",
+    "predicate": "cover",
+    "object": "september 30, 2023",
+    "source_chunk": 63
+  },
+  {
+    "subject": "consolidated statements of operations",
+    "predicate": "cover",
+    "object": "september 24, 2022",
+    "source_chunk": 63
+  },
+  {
+    "subject": "consolidated statements of comprehensive income",
+    "predicate": "cover",
+    "object": "september 28, 2024",
+    "source_chunk": 63
+  },
+  {
+    "subject": "consolidated statements of comprehensive income",
+    "predicate": "cover",
+    "object": "september 30, 2023",
+    "source_chunk": 63
+  },
+  {
+    "subject": "apple inc. (september 28, 2024)",
+    "predicate": "report",
+    "object": "294866 million",
+    "source_chunk": 64
+  },
+  {
+    "subject": "apple inc. (september 28, 2024)",
+    "predicate": "report",
+    "object": "96169 million",
+    "source_chunk": 64
+  },
+  {
+    "subject": "apple inc. (september 28, 2024)",
+    "predicate": "reports total",
+    "object": "391035 million",
+    "source_chunk": 64
+  },
+  {
+    "subject": "apple inc. (september 28, 2024)",
+    "predicate": "reports gross",
+    "object": "180683 million",
+    "source_chunk": 64
+  },
+  {
+    "subject": "apple inc. (september 28, 2024)",
+    "predicate": "research and development",
+    "object": "31370 million",
+    "source_chunk": 64
+  },
+  {
+    "subject": "apple inc. (september 28, 2024)",
+    "predicate": "reports operating",
+    "object": "123216 million",
+    "source_chunk": 64
+  },
+  {
+    "subject": "apple inc. (september 28, 2024)",
+    "predicate": "reports net",
+    "object": "93736 million",
+    "source_chunk": 64
+  },
+  {
+    "subject": "apple inc. (september 28, 2024)",
+    "predicate": "reports basic",
+    "object": "6.11",
+    "source_chunk": 64
+  },
+  {
+    "subject": "apple inc. (september 28, 2024)",
+    "predicate": "effect of dilutive",
+    "object": "6.08",
+    "source_chunk": 64
+  },
+  {
+    "subject": "apple inc. september 28 2024",
+    "predicate": "reports net",
+    "object": "93,736",
+    "source_chunk": 65
+  },
+  {
+    "subject": "apple inc. september 30 2023",
+    "predicate": "reports net",
+    "object": "96,995",
+    "source_chunk": 65
+  },
+  {
+    "subject": "apple inc. september 24 2022",
+    "predicate": "reports net",
+    "object": "99,803",
+    "source_chunk": 65
+  },
+  {
+    "subject": "apple inc. foreign currency translation 2024",
+    "predicate": "reports change",
+    "object": "395",
+    "source_chunk": 65
+  },
+  {
+    "subject": "apple inc. foreign currency translation 2023",
+    "predicate": "reports change",
+    "object": "-765",
+    "source_chunk": 65
+  },
+  {
+    "subject": "apple inc. foreign currency translation 2022",
+    "predicate": "reports change",
+    "object": "-1,511",
+    "source_chunk": 65
+  },
+  {
+    "subject": "apple inc. fair value 2024",
+    "predicate": "reports change",
+    "object": "-832",
+    "source_chunk": 65
+  },
+  {
+    "subject": "apple inc. fair value 2023",
+    "predicate": "reports change",
+    "object": "323",
+    "source_chunk": 65
+  },
+  {
+    "subject": "apple inc. fair value 2022",
+    "predicate": "reports change",
+    "object": "3,212",
+    "source_chunk": 65
+  },
+  {
+    "subject": "apple inc. comprehensive income 2024",
+    "predicate": "reports total",
+    "object": "98,016",
+    "source_chunk": 65
+  },
+  {
+    "subject": "subsidiaries",
+    "predicate": "includes accounts",
+    "object": "apple inc.",
+    "source_chunk": 71
+  },
+  {
+    "subject": "gaap",
+    "predicate": "using",
+    "object": "management estimates",
+    "source_chunk": 71
+  },
+  {
+    "subject": "fiscal year",
+    "predicate": "ends",
+    "object": "last saturday of september",
+    "source_chunk": 71
+  },
+  {
+    "subject": "fiscal year 2024",
+    "predicate": "spanned",
+    "object": "52",
+    "source_chunk": 71
+  },
+  {
+    "subject": "fiscal year 2022",
+    "predicate": "spanned",
+    "object": "52",
+    "source_chunk": 71
+  },
+  {
+    "subject": "fiscal year 2023",
+    "predicate": "spanned",
+    "object": "53",
+    "source_chunk": 71
+  },
+  {
+    "subject": "company",
+    "predicate": "recognizes revenue",
+    "object": "straight-line basis",
+    "source_chunk": 71
+  },
+  {
+    "subject": "the company",
+    "predicate": "records",
+    "object": "deferred tax assets and liabilities",
+    "source_chunk": 72
+  },
+  {
+    "subject": "certain foreign earnings",
+    "predicate": "because of",
+    "object": "minimum tax",
+    "source_chunk": 72
+  },
+  {
+    "subject": "the company",
+    "predicate": "comprise",
+    "object": "lease and nonlease components",
+    "source_chunk": 72
+  },
+  {
+    "subject": "lease and nonlease components",
+    "predicate": "amounted to",
+    "object": "single lease component",
+    "source_chunk": 72
+  },
+  {
+    "subject": "lease",
+    "predicate": "applies to",
+    "object": "corporate data center retail facilities",
+    "source_chunk": 72
+  },
+  {
+    "subject": "the company",
+    "predicate": "recognizes revenue",
+    "object": "revenue",
+    "source_chunk": 72
+  },
+  {
+    "subject": "revenue",
+    "predicate": "at",
+    "object": "amount",
+    "source_chunk": 72
+  },
+  {
+    "subject": "customers",
+    "predicate": "transferred to",
+    "object": "products or services",
+    "source_chunk": 72
+  },
+  {
+    "subject": "apple inc.",
+    "predicate": "includes accounts",
+    "object": "iphone",
+    "source_chunk": 73
+  },
+  {
+    "subject": "apple inc.",
+    "predicate": "includes accounts",
+    "object": "mac",
+    "source_chunk": 73
+  },
+  {
+    "subject": "apple inc.",
+    "predicate": "includes accounts",
+    "object": "ipad",
+    "source_chunk": 73
+  },
+  {
+    "subject": "first material performance obligation",
+    "predicate": "are",
+    "object": "hardware and bundled software",
+    "source_chunk": 73
+  },
+  {
+    "subject": "second material performance obligation",
+    "predicate": "are",
+    "object": "right to receive certain product-related bundled services",
+    "source_chunk": 73
+  },
+  {
+    "subject": "product-related bundled services",
+    "predicate": "includes accounts",
+    "object": "icloud",
+    "source_chunk": 73
+  },
+  {
+    "subject": "product-related bundled services",
+    "predicate": "includes accounts",
+    "object": "siri",
+    "source_chunk": 73
+  },
+  {
+    "subject": "product-related bundled services",
+    "predicate": "includes accounts",
+    "object": "maps",
+    "source_chunk": 73
+  },
+  {
+    "subject": "apple inc.",
+    "predicate": "recognizes revenue",
+    "object": "gross amount billed to customers",
+    "source_chunk": 73
+  },
+  {
+    "subject": "iphone",
+    "predicate": "mac net sales",
+    "object": "201,183 million",
+    "source_chunk": 74
+  },
+  {
+    "subject": "mac",
+    "predicate": "mac net sales",
+    "object": "29,984 million",
+    "source_chunk": 74
+  },
+  {
+    "subject": "ipad",
+    "predicate": "mac net sales",
+    "object": "26,694 million",
+    "source_chunk": 74
+  },
+  {
+    "subject": "wearables, home and accessories",
+    "predicate": "mac net sales",
+    "object": "37,005 million",
+    "source_chunk": 74
+  },
+  {
+    "subject": "services",
+    "predicate": "mac net sales",
+    "object": "96,169 million",
+    "source_chunk": 74
+  },
+  {
+    "subject": "2024",
+    "predicate": "net income",
+    "object": "391,035 million",
+    "source_chunk": 74
+  },
+  {
+    "subject": "2023",
+    "predicate": "net income",
+    "object": "383,285 million",
+    "source_chunk": 74
+  },
+  {
+    "subject": "2022",
+    "predicate": "net income",
+    "object": "394,328 million",
+    "source_chunk": 74
+  },
+  {
+    "subject": "2024",
+    "predicate": "recognizes revenue",
+    "object": "7.7 billion",
+    "source_chunk": 74
+  },
+  {
+    "subject": "revenue",
+    "predicate": "deferred revenue",
+    "object": "september 30, 2023",
+    "source_chunk": 74
+  },
+  {
+    "subject": "mac",
+    "predicate": "sales of",
+    "object": "29984",
+    "source_chunk": 75
+  },
+  {
+    "subject": "ipad",
+    "predicate": "sales of",
+    "object": "26694",
+    "source_chunk": 75
+  },
+  {
+    "subject": "wearables, home and accessories",
+    "predicate": "sales of",
+    "object": "37005",
+    "source_chunk": 75
+  },
+  {
+    "subject": "services",
+    "predicate": "sales of",
+    "object": "96169",
+    "source_chunk": 75
+  },
+  {
+    "subject": "sales",
+    "predicate": "net income",
+    "object": "391035",
+    "source_chunk": 75
+  },
+  {
+    "subject": "apple inc. 2024",
+    "predicate": "cash equivalents",
+    "object": "29,943",
+    "source_chunk": 66
+  },
+  {
+    "subject": "apple inc. 2023",
+    "predicate": "cash equivalents",
+    "object": "29,965",
+    "source_chunk": 66
+  },
+  {
+    "subject": "apple inc. 2024",
+    "predicate": "marketable securities",
+    "object": "35,228",
+    "source_chunk": 66
+  },
+  {
+    "subject": "apple inc. 2023",
+    "predicate": "marketable securities",
+    "object": "31,590",
+    "source_chunk": 66
+  },
+  {
+    "subject": "apple inc. 2024",
+    "predicate": "accounts receivable",
+    "object": "33,410",
+    "source_chunk": 66
+  },
+  {
+    "subject": "apple inc. 2023",
+    "predicate": "accounts receivable",
+    "object": "29,508",
+    "source_chunk": 66
+  },
+  {
+    "subject": "apple inc. 2024",
+    "predicate": "inventories value",
+    "object": "7,286",
+    "source_chunk": 66
+  },
+  {
+    "subject": "apple inc. 2023",
+    "predicate": "inventories value",
+    "object": "6,331",
+    "source_chunk": 66
+  },
+  {
+    "subject": "apple inc. 2024",
+    "predicate": "total current assets",
+    "object": "152,987",
+    "source_chunk": 66
+  },
+  {
+    "subject": "apple inc. 2023",
+    "predicate": "total current assets",
+    "object": "143,566",
+    "source_chunk": 66
+  },
+  {
+    "subject": "cash",
+    "predicate": "cash equivalents",
+    "object": "29,943",
+    "source_chunk": 67
+  },
+  {
+    "subject": "marketable securities",
+    "predicate": "amounted to",
+    "object": "35,228",
+    "source_chunk": 67
+  },
+  {
+    "subject": "accounts receivable",
+    "predicate": "amounted to",
+    "object": "33,410",
+    "source_chunk": 67
+  },
+  {
+    "subject": "inventories",
+    "predicate": "representing",
+    "object": "7,286",
+    "source_chunk": 67
+  },
+  {
+    "subject": "total current assets",
+    "predicate": "amounted to",
+    "object": "152,987",
+    "source_chunk": 67
+  },
+  {
+    "subject": "marketable securities",
+    "predicate": "amounted to",
+    "object": "91,479",
+    "source_chunk": 67
+  },
+  {
+    "subject": "property plant equipment",
+    "predicate": "amounted to",
+    "object": "45,680",
+    "source_chunk": 67
+  },
+  {
+    "subject": "accounts payable",
+    "predicate": "amounted to",
+    "object": "68,960",
+    "source_chunk": 67
+  },
+  {
+    "subject": "other current liabilities",
+    "predicate": "representing",
+    "object": "78,304",
+    "source_chunk": 67
+  },
+  {
+    "subject": "total shareholders equity",
+    "predicate": "commence between",
+    "object": "62146 million",
+    "source_chunk": 68
+  },
+  {
+    "subject": "total shareholders equity",
+    "predicate": "ends",
+    "object": "56950 million",
+    "source_chunk": 68
+  },
+  {
+    "subject": "net income",
+    "predicate": "report",
+    "object": "93736 million",
+    "source_chunk": 68
+  },
+  {
+    "subject": "dividends",
+    "predicate": "dividends declared",
+    "object": "15218 million",
+    "source_chunk": 68
+  },
+  {
+    "subject": "dividends",
+    "predicate": "declared per",
+    "object": "0.98",
+    "source_chunk": 68
+  },
+  {
+    "subject": "common stock",
+    "predicate": "commence between",
+    "object": "73812 million",
+    "source_chunk": 68
+  },
+  {
+    "subject": "common stock",
+    "predicate": "ends",
+    "object": "83276 million",
+    "source_chunk": 68
+  },
+  {
+    "subject": "other comprehensive income",
+    "predicate": "report",
+    "object": "4280 million",
+    "source_chunk": 68
+  },
+  {
+    "subject": "accumulated other comprehensive loss",
+    "predicate": "ends",
+    "object": "7172 million",
+    "source_chunk": 68
+  },
+  {
+    "subject": "common stock",
+    "predicate": "ending balance",
+    "object": "83,276",
+    "source_chunk": 69
+  },
+  {
+    "subject": "retained earnings",
+    "predicate": "ending balance",
+    "object": "(19,154)",
+    "source_chunk": 69
+  },
+  {
+    "subject": "accumulated other comprehensive income",
+    "predicate": "ending balance",
+    "object": "(7,172)",
+    "source_chunk": 69
+  },
+  {
+    "subject": "total shareholders\u2019 equity",
+    "predicate": "ending balance",
+    "object": "56,950",
+    "source_chunk": 69
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "net income",
+    "object": "93,736",
+    "source_chunk": 69
+  },
+  {
+    "subject": "per share",
+    "predicate": "dividends declared",
+    "object": "0.98",
+    "source_chunk": 69
+  },
+  {
+    "subject": "common stock",
+    "predicate": "repurchased",
+    "object": "(95,846)",
+    "source_chunk": 69
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "reports net",
+    "object": "93,736",
+    "source_chunk": 70
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "reports depreciation",
+    "object": "11,445",
+    "source_chunk": 70
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "reports share-based",
+    "object": "11,688",
+    "source_chunk": 70
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "generated from operating",
+    "object": "118,254",
+    "source_chunk": 70
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "marketable securities",
+    "object": "(48,656)",
+    "source_chunk": 70
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "repurchased",
+    "object": "(94,949)",
+    "source_chunk": 70
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "dividends declared",
+    "object": "(15,234)",
+    "source_chunk": 70
+  },
+  {
+    "subject": "cash",
+    "predicate": "ending balance",
+    "object": "29,943",
+    "source_chunk": 70
+  },
+  {
+    "subject": "company deferred revenue 2024",
+    "predicate": "has",
+    "object": "12.8 billion",
+    "source_chunk": 76
+  },
+  {
+    "subject": "company deferred revenue 2023",
+    "predicate": "has",
+    "object": "12.1 billion",
+    "source_chunk": 76
+  },
+  {
+    "subject": "company deferred revenue 2024",
+    "predicate": "expects",
+    "object": "64%",
+    "source_chunk": 76
+  },
+  {
+    "subject": "net income 2024",
+    "predicate": "net income",
+    "object": "93,736",
+    "source_chunk": 76
+  },
+  {
+    "subject": "net income 2023",
+    "predicate": "net income",
+    "object": "96,995",
+    "source_chunk": 76
+  },
+  {
+    "subject": "net income 2022",
+    "predicate": "net income",
+    "object": "99,803",
+    "source_chunk": 76
+  },
+  {
+    "subject": "basic earnings per share 2024",
+    "predicate": "basic eps",
+    "object": "6.11",
+    "source_chunk": 76
+  },
+  {
+    "subject": "basic earnings per share 2023",
+    "predicate": "basic eps",
+    "object": "6.16",
+    "source_chunk": 76
+  },
+  {
+    "subject": "basic earnings per share 2022",
+    "predicate": "basic eps",
+    "object": "6.15",
+    "source_chunk": 76
+  },
+  {
+    "subject": "non-u.s. government securities",
+    "predicate": "value of",
+    "object": "17,959",
+    "source_chunk": 77
+  },
+  {
+    "subject": "certificates of deposit",
+    "predicate": "value of",
+    "object": "873",
+    "source_chunk": 77
+  },
+  {
+    "subject": "commercial paper",
+    "predicate": "value of",
+    "object": "1,066",
+    "source_chunk": 77
+  },
+  {
+    "subject": "corporate debt securities",
+    "predicate": "value of",
+    "object": "65,622",
+    "source_chunk": 77
+  },
+  {
+    "subject": "municipal securities",
+    "predicate": "value of",
+    "object": "412",
+    "source_chunk": 77
+  },
+  {
+    "subject": "mortgage- and asset-backed securities",
+    "predicate": "value of",
+    "object": "24,595",
+    "source_chunk": 77
+  },
+  {
+    "subject": "securities",
+    "predicate": "subtotal for",
+    "object": "132,108",
+    "source_chunk": 77
+  },
+  {
+    "subject": "securities",
+    "predicate": "reports total",
+    "object": "160,600",
+    "source_chunk": 77
+  },
+  {
+    "subject": "aapl",
+    "predicate": "net income",
+    "object": "93,736",
+    "source_chunk": 78
+  },
+  {
+    "subject": "aapl",
+    "predicate": "net income",
+    "object": "96,995",
+    "source_chunk": 78
+  },
+  {
+    "subject": "aapl",
+    "predicate": "net income",
+    "object": "99,803",
+    "source_chunk": 78
+  },
+  {
+    "subject": "aapl",
+    "predicate": "weighted average diluted shares",
+    "object": "15,343,783",
+    "source_chunk": 78
+  },
+  {
+    "subject": "aapl",
+    "predicate": "weighted average diluted shares",
+    "object": "15,744,231",
+    "source_chunk": 78
+  },
+  {
+    "subject": "aapl",
+    "predicate": "weighted average diluted shares",
+    "object": "16,215,963",
+    "source_chunk": 78
+  },
+  {
+    "subject": "share-based awards",
+    "predicate": "effect of dilutive",
+    "object": "64,312",
+    "source_chunk": 78
+  },
+  {
+    "subject": "share-based awards",
+    "predicate": "effect of dilutive",
+    "object": "68,316",
+    "source_chunk": 78
+  },
+  {
+    "subject": "share-based awards",
+    "predicate": "effect of dilutive",
+    "object": "109,856",
+    "source_chunk": 78
+  },
+  {
+    "subject": "aapl",
+    "predicate": "weighted average diluted shares",
+    "object": "15,408,095",
+    "source_chunk": 78
+  },
+  {
+    "subject": "aapl",
+    "predicate": "weighted average diluted shares",
+    "object": "15,812,547",
+    "source_chunk": 78
+  },
+  {
+    "subject": "aapl",
+    "predicate": "weighted average diluted shares",
+    "object": "16,325,819",
+    "source_chunk": 78
+  },
+  {
+    "subject": "aapl",
+    "predicate": "basic eps",
+    "object": "6.11",
+    "source_chunk": 78
+  },
+  {
+    "subject": "aapl",
+    "predicate": "basic eps",
+    "object": "6.16",
+    "source_chunk": 78
+  },
+  {
+    "subject": "aapl",
+    "predicate": "basic eps",
+    "object": "6.15",
+    "source_chunk": 78
+  },
+  {
+    "subject": "aapl",
+    "predicate": "diluted earnings per share",
+    "object": "6.08",
+    "source_chunk": 78
+  },
+  {
+    "subject": "aapl",
+    "predicate": "diluted earnings per share",
+    "object": "6.13",
+    "source_chunk": 78
+  },
+  {
+    "subject": "aapl",
+    "predicate": "diluted earnings per share",
+    "object": "6.11",
+    "source_chunk": 78
+  },
+  {
+    "subject": "level 1",
+    "predicate": "money market funds",
+    "object": "778",
+    "source_chunk": 78
+  },
+  {
+    "subject": "level 1",
+    "predicate": "mutual funds",
+    "object": "515",
+    "source_chunk": 78
+  },
+  {
+    "subject": "level 1",
+    "predicate": "subtotal for",
+    "object": "1,293",
+    "source_chunk": 78
+  },
+  {
+    "subject": "level 2",
+    "predicate": "u.s. treasury",
+    "object": "16,150",
+    "source_chunk": 78
+  },
+  {
+    "subject": "level 2",
+    "predicate": "us agency securities",
+    "object": "5,431",
+    "source_chunk": 78
+  },
+  {
+    "subject": "level 2",
+    "predicate": "non-us government securities",
+    "object": "17,959",
+    "source_chunk": 78
+  },
+  {
+    "subject": "level 2",
+    "predicate": "certificates of deposit",
+    "object": "873",
+    "source_chunk": 78
+  },
+  {
+    "subject": "level 2",
+    "predicate": "commercial paper",
+    "object": "1,066",
+    "source_chunk": 78
+  },
+  {
+    "subject": "level 2",
+    "predicate": "corporate debt securities",
+    "object": "65,622",
+    "source_chunk": 78
+  },
+  {
+    "subject": "level 2",
+    "predicate": "municipal securities",
+    "object": "412",
+    "source_chunk": 78
+  },
+  {
+    "subject": "level 2",
+    "predicate": "mortgage- and asset-backed securities",
+    "object": "24,595",
+    "source_chunk": 78
+  },
+  {
+    "subject": "level 2",
+    "predicate": "subtotal for",
+    "object": "132,108",
+    "source_chunk": 78
+  },
+  {
+    "subject": "level 2",
+    "predicate": "amounted to",
+    "object": "160,600",
+    "source_chunk": 78
+  },
+  {
+    "subject": "cash",
+    "predicate": "cash",
+    "object": "28359",
+    "source_chunk": 79
+  },
+  {
+    "subject": "level 1",
+    "predicate": "money market funds",
+    "object": "481",
+    "source_chunk": 79
+  },
+  {
+    "subject": "level 1",
+    "predicate": "mutual funds",
+    "object": "428",
+    "source_chunk": 79
+  },
+  {
+    "subject": "level 2",
+    "predicate": "u.s. treasury",
+    "object": "18114",
+    "source_chunk": 79
+  },
+  {
+    "subject": "level 2",
+    "predicate": "non-u.s. government",
+    "object": "5136",
+    "source_chunk": 79
+  },
+  {
+    "subject": "level 2",
+    "predicate": "non-u.s. government",
+    "object": "16491",
+    "source_chunk": 79
+  },
+  {
+    "subject": "level 2",
+    "predicate": "certificates of deposit",
+    "object": "1354",
+    "source_chunk": 79
+  },
+  {
+    "subject": "level 2",
+    "predicate": "commercial paper",
+    "object": "608",
+    "source_chunk": 79
+  },
+  {
+    "subject": "level 2",
+    "predicate": "corporate debt securities",
+    "object": "70890",
+    "source_chunk": 79
+  },
+  {
+    "subject": "level 2",
+    "predicate": "municipal securities",
+    "object": "602",
+    "source_chunk": 79
+  },
+  {
+    "subject": "non-current mortgage- and asset-backed securities",
+    "predicate": "has",
+    "object": "14%",
+    "source_chunk": 80
+  },
+  {
+    "subject": "non-current mortgage- and asset-backed securities",
+    "predicate": "maturity greater",
+    "object": "1 and 5 years",
+    "source_chunk": 80
+  },
+  {
+    "subject": "non-current mortgage- and asset-backed securities",
+    "predicate": "has",
+    "object": "9%",
+    "source_chunk": 80
+  },
+  {
+    "subject": "non-current mortgage- and asset-backed securities",
+    "predicate": "maturity greater",
+    "object": "5 and 10 years",
+    "source_chunk": 80
+  },
+  {
+    "subject": "non-current mortgage- and asset-backed securities",
+    "predicate": "compared to",
+    "object": "77%",
+    "source_chunk": 80
+  },
+  {
+    "subject": "non-current mortgage- and asset-backed securities",
+    "predicate": "maturity greater",
+    "object": "10 years",
+    "source_chunk": 80
+  },
+  {
+    "subject": "marketable debt securities",
+    "predicate": "classified as",
+    "object": "available-for-sale",
+    "source_chunk": 80
+  },
+  {
+    "subject": "derivative instruments",
+    "predicate": "using",
+    "object": "offset exposure",
+    "source_chunk": 80
+  },
+  {
+    "subject": "business",
+    "predicate": "exposed to",
+    "object": "foreign exchange",
+    "source_chunk": 80
+  },
+  {
+    "subject": "business",
+    "predicate": "exposed to",
+    "object": "interest rate risk",
+    "source_chunk": 80
+  },
+  {
+    "subject": "money market funds",
+    "predicate": "invested in",
+    "object": "481",
+    "source_chunk": 81
+  },
+  {
+    "subject": "mutual funds and equity securities",
+    "predicate": "invested in",
+    "object": "428",
+    "source_chunk": 81
+  },
+  {
+    "subject": "u.s. treasury securities",
+    "predicate": "invested in",
+    "object": "18114",
+    "source_chunk": 81
+  },
+  {
+    "subject": "u.s. agency securities",
+    "predicate": "invested in",
+    "object": "5136",
+    "source_chunk": 81
+  },
+  {
+    "subject": "non-u.s. government securities",
+    "predicate": "invested in",
+    "object": "16491",
+    "source_chunk": 81
+  },
+  {
+    "subject": "certificates of deposit and time deposits",
+    "predicate": "invested in",
+    "object": "1354",
+    "source_chunk": 81
+  },
+  {
+    "subject": "commercial paper",
+    "predicate": "invested in",
+    "object": "608",
+    "source_chunk": 81
+  },
+  {
+    "subject": "corporate debt securities",
+    "predicate": "invested in",
+    "object": "70890",
+    "source_chunk": 81
+  },
+  {
+    "subject": "municipal securities",
+    "predicate": "invested in",
+    "object": "602",
+    "source_chunk": 81
+  },
+  {
+    "subject": "company",
+    "predicate": "classified as",
+    "object": "cash flow hedge",
+    "source_chunk": 82
+  },
+  {
+    "subject": "company",
+    "predicate": "classified as",
+    "object": "fair value hedge",
+    "source_chunk": 82
+  },
+  {
+    "subject": "company",
+    "predicate": "hedges",
+    "object": "18 years",
+    "source_chunk": 82
+  },
+  {
+    "subject": "maximum length",
+    "predicate": "because of",
+    "object": "september 28, 2024",
+    "source_chunk": 82
+  },
+  {
+    "subject": "foreign exchange contracts",
+    "predicate": "amount for",
+    "object": "$64,069 million",
+    "source_chunk": 82
+  },
+  {
+    "subject": "foreign exchange contracts",
+    "predicate": "amount for",
+    "object": "$74,730 million",
+    "source_chunk": 82
+  },
+  {
+    "subject": "interest rate contracts",
+    "predicate": "amount for",
+    "object": "$14,575 million",
+    "source_chunk": 82
+  },
+  {
+    "subject": "interest rate contracts",
+    "predicate": "amount for",
+    "object": "$19,375 million",
+    "source_chunk": 82
+  },
+  {
+    "subject": "foreign exchange contracts",
+    "predicate": "amount for",
+    "object": "$91,493 million",
+    "source_chunk": 82
+  },
+  {
+    "subject": "foreign exchange contracts",
+    "predicate": "amount for",
+    "object": "$104,777 million",
+    "source_chunk": 82
+  },
+  {
+    "subject": "company",
+    "predicate": "has",
+    "object": "non-trade receivables",
+    "source_chunk": 83
+  },
+  {
+    "subject": "company",
+    "predicate": "classified as",
+    "object": "reduction of products cost of sales",
+    "source_chunk": 83
+  },
+  {
+    "subject": "date",
+    "predicate": "ends",
+    "object": "september 28, 2024",
+    "source_chunk": 83
+  },
+  {
+    "subject": "company",
+    "predicate": "has",
+    "object": "2",
+    "source_chunk": 83
+  },
+  {
+    "subject": "vendors",
+    "predicate": "representing",
+    "object": "10% or more",
+    "source_chunk": 83
+  },
+  {
+    "subject": "vendor",
+    "predicate": "accounted for",
+    "object": "44%",
+    "source_chunk": 83
+  },
+  {
+    "subject": "vendor",
+    "predicate": "accounted for",
+    "object": "23%",
+    "source_chunk": 83
+  },
+  {
+    "subject": "date",
+    "predicate": "ends",
+    "object": "september 30, 2023",
+    "source_chunk": 83
+  },
+  {
+    "subject": "foreign exchange contracts",
+    "predicate": "received",
+    "object": "64069",
+    "source_chunk": 84
+  },
+  {
+    "subject": "foreign exchange contracts",
+    "predicate": "received",
+    "object": "74730",
+    "source_chunk": 84
+  },
+  {
+    "subject": "interest rate contracts",
+    "predicate": "received",
+    "object": "14575",
+    "source_chunk": 84
+  },
+  {
+    "subject": "interest rate contracts",
+    "predicate": "received",
+    "object": "19375",
+    "source_chunk": 84
+  },
+  {
+    "subject": "foreign exchange contracts",
+    "predicate": "received",
+    "object": "91493",
+    "source_chunk": 84
+  },
+  {
+    "subject": "foreign exchange contracts",
+    "predicate": "received",
+    "object": "104777",
+    "source_chunk": 84
+  },
+  {
+    "subject": "current and non-current marketable securities",
+    "predicate": "received",
+    "object": "14433",
+    "source_chunk": 84
+  },
+  {
+    "subject": "current and non-current term debt",
+    "predicate": "received",
+    "object": "(13505)",
+    "source_chunk": 84
+  },
+  {
+    "subject": "current and non-current term debt",
+    "predicate": "received",
+    "object": "(18247)",
+    "source_chunk": 84
+  },
+  {
+    "subject": "land and buildings 2024",
+    "predicate": "land buildings",
+    "object": "24690",
+    "source_chunk": 85
+  },
+  {
+    "subject": "land and buildings 2023",
+    "predicate": "land buildings",
+    "object": "23446",
+    "source_chunk": 85
+  },
+  {
+    "subject": "machinery, equipment and internal-use software 2024",
+    "predicate": "value of",
+    "object": "80205",
+    "source_chunk": 85
+  },
+  {
+    "subject": "machinery, equipment and internal-use software 2023",
+    "predicate": "value of",
+    "object": "78314",
+    "source_chunk": 85
+  },
+  {
+    "subject": "leasehold improvements 2024",
+    "predicate": "value of",
+    "object": "14233",
+    "source_chunk": 85
+  },
+  {
+    "subject": "leasehold improvements 2023",
+    "predicate": "value of",
+    "object": "12839",
+    "source_chunk": 85
+  },
+  {
+    "subject": "gross property, plant and equipment 2024",
+    "predicate": "value of",
+    "object": "119128",
+    "source_chunk": 85
+  },
+  {
+    "subject": "gross property, plant and equipment 2023",
+    "predicate": "value of",
+    "object": "114599",
+    "source_chunk": 85
+  },
+  {
+    "subject": "accumulated depreciation 2024",
+    "predicate": "accumulated depreciation",
+    "object": "73448",
+    "source_chunk": 85
+  },
+  {
+    "subject": "accumulated depreciation 2023",
+    "predicate": "accumulated depreciation",
+    "object": "70884",
+    "source_chunk": 85
+  },
+  {
+    "subject": "total property, plant and equipment",
+    "predicate": "net value",
+    "object": "45680",
+    "source_chunk": 85
+  },
+  {
+    "subject": "total property, plant and equipment 2023",
+    "predicate": "net value",
+    "object": "43715",
+    "source_chunk": 85
+  },
+  {
+    "subject": "recovery amount",
+    "predicate": "adjusted recovery",
+    "object": "\u20ac12.7 billion",
+    "source_chunk": 86
+  },
+  {
+    "subject": "recovery amount",
+    "predicate": "includes interest",
+    "object": "\u20ac1.2 billion",
+    "source_chunk": 86
+  },
+  {
+    "subject": "escrow",
+    "predicate": "as of",
+    "object": "september 28, 2024",
+    "source_chunk": 86
+  },
+  {
+    "subject": "escrow",
+    "predicate": "total balance",
+    "object": "\u20ac14.2 billion",
+    "source_chunk": 86
+  },
+  {
+    "subject": "escrow",
+    "predicate": "total balance",
+    "object": "$15.8 billion",
+    "source_chunk": 86
+  },
+  {
+    "subject": "cash and cash equivalents",
+    "predicate": "classified as",
+    "object": "$2.6 billion",
+    "source_chunk": 86
+  },
+  {
+    "subject": "current marketable securities",
+    "predicate": "classified as",
+    "object": "$13.2 billion",
+    "source_chunk": 86
+  },
+  {
+    "subject": "machinery, equipment and internal-use software",
+    "predicate": "amounted to",
+    "object": "80205",
+    "source_chunk": 87
+  },
+  {
+    "subject": "machinery, equipment and internal-use software",
+    "predicate": "prior amount",
+    "object": "78314",
+    "source_chunk": 87
+  },
+  {
+    "subject": "leasehold improvements",
+    "predicate": "amounted to",
+    "object": "14233",
+    "source_chunk": 87
+  },
+  {
+    "subject": "leasehold improvements",
+    "predicate": "prior amount",
+    "object": "12839",
+    "source_chunk": 87
+  },
+  {
+    "subject": "gross property, plant and equipment",
+    "predicate": "amounted to",
+    "object": "119128",
+    "source_chunk": 87
+  },
+  {
+    "subject": "gross property, plant and equipment",
+    "predicate": "prior amount",
+    "object": "114599",
+    "source_chunk": 87
+  },
+  {
+    "subject": "accumulated depreciation",
+    "predicate": "amounted to",
+    "object": "73448",
+    "source_chunk": 87
+  },
+  {
+    "subject": "accumulated depreciation",
+    "predicate": "prior amount",
+    "object": "70884",
+    "source_chunk": 87
+  },
+  {
+    "subject": "total property, plant and equipment, net",
+    "predicate": "amounted to",
+    "object": "45680",
+    "source_chunk": 87
+  },
+  {
+    "subject": "total property, plant and equipment, net",
+    "predicate": "prior amount",
+    "object": "43715",
+    "source_chunk": 87
+  },
+  {
+    "subject": "total other current liabilities",
+    "predicate": "amounted to",
+    "object": "78,304",
+    "source_chunk": 88
+  },
+  {
+    "subject": "total other current liabilities",
+    "predicate": "compared to",
+    "object": "58,829",
+    "source_chunk": 88
+  },
+  {
+    "subject": "total other non-current liabilities",
+    "predicate": "amounted to",
+    "object": "45,888",
+    "source_chunk": 88
+  },
+  {
+    "subject": "total other non-current liabilities",
+    "predicate": "compared to",
+    "object": "49,848",
+    "source_chunk": 88
+  },
+  {
+    "subject": "company",
+    "predicate": "recorded charge",
+    "object": "10.2 billion",
+    "source_chunk": 88
+  },
+  {
+    "subject": "income taxes 2024",
+    "predicate": "was",
+    "object": "29,749 million",
+    "source_chunk": 88
+  },
+  {
+    "subject": "income taxes 2023",
+    "predicate": "was",
+    "object": "16,741 million",
+    "source_chunk": 88
+  },
+  {
+    "subject": "income taxes 2022",
+    "predicate": "was",
+    "object": "19,300 million",
+    "source_chunk": 88
+  },
+  {
+    "subject": "foreign pretax earnings 2024",
+    "predicate": "amounted to",
+    "object": "77.3 billion",
+    "source_chunk": 88
+  },
+  {
+    "subject": "tax rate 2024",
+    "predicate": "effective rate",
+    "object": "24.1 %",
+    "source_chunk": 88
+  },
+  {
+    "subject": "current income taxes",
+    "predicate": "total current assets",
+    "object": "5,571",
+    "source_chunk": 89
+  },
+  {
+    "subject": "current income taxes",
+    "predicate": "deferred revenue",
+    "object": "(3,080)",
+    "source_chunk": 89
+  },
+  {
+    "subject": "current income taxes",
+    "predicate": "amounted to",
+    "object": "2,491",
+    "source_chunk": 89
+  },
+  {
+    "subject": "state income taxes",
+    "predicate": "total current assets",
+    "object": "1,726",
+    "source_chunk": 89
+  },
+  {
+    "subject": "state income taxes",
+    "predicate": "deferred revenue",
+    "object": "(298)",
+    "source_chunk": 89
+  },
+  {
+    "subject": "state income taxes",
+    "predicate": "amounted to",
+    "object": "1,428",
+    "source_chunk": 89
+  },
+  {
+    "subject": "foreign income taxes",
+    "predicate": "total current assets",
+    "object": "25,483",
+    "source_chunk": 89
+  },
+  {
+    "subject": "foreign income taxes",
+    "predicate": "deferred revenue",
+    "object": "347",
+    "source_chunk": 89
+  },
+  {
+    "subject": "foreign income taxes",
+    "predicate": "amounted to",
+    "object": "25,830",
+    "source_chunk": 89
+  },
+  {
+    "subject": "income taxes",
+    "predicate": "provision for",
+    "object": "29,749",
+    "source_chunk": 89
+  },
+  {
+    "subject": "rate",
+    "predicate": "effective rate",
+    "object": "24.1",
+    "source_chunk": 89
+  },
+  {
+    "subject": "state aid decision",
+    "predicate": "because of",
+    "object": "10,246",
+    "source_chunk": 89
+  },
+  {
+    "subject": "foreign subsidiaries",
+    "predicate": "earnings of",
+    "object": "(5,311)",
+    "source_chunk": 89
+  },
+  {
+    "subject": "development credit",
+    "predicate": "research and development",
+    "object": "(1,397)",
+    "source_chunk": 89
+  },
+  {
+    "subject": "benefits from equity awards",
+    "predicate": "excess tax",
+    "object": "(893)",
+    "source_chunk": 89
+  },
+  {
+    "subject": "capitalized research and development 2024",
+    "predicate": "amounted to",
+    "object": "10739",
+    "source_chunk": 90
+  },
+  {
+    "subject": "capitalized research and development 2023",
+    "predicate": "amounted to",
+    "object": "6294",
+    "source_chunk": 90
+  },
+  {
+    "subject": "tax credit carryforwards 2024",
+    "predicate": "amounted to",
+    "object": "8856",
+    "source_chunk": 90
+  },
+  {
+    "subject": "tax credit carryforwards 2023",
+    "predicate": "amounted to",
+    "object": "8302",
+    "source_chunk": 90
+  },
+  {
+    "subject": "total deferred tax assets 2024",
+    "predicate": "amounted to",
+    "object": "34873",
+    "source_chunk": 90
+  },
+  {
+    "subject": "total deferred tax assets 2023",
+    "predicate": "amounted to",
+    "object": "32743",
+    "source_chunk": 90
+  },
+  {
+    "subject": "valuation allowance 2024",
+    "predicate": "amounted to",
+    "object": "8866",
+    "source_chunk": 90
+  },
+  {
+    "subject": "valuation allowance 2023",
+    "predicate": "amounted to",
+    "object": "8374",
+    "source_chunk": 90
+  },
+  {
+    "subject": "total deferred tax assets, net 2024",
+    "predicate": "amounted to",
+    "object": "26007",
+    "source_chunk": 90
+  },
+  {
+    "subject": "total deferred tax assets, net 2023",
+    "predicate": "amounted to",
+    "object": "24369",
+    "source_chunk": 90
+  },
+  {
+    "subject": "company commercial paper",
+    "predicate": "has",
+    "object": "10.0 billion",
+    "source_chunk": 96
+  },
+  {
+    "subject": "company commercial paper",
+    "predicate": "has",
+    "object": "6.0 billion",
+    "source_chunk": 96
+  },
+  {
+    "subject": "commercial paper",
+    "predicate": "maturity greater",
+    "object": "less than nine months",
+    "source_chunk": 96
+  },
+  {
+    "subject": "commercial paper interest rate",
+    "predicate": "was",
+    "object": "5.00%",
+    "source_chunk": 96
+  },
+  {
+    "subject": "commercial paper interest rate",
+    "predicate": "was",
+    "object": "5.28%",
+    "source_chunk": 96
+  },
+  {
+    "subject": "commercial paper",
+    "predicate": "net income",
+    "object": "3,960 million",
+    "source_chunk": 96
+  },
+  {
+    "subject": "total term debt principal",
+    "predicate": "amounted to",
+    "object": "97,341 million",
+    "source_chunk": 96
+  },
+  {
+    "subject": "total term debt principal",
+    "predicate": "amounted to",
+    "object": "106,572 million",
+    "source_chunk": 96
+  },
+  {
+    "subject": "interest rate swaps",
+    "predicate": "convert to",
+    "object": "floating interest rates",
+    "source_chunk": 97
+  },
+  {
+    "subject": "cross-currency swaps",
+    "predicate": "convert to",
+    "object": "u.s. dollar-denominated notes",
+    "source_chunk": 97
+  },
+  {
+    "subject": "2025",
+    "predicate": "principal payments",
+    "object": "10930",
+    "source_chunk": 97
+  },
+  {
+    "subject": "2026",
+    "predicate": "principal payments",
+    "object": "12342",
+    "source_chunk": 97
+  },
+  {
+    "subject": "2027",
+    "predicate": "principal payments",
+    "object": "9936",
+    "source_chunk": 97
+  },
+  {
+    "subject": "2028",
+    "predicate": "principal payments",
+    "object": "7800",
+    "source_chunk": 97
+  },
+  {
+    "subject": "2029",
+    "predicate": "principal payments",
+    "object": "5153",
+    "source_chunk": 97
+  },
+  {
+    "subject": "thereafter",
+    "predicate": "principal payments",
+    "object": "51180",
+    "source_chunk": 97
+  },
+  {
+    "subject": "apple",
+    "predicate": "total term debt",
+    "object": "97341",
+    "source_chunk": 97
+  },
+  {
+    "subject": "proceeds from commercial paper, net",
+    "predicate": "equals",
+    "object": "3,960",
+    "source_chunk": 98
+  },
+  {
+    "subject": "repayments of commercial paper, net",
+    "predicate": "equals",
+    "object": "-1,333",
+    "source_chunk": 98
+  },
+  {
+    "subject": "proceeds from commercial paper, net",
+    "predicate": "equals",
+    "object": "5,264",
+    "source_chunk": 98
+  },
+  {
+    "subject": "total proceeds from commercial paper, net",
+    "predicate": "equals",
+    "object": "3,960",
+    "source_chunk": 98
+  },
+  {
+    "subject": "total repayments of commercial paper, net",
+    "predicate": "equals",
+    "object": "-3,978",
+    "source_chunk": 98
+  },
+  {
+    "subject": "total proceeds from commercial paper, net",
+    "predicate": "equals",
+    "object": "3,955",
+    "source_chunk": 98
+  },
+  {
+    "subject": "fixed-rate notes",
+    "predicate": "equals",
+    "object": "97,341",
+    "source_chunk": 98
+  },
+  {
+    "subject": "fixed-rate notes",
+    "predicate": "maturity greater",
+    "object": "2024 \u2013 2062",
+    "source_chunk": 98
+  },
+  {
+    "subject": "fixed-rate notes",
+    "predicate": "equals",
+    "object": "106,572",
+    "source_chunk": 98
+  },
+  {
+    "subject": "total non-current portion of term debt",
+    "predicate": "equals",
+    "object": "85,750",
+    "source_chunk": 98
+  },
+  {
+    "subject": "total non-current portion of term debt",
+    "predicate": "equals",
+    "object": "95,281",
+    "source_chunk": 98
+  },
+  {
+    "subject": "term debt principal",
+    "predicate": "equals",
+    "object": "10,930",
+    "source_chunk": 98
+  },
+  {
+    "subject": "term debt principal",
+    "predicate": "equals",
+    "object": "12,342",
+    "source_chunk": 98
+  },
+  {
+    "subject": "term debt principal",
+    "predicate": "equals",
+    "object": "9,936",
+    "source_chunk": 98
+  },
+  {
+    "subject": "term debt principal",
+    "predicate": "equals",
+    "object": "7,800",
+    "source_chunk": 98
+  },
+  {
+    "subject": "term debt principal",
+    "predicate": "equals",
+    "object": "5,153",
+    "source_chunk": 98
+  },
+  {
+    "subject": "term debt principal",
+    "predicate": "equals",
+    "object": "51,180",
+    "source_chunk": 98
+  },
+  {
+    "subject": "total term debt principal",
+    "predicate": "equals",
+    "object": "97,341",
+    "source_chunk": 98
+  },
+  {
+    "subject": "notes fair value 2024",
+    "predicate": "was",
+    "object": "$88.4 billion",
+    "source_chunk": 99
+  },
+  {
+    "subject": "notes fair value 2023",
+    "predicate": "was",
+    "object": "$90.8 billion",
+    "source_chunk": 99
+  },
+  {
+    "subject": "company shares 2024",
+    "predicate": "repurchased",
+    "object": "499 million",
+    "source_chunk": 99
+  },
+  {
+    "subject": "company repurchase 2024",
+    "predicate": "for",
+    "object": "$95.0 billion",
+    "source_chunk": 99
+  },
+  {
+    "subject": "common stock beginning balance 2024",
+    "predicate": "was",
+    "object": "15,550,061",
+    "source_chunk": 99
+  },
+  {
+    "subject": "common stock repurchased 2024",
+    "predicate": "was",
+    "object": "(499,372)",
+    "source_chunk": 99
+  },
+  {
+    "subject": "common stock ending balance 2024",
+    "predicate": "are",
+    "object": "15,116,786",
+    "source_chunk": 99
+  },
+  {
+    "subject": "2022 plan shares",
+    "predicate": "approved",
+    "object": "1.3 billion",
+    "source_chunk": 99
+  },
+  {
+    "subject": "2022 plan",
+    "predicate": "approved",
+    "object": "march 4, 2022",
+    "source_chunk": 99
+  },
+  {
+    "subject": "common stock",
+    "predicate": "repurchased",
+    "object": "-499372",
+    "source_chunk": 100
+  },
+  {
+    "subject": "common stock",
+    "predicate": "repurchased",
+    "object": "-471419",
+    "source_chunk": 100
+  },
+  {
+    "subject": "common stock",
+    "predicate": "repurchased",
+    "object": "-568589",
+    "source_chunk": 100
+  },
+  {
+    "subject": "common stock",
+    "predicate": "issued net",
+    "object": "66097",
+    "source_chunk": 100
+  },
+  {
+    "subject": "common stock",
+    "predicate": "issued net",
+    "object": "78055",
+    "source_chunk": 100
+  },
+  {
+    "subject": "common stock",
+    "predicate": "issued net",
+    "object": "85228",
+    "source_chunk": 100
+  },
+  {
+    "subject": "common stock outstanding",
+    "predicate": "total balance",
+    "object": "15116786",
+    "source_chunk": 100
+  },
+  {
+    "subject": "common stock outstanding",
+    "predicate": "total balance",
+    "object": "15550061",
+    "source_chunk": 100
+  },
+  {
+    "subject": "common stock outstanding",
+    "predicate": "total balance",
+    "object": "15943425",
+    "source_chunk": 100
+  },
+  {
+    "subject": "company",
+    "predicate": "ending balance",
+    "object": "22,038",
+    "source_chunk": 91
+  },
+  {
+    "subject": "company",
+    "predicate": "ending balance",
+    "object": "19,454",
+    "source_chunk": 91
+  },
+  {
+    "subject": "company",
+    "predicate": "ending balance",
+    "object": "16,758",
+    "source_chunk": 91
+  },
+  {
+    "subject": "company",
+    "predicate": "files returns",
+    "object": "u.s. federal jurisdiction",
+    "source_chunk": 91
+  },
+  {
+    "subject": "company",
+    "predicate": "files returns",
+    "object": "many state and foreign jurisdictions",
+    "source_chunk": 91
+  },
+  {
+    "subject": "u.s. federal jurisdiction",
+    "predicate": "exposed to",
+    "object": "tax years after 2017",
+    "source_chunk": 91
+  },
+  {
+    "subject": "major foreign jurisdictions",
+    "predicate": "exposed to",
+    "object": "tax years after 2014",
+    "source_chunk": 91
+  },
+  {
+    "subject": "tax benefits",
+    "predicate": "gross unrecognized",
+    "object": "decrease between approximately $5 billion and $13 billion",
+    "source_chunk": 91
+  },
+  {
+    "subject": "research and development",
+    "predicate": "capitalized",
+    "object": "10739",
+    "source_chunk": 92
+  },
+  {
+    "subject": "research and development",
+    "predicate": "capitalized",
+    "object": "6294",
+    "source_chunk": 92
+  },
+  {
+    "subject": "tax credit carryforwards",
+    "predicate": "amounted to",
+    "object": "8856",
+    "source_chunk": 92
+  },
+  {
+    "subject": "tax credit carryforwards",
+    "predicate": "amounted to",
+    "object": "8302",
+    "source_chunk": 92
+  },
+  {
+    "subject": "accrued liabilities",
+    "predicate": "amounted to",
+    "object": "6114",
+    "source_chunk": 92
+  },
+  {
+    "subject": "accrued liabilities",
+    "predicate": "amounted to",
+    "object": "6365",
+    "source_chunk": 92
+  },
+  {
+    "subject": "deferred revenue",
+    "predicate": "amounted to",
+    "object": "3413",
+    "source_chunk": 92
+  },
+  {
+    "subject": "deferred revenue",
+    "predicate": "amounted to",
+    "object": "4571",
+    "source_chunk": 92
+  },
+  {
+    "subject": "tax positions",
+    "predicate": "total balance",
+    "object": "22038",
+    "source_chunk": 92
+  },
+  {
+    "subject": "fixed payments operating leases",
+    "predicate": "had costs",
+    "object": "2.0 billion",
+    "source_chunk": 93
+  },
+  {
+    "subject": "fixed payments operating leases",
+    "predicate": "had costs",
+    "object": "1.9 billion",
+    "source_chunk": 93
+  },
+  {
+    "subject": "variable payments leases",
+    "predicate": "had costs",
+    "object": "13.8 billion",
+    "source_chunk": 93
+  },
+  {
+    "subject": "variable payments leases",
+    "predicate": "had costs",
+    "object": "13.9 billion",
+    "source_chunk": 93
+  },
+  {
+    "subject": "variable payments leases",
+    "predicate": "had costs",
+    "object": "14.9 billion",
+    "source_chunk": 93
+  },
+  {
+    "subject": "company",
+    "predicate": "made payments",
+    "object": "1.9 billion",
+    "source_chunk": 93
+  },
+  {
+    "subject": "company",
+    "predicate": "made payments",
+    "object": "1.8 billion",
+    "source_chunk": 93
+  },
+  {
+    "subject": "noncash activities",
+    "predicate": "involved assets",
+    "object": "1.0 billion",
+    "source_chunk": 93
+  },
+  {
+    "subject": "noncash activities",
+    "predicate": "involved assets",
+    "object": "2.1 billion",
+    "source_chunk": 93
+  },
+  {
+    "subject": "noncash activities",
+    "predicate": "involved assets",
+    "object": "2.8 billion",
+    "source_chunk": 93
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "value of",
+    "object": "10,234",
+    "source_chunk": 93
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "value of",
+    "object": "10,661",
+    "source_chunk": 93
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "value of",
+    "object": "1,069",
+    "source_chunk": 93
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "value of",
+    "object": "1,015",
+    "source_chunk": 93
+  },
+  {
+    "subject": "total right-of-use assets",
+    "predicate": "value of",
+    "object": "11,303",
+    "source_chunk": 93
+  },
+  {
+    "subject": "total right-of-use assets",
+    "predicate": "value of",
+    "object": "11,676",
+    "source_chunk": 93
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "value of",
+    "object": "1,488",
+    "source_chunk": 93
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "value of",
+    "object": "1,410",
+    "source_chunk": 93
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "value of",
+    "object": "10,046",
+    "source_chunk": 93
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "value of",
+    "object": "10,408",
+    "source_chunk": 93
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "value of",
+    "object": "144",
+    "source_chunk": 93
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "value of",
+    "object": "165",
+    "source_chunk": 93
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "value of",
+    "object": "752",
+    "source_chunk": 93
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "value of",
+    "object": "859",
+    "source_chunk": 93
+  },
+  {
+    "subject": "total lease liabilities",
+    "predicate": "value of",
+    "object": "12,430",
+    "source_chunk": 93
+  },
+  {
+    "subject": "total lease liabilities",
+    "predicate": "value of",
+    "object": "12,842",
+    "source_chunk": 93
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "total balance",
+    "object": "1,820",
+    "source_chunk": 93
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "total balance",
+    "object": "171",
+    "source_chunk": 93
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "total balance",
+    "object": "1,914",
+    "source_chunk": 93
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "total balance",
+    "object": "131",
+    "source_chunk": 93
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "total balance",
+    "object": "1,674",
+    "source_chunk": 93
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "total balance",
+    "object": "59",
+    "source_chunk": 93
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "total balance",
+    "object": "1,360",
+    "source_chunk": 93
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "total balance",
+    "object": "38",
+    "source_chunk": 93
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "total balance",
+    "object": "1,187",
+    "source_chunk": 93
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "total balance",
+    "object": "36",
+    "source_chunk": 93
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "total balance",
+    "object": "5,563",
+    "source_chunk": 93
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "total balance",
+    "object": "837",
+    "source_chunk": 93
+  },
+  {
+    "subject": "total undiscounted liabilities",
+    "predicate": "total balance",
+    "object": "13,518",
+    "source_chunk": 93
+  },
+  {
+    "subject": "total undiscounted liabilities",
+    "predicate": "total balance",
+    "object": "1,272",
+    "source_chunk": 93
+  },
+  {
+    "subject": "imputed interest",
+    "predicate": "total balance",
+    "object": "-1,984",
+    "source_chunk": 93
+  },
+  {
+    "subject": "imputed interest",
+    "predicate": "total balance",
+    "object": "-376",
+    "source_chunk": 93
+  },
+  {
+    "subject": "total lease liabilities",
+    "predicate": "total balance",
+    "object": "11,534",
+    "source_chunk": 93
+  },
+  {
+    "subject": "total lease liabilities",
+    "predicate": "total balance",
+    "object": "896",
+    "source_chunk": 93
+  },
+  {
+    "subject": "weighted-average remaining lease",
+    "predicate": "was term",
+    "object": "10.3 years",
+    "source_chunk": 93
+  },
+  {
+    "subject": "weighted-average remaining lease",
+    "predicate": "was term",
+    "object": "10.6 years",
+    "source_chunk": 93
+  },
+  {
+    "subject": "total lease liabilities",
+    "predicate": "amounted to",
+    "object": "11,534",
+    "source_chunk": 94
+  },
+  {
+    "subject": "total lease liabilities",
+    "predicate": "amounted to",
+    "object": "896",
+    "source_chunk": 94
+  },
+  {
+    "subject": "total lease liabilities",
+    "predicate": "amounted to",
+    "object": "12,430",
+    "source_chunk": 94
+  },
+  {
+    "subject": "remaining lease term",
+    "predicate": "weighted average",
+    "object": "10.3 years",
+    "source_chunk": 94
+  },
+  {
+    "subject": "remaining lease term",
+    "predicate": "as of",
+    "object": "september 28, 2024",
+    "source_chunk": 94
+  },
+  {
+    "subject": "remaining lease term",
+    "predicate": "weighted average",
+    "object": "10.6 years",
+    "source_chunk": 94
+  },
+  {
+    "subject": "remaining lease term",
+    "predicate": "as of",
+    "object": "september 30, 2023",
+    "source_chunk": 94
+  },
+  {
+    "subject": "lease liabilities",
+    "predicate": "discount rate",
+    "object": "3.1 %",
+    "source_chunk": 94
+  },
+  {
+    "subject": "lease liabilities",
+    "predicate": "as of",
+    "object": "september 28, 2024",
+    "source_chunk": 94
+  },
+  {
+    "subject": "lease liabilities",
+    "predicate": "discount rate",
+    "object": "3.0 %",
+    "source_chunk": 94
+  },
+  {
+    "subject": "lease liabilities",
+    "predicate": "as of",
+    "object": "september 30, 2023",
+    "source_chunk": 94
+  },
+  {
+    "subject": "company",
+    "predicate": "has",
+    "object": "849 million",
+    "source_chunk": 94
+  },
+  {
+    "subject": "company",
+    "predicate": "as of",
+    "object": "september 28, 2024",
+    "source_chunk": 94
+  },
+  {
+    "subject": "additional leases",
+    "predicate": "commence between",
+    "object": "2025-2026",
+    "source_chunk": 94
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "equals",
+    "object": "10234",
+    "source_chunk": 95
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "equals",
+    "object": "10661",
+    "source_chunk": 95
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "equals",
+    "object": "1069",
+    "source_chunk": 95
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "equals",
+    "object": "1015",
+    "source_chunk": 95
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "equals",
+    "object": "1488",
+    "source_chunk": 95
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "equals",
+    "object": "1410",
+    "source_chunk": 95
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "equals",
+    "object": "10046",
+    "source_chunk": 95
+  },
+  {
+    "subject": "operating leases",
+    "predicate": "equals",
+    "object": "10408",
+    "source_chunk": 95
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "equals",
+    "object": "144",
+    "source_chunk": 95
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "equals",
+    "object": "165",
+    "source_chunk": 95
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "equals",
+    "object": "752",
+    "source_chunk": 95
+  },
+  {
+    "subject": "finance leases",
+    "predicate": "equals",
+    "object": "859",
+    "source_chunk": 95
+  },
+  {
+    "subject": "total lease liabilities",
+    "predicate": "equals",
+    "object": "12430",
+    "source_chunk": 95
+  },
+  {
+    "subject": "total lease liabilities",
+    "predicate": "equals",
+    "object": "12842",
+    "source_chunk": 95
+  },
+  {
+    "subject": "year 2026",
+    "predicate": "equals",
+    "object": "1914",
+    "source_chunk": 95
+  },
+  {
+    "subject": "year 2026",
+    "predicate": "equals",
+    "object": "131",
+    "source_chunk": 95
+  },
+  {
+    "subject": "year 2026",
+    "predicate": "equals",
+    "object": "2045",
+    "source_chunk": 95
+  },
+  {
+    "subject": "year 2027",
+    "predicate": "equals",
+    "object": "1674",
+    "source_chunk": 95
+  },
+  {
+    "subject": "year 2027",
+    "predicate": "equals",
+    "object": "59",
+    "source_chunk": 95
+  },
+  {
+    "subject": "year 2027",
+    "predicate": "equals",
+    "object": "1733",
+    "source_chunk": 95
+  },
+  {
+    "subject": "year 2028",
+    "predicate": "equals",
+    "object": "1360",
+    "source_chunk": 95
+  },
+  {
+    "subject": "year 2028",
+    "predicate": "equals",
+    "object": "38",
+    "source_chunk": 95
+  },
+  {
+    "subject": "year 2028",
+    "predicate": "equals",
+    "object": "1398",
+    "source_chunk": 95
+  },
+  {
+    "subject": "year 2029",
+    "predicate": "equals",
+    "object": "1187",
+    "source_chunk": 95
+  },
+  {
+    "subject": "year 2029",
+    "predicate": "equals",
+    "object": "36",
+    "source_chunk": 95
+  },
+  {
+    "subject": "year 2029",
+    "predicate": "equals",
+    "object": "1223",
+    "source_chunk": 95
+  },
+  {
+    "subject": "thereafter",
+    "predicate": "equals",
+    "object": "5563",
+    "source_chunk": 95
+  },
+  {
+    "subject": "thereafter",
+    "predicate": "equals",
+    "object": "837",
+    "source_chunk": 95
+  },
+  {
+    "subject": "thereafter",
+    "predicate": "equals",
+    "object": "6400",
+    "source_chunk": 95
+  },
+  {
+    "subject": "total undiscounted liabilities",
+    "predicate": "equals",
+    "object": "13518",
+    "source_chunk": 95
+  },
+  {
+    "subject": "total undiscounted liabilities",
+    "predicate": "equals",
+    "object": "1272",
+    "source_chunk": 95
+  },
+  {
+    "subject": "total undiscounted liabilities",
+    "predicate": "equals",
+    "object": "14790",
+    "source_chunk": 95
+  },
+  {
+    "subject": "imputed interest",
+    "predicate": "equals",
+    "object": "(1984)",
+    "source_chunk": 95
+  },
+  {
+    "subject": "imputed interest",
+    "predicate": "equals",
+    "object": "(376)",
+    "source_chunk": 95
+  },
+  {
+    "subject": "imputed interest",
+    "predicate": "equals",
+    "object": "(2360)",
+    "source_chunk": 95
+  },
+  {
+    "subject": "total lease liabilities",
+    "predicate": "equals",
+    "object": "11534",
+    "source_chunk": 95
+  },
+  {
+    "subject": "total lease liabilities",
+    "predicate": "equals",
+    "object": "896",
+    "source_chunk": 95
+  },
+  {
+    "subject": "rsus september 28, 2024",
+    "predicate": "as of",
+    "object": "163326",
+    "source_chunk": 101
+  },
+  {
+    "subject": "rsus september 28, 2024",
+    "predicate": "fair value",
+    "object": "$158.73",
+    "source_chunk": 101
+  },
+  {
+    "subject": "rsus september 28, 2024",
+    "predicate": "fair value",
+    "object": "$37,204",
+    "source_chunk": 101
+  },
+  {
+    "subject": "rsus 2024",
+    "predicate": "fair value vested",
+    "object": "$15.8 billion",
+    "source_chunk": 101
+  },
+  {
+    "subject": "company 2024",
+    "predicate": "shares withheld",
+    "object": "31 million",
+    "source_chunk": 101
+  },
+  {
+    "subject": "company 2024",
+    "predicate": "payments to authorities",
+    "object": "$5.6 billion",
+    "source_chunk": 101
+  },
+  {
+    "subject": "company 2024",
+    "predicate": "share based compensation",
+    "object": "$11,688",
+    "source_chunk": 101
+  },
+  {
+    "subject": "outstanding rsus september 28, 2024",
+    "predicate": "gross unrecognized",
+    "object": "$19.4 billion",
+    "source_chunk": 101
+  },
+  {
+    "subject": "unconditional purchase obligations",
+    "predicate": "comprise",
+    "object": "supplier arrangements",
+    "source_chunk": 102
+  },
+  {
+    "subject": "unconditional purchase obligations",
+    "predicate": "comprise",
+    "object": "licensed intellectual property and content",
+    "source_chunk": 102
+  },
+  {
+    "subject": "unconditional purchase obligations",
+    "predicate": "comprise",
+    "object": "distribution rights",
+    "source_chunk": 102
+  },
+  {
+    "subject": "2025",
+    "predicate": "received",
+    "object": "3206",
+    "source_chunk": 102
+  },
+  {
+    "subject": "2026",
+    "predicate": "received",
+    "object": "2440",
+    "source_chunk": 102
+  },
+  {
+    "subject": "2027",
+    "predicate": "received",
+    "object": "1156",
+    "source_chunk": 102
+  },
+  {
+    "subject": "2028",
+    "predicate": "received",
+    "object": "3121",
+    "source_chunk": 102
+  },
+  {
+    "subject": "rsus",
+    "predicate": "granted",
+    "object": "91674",
+    "source_chunk": 103
+  },
+  {
+    "subject": "rsus granted",
+    "predicate": "value of",
+    "object": "150.70",
+    "source_chunk": 103
+  },
+  {
+    "subject": "rsus",
+    "predicate": "fair value vested",
+    "object": "(115861)",
+    "source_chunk": 103
+  },
+  {
+    "subject": "rsus vested",
+    "predicate": "value of",
+    "object": "72.12",
+    "source_chunk": 103
+  },
+  {
+    "subject": "rsus",
+    "predicate": "canceled",
+    "object": "(14739)",
+    "source_chunk": 103
+  },
+  {
+    "subject": "rsus canceled",
+    "predicate": "value of",
+    "object": "99.77",
+    "source_chunk": 103
+  },
+  {
+    "subject": "september 24, 2022",
+    "predicate": "as of",
+    "object": "201501",
+    "source_chunk": 103
+  },
+  {
+    "subject": "september 24, 2022",
+    "predicate": "value of",
+    "object": "109.48",
+    "source_chunk": 103
+  },
+  {
+    "subject": "income tax benefit",
+    "predicate": "amounted to",
+    "object": "(3350)",
+    "source_chunk": 103
+  },
+  {
+    "subject": "income tax benefit",
+    "predicate": "because of",
+    "object": "share-based compensation expense",
+    "source_chunk": 103
+  },
+  {
+    "subject": "the company",
+    "predicate": "exposed to",
+    "object": "legal proceedings and claims",
+    "source_chunk": 104
+  },
+  {
+    "subject": "most components",
+    "predicate": "available from",
+    "object": "multiple sources",
+    "source_chunk": 104
+  },
+  {
+    "subject": "the company",
+    "predicate": "competes in markets",
+    "object": "smartphones, personal computers, tablets, wearables and accessories",
+    "source_chunk": 104
+  },
+  {
+    "subject": "the company",
+    "predicate": "using",
+    "object": "custom components",
+    "source_chunk": 104
+  },
+  {
+    "subject": "outsourcing partners",
+    "predicate": "partner location",
+    "object": "china mainland, india, japan, south korea, taiwan and vietnam",
+    "source_chunk": 104
+  },
+  {
+    "subject": "the company",
+    "predicate": "manages on",
+    "object": "geographic basis",
+    "source_chunk": 104
+  },
+  {
+    "subject": "reportable segments",
+    "predicate": "includes accounts",
+    "object": "the americas, europe, greater china, japan and rest of asia pacific",
+    "source_chunk": 104
+  },
+  {
+    "subject": "americas 2024",
+    "predicate": "mac net sales",
+    "object": "167,045",
+    "source_chunk": 105
+  },
+  {
+    "subject": "americas 2024",
+    "predicate": "generated from operating",
+    "object": "67,656",
+    "source_chunk": 105
+  },
+  {
+    "subject": "europe 2024",
+    "predicate": "mac net sales",
+    "object": "101,328",
+    "source_chunk": 105
+  },
+  {
+    "subject": "europe 2024",
+    "predicate": "generated from operating",
+    "object": "41,790",
+    "source_chunk": 105
+  },
+  {
+    "subject": "greater china 2024",
+    "predicate": "mac net sales",
+    "object": "66,952",
+    "source_chunk": 105
+  },
+  {
+    "subject": "greater china 2024",
+    "predicate": "generated from operating",
+    "object": "27,082",
+    "source_chunk": 105
+  },
+  {
+    "subject": "japan 2024",
+    "predicate": "mac net sales",
+    "object": "25,052",
+    "source_chunk": 105
+  },
+  {
+    "subject": "japan 2024",
+    "predicate": "generated from operating",
+    "object": "12,454",
+    "source_chunk": 105
+  },
+  {
+    "subject": "rest of asia pacific 2024",
+    "predicate": "mac net sales",
+    "object": "30,658",
+    "source_chunk": 105
+  },
+  {
+    "subject": "rest of asia pacific 2024",
+    "predicate": "generated from operating",
+    "object": "13,062",
+    "source_chunk": 105
+  },
+  {
+    "subject": "other corporate expenses, net (2024)",
+    "predicate": "equals",
+    "object": "(7,458)",
+    "source_chunk": 106
+  },
+  {
+    "subject": "other corporate expenses, net (2023)",
+    "predicate": "equals",
+    "object": "(6,672)",
+    "source_chunk": 106
+  },
+  {
+    "subject": "other corporate expenses, net (2022)",
+    "predicate": "equals",
+    "object": "(7,207)",
+    "source_chunk": 106
+  },
+  {
+    "subject": "total operating income (2024)",
+    "predicate": "equals",
+    "object": "123,216",
+    "source_chunk": 106
+  },
+  {
+    "subject": "total operating income (2023)",
+    "predicate": "equals",
+    "object": "114,301",
+    "source_chunk": 106
+  },
+  {
+    "subject": "total operating income (2022)",
+    "predicate": "equals",
+    "object": "119,437",
+    "source_chunk": 106
+  },
+  {
+    "subject": "u.s. net sales (2024)",
+    "predicate": "equals",
+    "object": "142,196",
+    "source_chunk": 106
+  },
+  {
+    "subject": "u.s. net sales (2023)",
+    "predicate": "equals",
+    "object": "138,573",
+    "source_chunk": 106
+  },
+  {
+    "subject": "u.s. net sales (2022)",
+    "predicate": "equals",
+    "object": "147,859",
+    "source_chunk": 106
+  },
+  {
+    "subject": "aapl",
+    "predicate": "mac net sales",
+    "object": "$167,045",
+    "source_chunk": 107
+  },
+  {
+    "subject": "aapl",
+    "predicate": "generated from operating",
+    "object": "$67,656",
+    "source_chunk": 107
+  },
+  {
+    "subject": "aapl europe",
+    "predicate": "mac net sales",
+    "object": "$101,328",
+    "source_chunk": 107
+  },
+  {
+    "subject": "aapl europe",
+    "predicate": "generated from operating",
+    "object": "$41,790",
+    "source_chunk": 107
+  },
+  {
+    "subject": "aapl greater china",
+    "predicate": "mac net sales",
+    "object": "$66,952",
+    "source_chunk": 107
+  },
+  {
+    "subject": "aapl greater china",
+    "predicate": "generated from operating",
+    "object": "$27,082",
+    "source_chunk": 107
+  },
+  {
+    "subject": "aapl japan",
+    "predicate": "mac net sales",
+    "object": "$25,052",
+    "source_chunk": 107
+  },
+  {
+    "subject": "aapl japan",
+    "predicate": "generated from operating",
+    "object": "$12,454",
+    "source_chunk": 107
+  },
+  {
+    "subject": "aapl rest of asia pacific",
+    "predicate": "mac net sales",
+    "object": "$30,658",
+    "source_chunk": 107
+  },
+  {
+    "subject": "aapl rest of asia pacific",
+    "predicate": "generated from operating",
+    "object": "$13,062",
+    "source_chunk": 107
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "audited balance sheets",
+    "object": "september 28, 2024",
+    "source_chunk": 108
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "audited balance sheets",
+    "object": "september 30, 2023",
+    "source_chunk": 108
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "audited balance sheets",
+    "object": "consolidated statements of operations",
+    "source_chunk": 108
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "audited balance sheets",
+    "object": "consolidated statements of comprehensive income",
+    "source_chunk": 108
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "audited balance sheets",
+    "object": "consolidated statements of shareholders\u2019 equity",
+    "source_chunk": 108
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "audited balance sheets",
+    "object": "consolidated statements of cash flows",
+    "source_chunk": 108
+  },
+  {
+    "subject": "financial statements",
+    "predicate": "conform with",
+    "object": "u.s. generally accepted accounting principles",
+    "source_chunk": 108
+  },
+  {
+    "subject": "apple inc",
+    "predicate": "audited internal control",
+    "object": "september 28, 2024",
+    "source_chunk": 108
+  },
+  {
+    "subject": "report dated november 1, 2024",
+    "predicate": "expressed",
+    "object": "unqualified opinion",
+    "source_chunk": 108
+  },
+  {
+    "subject": "gross unrecognized tax benefits",
+    "predicate": "was",
+    "object": "$22.0 billion",
+    "source_chunk": 109
+  },
+  {
+    "subject": "date",
+    "predicate": "as of",
+    "object": "september 28, 2024",
+    "source_chunk": 109
+  },
+  {
+    "subject": "recognized benefits",
+    "predicate": "can result",
+    "object": "$10.8 billion",
+    "source_chunk": 109
+  },
+  {
+    "subject": "recognized benefits",
+    "predicate": "affect",
+    "object": "effective tax rate",
+    "source_chunk": 109
+  },
+  {
+    "subject": "company",
+    "predicate": "interprets",
+    "object": "domestic and international tax laws",
+    "source_chunk": 109
+  },
+  {
+    "subject": "auditing management",
+    "predicate": "reviews for",
+    "object": "uncertain tax positions",
+    "source_chunk": 109
+  },
+  {
+    "subject": "management",
+    "predicate": "assesses",
+    "object": "sustained",
+    "source_chunk": 110
+  },
+  {
+    "subject": "management",
+    "predicate": "measures",
+    "object": "tax benefit",
+    "source_chunk": 110
+  },
+  {
+    "subject": "tax subject matter resources",
+    "predicate": "knowledge of",
+    "object": "relevant tax laws",
+    "source_chunk": 110
+  },
+  {
+    "subject": "we",
+    "predicate": "received",
+    "object": "external legal counsel confirmation letter",
+    "source_chunk": 110
+  },
+  {
+    "subject": "company's disclosure",
+    "predicate": "includes accounts",
+    "object": "note 7",
+    "source_chunk": 110
+  },
+  {
+    "subject": "ernst & young llp",
+    "predicate": "served as",
+    "object": "company\u2019s auditor",
+    "source_chunk": 110
+  },
+  {
+    "subject": "apple inc.\u2019s internal control over financial reporting",
+    "predicate": "audited balance sheets",
+    "object": "september 28, 2024",
+    "source_chunk": 110
+  },
+  {
+    "subject": "officer's certificate",
+    "predicate": "dated",
+    "object": "may 10, 2023",
+    "source_chunk": 121
+  },
+  {
+    "subject": "4.29",
+    "predicate": "are",
+    "object": "apple inc. deferred compensation plan",
+    "source_chunk": 121
+  },
+  {
+    "subject": "apple inc. employee stock purchase plan",
+    "predicate": "reports change",
+    "object": "march 10, 2015",
+    "source_chunk": 121
+  },
+  {
+    "subject": "indemnification agreement",
+    "predicate": "compared to",
+    "object": "each director",
+    "source_chunk": 121
+  },
+  {
+    "subject": "apple inc. non-employee director stock plan",
+    "predicate": "reports change",
+    "object": "november 9, 2021",
+    "source_chunk": 121
+  },
+  {
+    "subject": "apple inc. 2014 employee stock plan",
+    "predicate": "restated",
+    "object": "october 1, 2017",
+    "source_chunk": 121
+  },
+  {
+    "subject": "restricted stock unit award agreement",
+    "predicate": "effective",
+    "object": "september 26, 2017",
+    "source_chunk": 121
+  },
+  {
+    "subject": "restricted stock unit award agreement",
+    "predicate": "effective",
+    "object": "march 4, 2022",
+    "source_chunk": 122
+  },
+  {
+    "subject": "performance award agreement",
+    "predicate": "effective",
+    "object": "march 4, 2022",
+    "source_chunk": 122
+  },
+  {
+    "subject": "executive cash incentive plan",
+    "predicate": "has",
+    "object": "apple inc.",
+    "source_chunk": 122
+  },
+  {
+    "subject": "ceo restricted stock unit award agreement",
+    "predicate": "effective",
+    "object": "september 25, 2022",
+    "source_chunk": 122
+  },
+  {
+    "subject": "ceo performance award agreement",
+    "predicate": "effective",
+    "object": "september 25, 2022",
+    "source_chunk": 122
+  },
+  {
+    "subject": "restricted stock unit award agreement",
+    "predicate": "effective",
+    "object": "september 29, 2024",
+    "source_chunk": 122
+  },
+  {
+    "subject": "performance award agreement",
+    "predicate": "effective",
+    "object": "september 29, 2024",
+    "source_chunk": 122
+  },
+  {
+    "subject": "ceo restricted stock unit award agreement",
+    "predicate": "effective",
+    "object": "september 29, 2024",
+    "source_chunk": 122
+  },
+  {
+    "subject": "ceo performance award agreement",
+    "predicate": "effective",
+    "object": "september 29, 2024",
+    "source_chunk": 122
+  },
+  {
+    "subject": "timothy d. cook",
+    "predicate": "approved",
+    "object": "november 1, 2024",
+    "source_chunk": 123
+  },
+  {
+    "subject": "timothy d. cook",
+    "predicate": "are",
+    "object": "chief executive officer",
+    "source_chunk": 123
+  },
+  {
+    "subject": "timothy d. cook",
+    "predicate": "are",
+    "object": "director",
+    "source_chunk": 123
+  },
+  {
+    "subject": "luca maestri",
+    "predicate": "approved",
+    "object": "november 1, 2024",
+    "source_chunk": 123
+  },
+  {
+    "subject": "luca maestri",
+    "predicate": "are",
+    "object": "chief financial officer",
+    "source_chunk": 123
+  },
+  {
+    "subject": "luca maestri",
+    "predicate": "are",
+    "object": "senior vice president",
+    "source_chunk": 123
+  },
+  {
+    "subject": "chris kondo",
+    "predicate": "approved",
+    "object": "november 1, 2024",
+    "source_chunk": 123
+  },
+  {
+    "subject": "chris kondo",
+    "predicate": "are",
+    "object": "senior director of corporate accounting",
+    "source_chunk": 123
+  },
+  {
+    "subject": "chris kondo",
+    "predicate": "are",
+    "object": "principal accounting officer",
+    "source_chunk": 123
+  },
+  {
+    "subject": "wanda austin",
+    "predicate": "approved",
+    "object": "november 1, 2024",
+    "source_chunk": 123
+  },
+  {
+    "subject": "company's management",
+    "predicate": "responsible for",
+    "object": "maintaining effective internal control",
+    "source_chunk": 111
+  },
+  {
+    "subject": "company's management",
+    "predicate": "responsible for",
+    "object": "assessment of internal control",
+    "source_chunk": 111
+  },
+  {
+    "subject": "public accounting firm",
+    "predicate": "responsible for",
+    "object": "express opinion",
+    "source_chunk": 111
+  },
+  {
+    "subject": "our audit",
+    "predicate": "conform with",
+    "object": "standards of the pcaob",
+    "source_chunk": 111
+  },
+  {
+    "subject": "internal control",
+    "predicate": "designed to provide",
+    "object": "reasonable assurance",
+    "source_chunk": 111
+  },
+  {
+    "subject": "internal control",
+    "predicate": "because of",
+    "object": "preparation of financial statements",
+    "source_chunk": 111
+  },
+  {
+    "subject": "maintenance of records",
+    "predicate": "representing",
+    "object": "transactions and dispositions",
+    "source_chunk": 111
+  },
+  {
+    "subject": "transactions",
+    "predicate": "permit",
+    "object": "prepare financial statements",
+    "source_chunk": 111
+  },
+  {
+    "subject": "transactions",
+    "predicate": "permit",
+    "object": "preparation of financial statements",
+    "source_chunk": 112
+  },
+  {
+    "subject": "company",
+    "predicate": "conform with",
+    "object": "receipts and expenditures",
+    "source_chunk": 112
+  },
+  {
+    "subject": "assurance",
+    "predicate": "prevent detection",
+    "object": "unauthorized acquisition",
+    "source_chunk": 112
+  },
+  {
+    "subject": "disposition of company\u2019s assets",
+    "predicate": "can result",
+    "object": "material effect on financial statements",
+    "source_chunk": 112
+  },
+  {
+    "subject": "internal control over financial reporting",
+    "predicate": "can result",
+    "object": "misstatements",
+    "source_chunk": 112
+  },
+  {
+    "subject": "company\u2019s disclosure controls and procedures",
+    "predicate": "as of",
+    "object": "september 28, 2024",
+    "source_chunk": 112
+  },
+  {
+    "subject": "company\u2019s internal control",
+    "predicate": "designed to provide",
+    "object": "reasonable assurance",
+    "source_chunk": 112
+  },
+  {
+    "subject": "reasonable assurance",
+    "predicate": "relating to",
+    "object": "financial reporting",
+    "source_chunk": 112
+  },
+  {
+    "subject": "company's internal control",
+    "predicate": "supply",
+    "object": "reasonable assurance",
+    "source_chunk": 113
+  },
+  {
+    "subject": "financial statements",
+    "predicate": "conform with",
+    "object": "gaap",
+    "source_chunk": 113
+  },
+  {
+    "subject": "policies and procedures",
+    "predicate": "relating to",
+    "object": "maintenance of records",
+    "source_chunk": 113
+  },
+  {
+    "subject": "receipts and expenditures",
+    "predicate": "conform with",
+    "object": "authorizations",
+    "source_chunk": 113
+  },
+  {
+    "subject": "unauthorized acquisition",
+    "predicate": "has",
+    "object": "material effect",
+    "source_chunk": 113
+  },
+  {
+    "subject": "internal control",
+    "predicate": "defined in",
+    "object": "rule 13a-15(f)",
+    "source_chunk": 113
+  },
+  {
+    "subject": "company\u2019s management",
+    "predicate": "responsible for",
+    "object": "adequate internal control",
+    "source_chunk": 114
+  },
+  {
+    "subject": "management",
+    "predicate": "ends",
+    "object": "effective",
+    "source_chunk": 114
+  },
+  {
+    "subject": "internal control",
+    "predicate": "as of",
+    "object": "september 28, 2024",
+    "source_chunk": 114
+  },
+  {
+    "subject": "internal control",
+    "predicate": "there were",
+    "object": "no changes",
+    "source_chunk": 114
+  },
+  {
+    "subject": "deirdre o\u2019brien",
+    "predicate": "entered into",
+    "object": "august 27, 2024",
+    "source_chunk": 114
+  },
+  {
+    "subject": "trading plan",
+    "predicate": "require",
+    "object": "rule 10b5-1(c)",
+    "source_chunk": 114
+  },
+  {
+    "subject": "shares",
+    "predicate": "vesting between",
+    "object": "april 1, 2025",
+    "source_chunk": 114
+  },
+  {
+    "subject": "shares",
+    "predicate": "vesting between",
+    "object": "october 1, 2026",
+    "source_chunk": 114
+  },
+  {
+    "subject": "jeff williams",
+    "predicate": "entered into",
+    "object": "august 29, 2024",
+    "source_chunk": 114
+  },
+  {
+    "subject": "trading plan",
+    "predicate": "expires on",
+    "object": "december 31, 2026",
+    "source_chunk": 115
+  },
+  {
+    "subject": "trading plan",
+    "predicate": "provision for",
+    "object": "100000 shares",
+    "source_chunk": 115
+  },
+  {
+    "subject": "mr. williams\u2019 plan",
+    "predicate": "expires on",
+    "object": "december 15, 2025",
+    "source_chunk": 115
+  },
+  {
+    "subject": "the company",
+    "predicate": "governing purchase",
+    "object": "insider trading policy",
+    "source_chunk": 115
+  },
+  {
+    "subject": "company\u2019s insider trading policy",
+    "predicate": "classified as",
+    "object": "exhibit 19.1",
+    "source_chunk": 115
+  },
+  {
+    "subject": "2025 proxy statement",
+    "predicate": "filed after",
+    "object": "september 28, 2024",
+    "source_chunk": 115
+  },
+  {
+    "subject": "consolidated statements of operations",
+    "predicate": "ends",
+    "object": "september 28, 2024",
+    "source_chunk": 116
+  },
+  {
+    "subject": "consolidated statements of operations",
+    "predicate": "ends",
+    "object": "september 30, 2023",
+    "source_chunk": 116
+  },
+  {
+    "subject": "consolidated statements of operations",
+    "predicate": "ends",
+    "object": "september 24, 2022",
+    "source_chunk": 116
+  },
+  {
+    "subject": "consolidated statements of comprehensive income",
+    "predicate": "ends",
+    "object": "september 28, 2024",
+    "source_chunk": 116
+  },
+  {
+    "subject": "consolidated statements of comprehensive income",
+    "predicate": "ends",
+    "object": "september 30, 2023",
+    "source_chunk": 116
+  },
+  {
+    "subject": "consolidated statements of comprehensive income",
+    "predicate": "ends",
+    "object": "september 24, 2022",
+    "source_chunk": 116
+  },
+  {
+    "subject": "consolidated balance sheets",
+    "predicate": "as of",
+    "object": "september 28, 2024",
+    "source_chunk": 116
+  },
+  {
+    "subject": "consolidated balance sheets",
+    "predicate": "as of",
+    "object": "september 30, 2023",
+    "source_chunk": 116
+  },
+  {
+    "subject": "indenture",
+    "predicate": "as of",
+    "object": "april 29, 2013",
+    "source_chunk": 117
+  },
+  {
+    "subject": "indenture",
+    "predicate": "compared to",
+    "object": "the bank of new york mellon trust company, n.a.",
+    "source_chunk": 117
+  },
+  {
+    "subject": "officer\u2019s certificate",
+    "predicate": "as of",
+    "object": "may 3, 2013",
+    "source_chunk": 117
+  },
+  {
+    "subject": "global notes",
+    "predicate": "representing",
+    "object": "floating rate notes due 2016",
+    "source_chunk": 117
+  },
+  {
+    "subject": "officer\u2019s certificate",
+    "predicate": "as of",
+    "object": "may 6, 2014",
+    "source_chunk": 117
+  },
+  {
+    "subject": "global notes",
+    "predicate": "representing",
+    "object": "floating rate notes due 2017",
+    "source_chunk": 117
+  },
+  {
+    "subject": "officer\u2019s certificate",
+    "predicate": "as of",
+    "object": "november 10, 2014",
+    "source_chunk": 117
+  },
+  {
+    "subject": "global notes",
+    "predicate": "representing",
+    "object": "1.000% notes due 2022",
+    "source_chunk": 117
+  },
+  {
+    "subject": "officer\u2019s certificate",
+    "predicate": "as of",
+    "object": "february 9, 2015",
+    "source_chunk": 117
+  },
+  {
+    "subject": "consolidated statements of comprehensive income",
+    "predicate": "ends",
+    "object": "september 28, 2024",
+    "source_chunk": 118
+  },
+  {
+    "subject": "consolidated statements of comprehensive income",
+    "predicate": "ends",
+    "object": "september 30, 2023",
+    "source_chunk": 118
+  },
+  {
+    "subject": "consolidated statements of comprehensive income",
+    "predicate": "ends",
+    "object": "september 24, 2022",
+    "source_chunk": 118
+  },
+  {
+    "subject": "consolidated statements of shareholders\u2019 equity",
+    "predicate": "ends",
+    "object": "september 28, 2024",
+    "source_chunk": 118
+  },
+  {
+    "subject": "consolidated statements of shareholders\u2019 equity",
+    "predicate": "ends",
+    "object": "september 30, 2023",
+    "source_chunk": 118
+  },
+  {
+    "subject": "consolidated statements of shareholders\u2019 equity",
+    "predicate": "ends",
+    "object": "september 24, 2022",
+    "source_chunk": 118
+  },
+  {
+    "subject": "consolidated statements of cash flows",
+    "predicate": "ends",
+    "object": "september 28, 2024",
+    "source_chunk": 118
+  },
+  {
+    "subject": "consolidated statements of cash flows",
+    "predicate": "ends",
+    "object": "september 30, 2023",
+    "source_chunk": 118
+  },
+  {
+    "subject": "officer\u2019s certificate",
+    "predicate": "are",
+    "object": "floating rate notes due 2019",
+    "source_chunk": 119
+  },
+  {
+    "subject": "officer\u2019s certificate",
+    "predicate": "are",
+    "object": "1.300% notes due 2018",
+    "source_chunk": 119
+  },
+  {
+    "subject": "officer\u2019s certificate",
+    "predicate": "are",
+    "object": "1.700% notes due 2019",
+    "source_chunk": 119
+  },
+  {
+    "subject": "officer\u2019s certificate",
+    "predicate": "are",
+    "object": "2.250% notes due 2021",
+    "source_chunk": 119
+  },
+  {
+    "subject": "officer\u2019s certificate",
+    "predicate": "are",
+    "object": "2.850% notes due 2023",
+    "source_chunk": 119
+  },
+  {
+    "subject": "officer\u2019s certificate",
+    "predicate": "are",
+    "object": "3.250% notes due 2026",
+    "source_chunk": 119
+  },
+  {
+    "subject": "officer\u2019s certificate",
+    "predicate": "are",
+    "object": "4.500% notes due 2036",
+    "source_chunk": 119
+  },
+  {
+    "subject": "officer\u2019s certificate",
+    "predicate": "are",
+    "object": "4.650% notes due 2046",
+    "source_chunk": 119
+  },
+  {
+    "subject": "notes due 2019",
+    "predicate": "maturity greater",
+    "object": "1.800% notes",
+    "source_chunk": 120
+  },
+  {
+    "subject": "notes due 2020",
+    "predicate": "maturity greater",
+    "object": "2.000% notes",
+    "source_chunk": 120
+  },
+  {
+    "subject": "notes due 2023",
+    "predicate": "maturity greater",
+    "object": "2.400% notes",
+    "source_chunk": 120
+  },
+  {
+    "subject": "notes due 2025",
+    "predicate": "maturity greater",
+    "object": "2.750% notes",
+    "source_chunk": 120
+  },
+  {
+    "subject": "notes due 2027",
+    "predicate": "maturity greater",
+    "object": "3.000% notes",
+    "source_chunk": 120
+  },
+  {
+    "subject": "notes due 2047",
+    "predicate": "maturity greater",
+    "object": "3.750% notes",
+    "source_chunk": 120
+  },
+  {
+    "subject": "notes due 2022",
+    "predicate": "maturity greater",
+    "object": "1.700% notes",
+    "source_chunk": 120
+  },
+  {
+    "subject": "notes due 2024",
+    "predicate": "maturity greater",
+    "object": "1.800% notes",
+    "source_chunk": 120
+  },
+  {
+    "subject": "notes due 2026",
+    "predicate": "maturity greater",
+    "object": "2.050% notes",
+    "source_chunk": 120
+  },
+  {
+    "subject": "notes due 2029",
+    "predicate": "maturity greater",
+    "object": "2.200% notes",
+    "source_chunk": 120
+  }
+]

@@ -1,0 +1,1785 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="edge" attr.type="string"/>
+<graph edgedefault="undirected"><node id="tet"/>
+<node id="business"/>
+<node id="first quarter"/>
+<node id="tet higher net sales in first quarter"/>
+<node id="seasonal holiday demand"/>
+<node id="tet net sales"/>
+<node id="new product and service introductions"/>
+<node id="tet cost of sales"/>
+<node id="tet operating expenses"/>
+<node id="tet net sales to indirect distribution channels"/>
+<node id="timing of product introductions"/>
+<node id="indirect distribution channels"/>
+<node id="product launches"/>
+<node id="product launch"/>
+<node id="new inventory"/>
+<node id="consumers and distributors"/>
+<node id="product introduction anticipation"/>
+<node id="tet's people"/>
+<node id="success"/>
+<node id="people"/>
+<node id="approximately 164,000 full-time equivalent employees"/>
+<node id="tet employees"/>
+<node id="september 28, 2024"/>
+<node id="tet compensation"/>
+<node id="competitiveness"/>
+<node id="equity"/>
+<node id="employee success sharing"/>
+<node id="wide variety of employee benefits"/>
+<node id="wide variety of benefits"/>
+<node id="health, wellness and time away"/>
+<node id="resources for employee development"/>
+<node id="apple university"/>
+<node id="apple university programs"/>
+<node id="leadership, management and influence"/>
+<node id="apple culture and values"/>
+<node id="team members"/>
+<node id="online classes"/>
+<node id="online classes for business, technical and personal development"/>
+<node id="learning opportunities to support team member well-being"/>
+<node id="equal opportunity employer"/>
+<node id="inclusion and diversity"/>
+<node id="workplace free of harassment or discrimination"/>
+<node id="vision to build and sustain a more inclusive workforce"/>
+<node id="diverse representation at every level"/>
+<node id="inclusive culture"/>
+<node id="equitable pay and access to opportunity for all employees"/>
+<node id="open and honest communication"/>
+<node id="employee sentiment"/>
+<node id="tet surveys"/>
+<node id="career development"/>
+<node id="manager performance"/>
+<node id="inclusivity"/>
+<node id="potential workplace risks"/>
+<node id="potential hazards"/>
+<node id="general safety, security, and crisis management training"/>
+<node id="employees in potentially hazardous areas"/>
+<node id="management training"/>
+<node id="specific programs for high-hazard environments"/>
+<node id="single or limited sources"/>
+<node id="other participants"/>
+<node id="smartphones"/>
+<node id="personal computers"/>
+<node id="tablets"/>
+<node id="wearables"/>
+<node id="accessories"/>
+<node id="many components used by tet"/>
+<node id="industry-wide shortage"/>
+<node id="significant commodity"/>
+<node id="tet components"/>
+<node id="significant commodity pricing fluctuations"/>
+<node id="tet new products"/>
+<node id="only one source"/>
+<node id="tet components with new technology"/>
+<node id="initial capacity constraints"/>
+<node id="component availability"/>
+<node id="supplier concentration on common components"/>
+<node id="supply of many components"/>
+<node id="for component supply"/>
+<node id="inability to extend component supply agreements"/>
+<node id="rapid technological advances"/>
+<node id="tet competitive ability"/>
+<node id="continual research and development"/>
+<node id="continual flow of competitive products, services and technologies"/>
+<node id="enhance existing products and services"/>
+<node id="research and development"/>
+<node id="licensing of intellectual property"/>
+<node id="acquisition of third-party businesses and technology"/>
+<node id="broad collection of intellectual property rights"/>
+<node id="tet intellectual property rights"/>
+<node id="hardware"/>
+<node id="software"/>
+<node id="services"/>
+<node id="patents"/>
+<node id="designs"/>
+<node id="copyrights"/>
+<node id="trademarks"/>
+<node id="trade secrets"/>
+<node id="u.s."/>
+<node id="various foreign countries"/>
+<node id="important for business differentiation"/>
+<node id="tet success"/>
+<node id="ip ownership"/>
+<node id="personnel skills and abilities"/>
+<node id="filing patent, design, copyright, trademark applications"/>
+<node id="patent"/>
+<node id="design"/>
+<node id="copyright"/>
+<node id="trademark"/>
+<node id="tet files applications"/>
+<node id="innovations"/>
+<node id="thousands of applications"/>
+<node id="tet is pursuing applications"/>
+<node id="around the world"/>
+<node id="large portfolio of issued and registered intellectual property rights"/>
+<node id="tet intellectual property portfolio"/>
+<node id="single intellectual property right"/>
+<node id="tet's products and services"/>
+<node id="tet intellectual property"/>
+<node id="tet products and services"/>
+<node id="ip duration adequate"/>
+<node id="third party intellectual property"/>
+<node id="seek or renew third party licenses"/>
+<node id="licenses"/>
+<node id="tet's products, processes and services"/>
+<node id="third parties"/>
+<node id="licenses on reasonable terms"/>
+<node id="difficulty obtaining future licenses"/>
+<node id="future licenses for tet"/>
+<node id="not on reasonable terms"/>
+<node id="not obtainable at all"/>
+<node id="tet reportable segments"/>
+<node id="customer location"/>
+<node id="distribution partner location"/>
+<node id="unique market dynamics"/>
+<node id="tet customers"/>
+<node id="consumer market"/>
+<node id="small and mid-sized business market"/>
+<node id="education market"/>
+<node id="enterprise market"/>
+<node id="government market"/>
+<node id="products"/>
+<node id="third-party products"/>
+<node id="retail stores"/>
+<node id="online stores"/>
+<node id="direct sales force"/>
+<node id="third-party cellular network carriers"/>
+<node id="wholesalers"/>
+<node id="retailers"/>
+<node id="resellers"/>
+<node id="tet sales channels"/>
+<node id="2024"/>
+<node id="38%"/>
+<node id="62%"/>
+<node id="tet net sales distribution"/>
+<node id="markets for tet products and services"/>
+<node id="highly competitive"/>
+<node id="aggressive price competition"/>
+<node id="downward pressure on gross margins"/>
+<node id="frequent introduction of new products and services"/>
+<node id="short product life cycles"/>
+<node id="industry competition"/>
+<node id="evolving industry standards"/>
+<node id="continual improvement in product price and performance characteristics"/>
+<node id="rapid adoption of technological advancements by competitors"/>
+<node id="price sensitivity on the part of consumers and businesses"/>
+<node id="tet competitors"/>
+<node id="aggressive pricing"/>
+<node id="very low cost structures"/>
+<node id="imitating tet"/>
+<node id="imitation of products"/>
+<node id="infringement of intellectual property"/>
+<node id="tet's ability to compete successfully"/>
+<node id="timely introduction of innovative new products, services and technologies"/>
+<node id="operating system"/>
+<node id="software applications"/>
+<node id="related services"/>
+<node id="price"/>
+<node id="product and service features"/>
+<node id="relative price and performance"/>
+<node id="product and service quality and reliability"/>
+<node id="design innovation"/>
+<node id="strong third-party software and accessories ecosystem"/>
+<node id="wearables and accessories"/>
+<node id="smartphones market"/>
+<node id="personal computers market"/>
+<node id="tablets market"/>
+<node id="wearables and accessories market"/>
+<node id="services market"/>
+<node id="tet competition"/>
+<node id="companies with significant technical capability"/>
+<node id="companies with significant marketing capability"/>
+<node id="companies with significant technical, marketing, distribution and other resources"/>
+<node id="companies with established hardware, software, and service offerings"/>
+<node id="companies with large customer bases"/>
+<node id="competitors with broader product lines"/>
+<node id="competitors with lower priced products"/>
+<node id="competitors with larger installed base of active devices"/>
+<node id="particularly intense"/>
+<node id="tet competition intensity"/>
+<node id="competitors aggressively cutting prices"/>
+<node id="intense competition"/>
+<node id="certain tet competitors"/>
+<node id="provide products at little or no profit or even at a loss"/>
+<node id="tet services"/>
+<node id="business models offering free content"/>
+<node id="illegitimate means to obtain third-party digital content and applications"/>
+<node id="significant competition"/>
+<node id="competitors"/>
+<node id="tet product features and applications"/>
+<node id="integrated solutions"/>
+<node id="certain components"/>
+<node id="single sources"/>
+<node id="tables"/>
+<node id="the last saturday of september"/>
+<node id="52- or 53-week period"/>
+<node id="iphone"/>
+<node id="tet's ios operating system"/>
+<node id="iphone 16 pro"/>
+<node id="tet smartphones"/>
+<node id="ios"/>
+<node id="tet personal computers"/>
+<node id="macos"/>
+<node id="tet tablets"/>
+<node id="ipados"/>
+<node id="tet iphone line"/>
+<node id="iphone 16"/>
+<node id="iphone 15"/>
+<node id="iphone 14"/>
+<node id="iphone se"/>
+<node id="tet mac line"/>
+<node id="macbook air"/>
+<node id="macbook pro"/>
+<node id="imac"/>
+<node id="mac mini"/>
+<node id="mac studio"/>
+<node id="mac pro"/>
+<node id="apple"/>
+<node id="ipad"/>
+<node id="ipad line"/>
+<node id="ipados operating system"/>
+<node id="ipad pro"/>
+<node id="ipad air"/>
+<node id="ipad mini"/>
+<node id="wearables, home and accessories"/>
+<node id="wearables, home and accessories category"/>
+<node id="smartwatches"/>
+<node id="wireless headphones"/>
+<node id="spatial computers"/>
+<node id="smartwatches line"/>
+<node id="watchos operating system"/>
+<node id="apple watch ultra 2"/>
+<node id="apple watch series 10"/>
+<node id="apple watch se"/>
+<node id="apple watch ultra® 2"/>
+<node id="apple watch® series 10"/>
+<node id="apple watch se®"/>
+<node id="airpods®"/>
+<node id="airpods pro®"/>
+<node id="airpods max®"/>
+<node id="beats® products"/>
+<node id="apple vision pro™"/>
+<node id="first spatial computer"/>
+<node id="visionos™"/>
+<node id="home"/>
+<node id="tet home"/>
+<node id="apple tv®"/>
+<node id="media streaming and gaming device"/>
+<node id="tvos®"/>
+<node id="homepod®"/>
+<node id="homepod mini®"/>
+<node id="apple tvos device"/>
+<node id="tvos operating system"/>
+<node id="homepod"/>
+<node id="high-fidelity wireless smart speaker"/>
+<node id="homepod mini"/>
+<node id="apple accessories segment"/>
+<node id="apple-branded accessories"/>
+<node id="third-party accessories"/>
+<node id="apple advertising services"/>
+<node id="third-party licensing arrangements"/>
+<node id="apple's own advertising platforms"/>
+<node id="applecare portfolio"/>
+<node id="fee-based service and support products"/>
+<node id="applecare® brand"/>
+<node id="the offerings"/>
+<node id="apple technical support"/>
+<node id="global apple authorized service network"/>
+<node id="repair and replacement services"/>
+<node id="accidental damage or theft and loss"/>
+<node id="coverage for accidental damage or theft and loss"/>
+<node id="country"/>
+<node id="type of product"/>
+<node id="apple cloud services"/>
+<node id="customers' content"/>
+<node id="cloud services"/>
+<node id="tet cloud services"/>
+<node id="customers’ content"/>
+<node id="customers’ content stored by tet"/>
+<node id="multiple apple devices and windows personal computers"/>
+<node id="various platforms"/>
+<node id="tet platforms"/>
+<node id="the app store"/>
+<node id="customers to discover and download applications and digital content"/>
+<node id="digital content offered by tet"/>
+<node id="books, music, video, games and podcasts"/>
+<node id="digital content through subscription-based services"/>
+<node id="digital content services"/>
+<node id="apple arcade"/>
+<node id="game subscription service"/>
+<node id="apple fitness+"/>
+<node id="personalized fitness service"/>
+<node id="apple music"/>
+<node id="curated listening experience"/>
+<node id="on-demand radio stations"/>
+<node id="apple news+"/>
+<node id="subscription news and magazine service"/>
+<node id="apple tv+"/>
+<node id="exclusive original content"/>
+<node id="live sports"/>
+<node id="payment services"/>
+<node id="apple payment services"/>
+<node id="apple card"/>
+<node id="co-branded credit card"/>
+<node id="apple pay"/>
+<node id="cashless payment service"/>
+<node id="geographic basis"/>
+<node id="apple's reportable segments"/>
+<node id="americas"/>
+<node id="europe"/>
+<node id="greater china"/>
+<node id="japan"/>
+<node id="rest of asia pacific"/>
+<node id="americas segment"/>
+<node id="north and south america"/>
+<node id="tet reportable segment greater china"/>
+<node id="china mainland"/>
+<node id="hong kong"/>
+<node id="taiwan"/>
+<node id="tet reportable segment americas"/>
+<node id="north america"/>
+<node id="south america"/>
+<node id="tet reportable segment europe"/>
+<node id="european countries"/>
+<node id="india"/>
+<node id="middle east"/>
+<node id="africa"/>
+<node id="tet reportable segment rest of asia pacific"/>
+<node id="australia"/>
+<node id="other asian countries"/>
+<node id="similar hardware products"/>
+<node id="similar software products"/>
+<node id="scope of this report section"/>
+<node id="2024 items"/>
+<node id="2023 items"/>
+<node id="year-to-year comparisons between 2024 and 2023"/>
+<node id="2022 items"/>
+<node id="year-to-year comparisons between 2023 and 2022"/>
+<node id="2022 items and 2023/2022 comparisons"/>
+<node id="tet's annual report on form 10-k for the fiscal year ended september 30, 2023"/>
+<node id="management’s discussion and analysis of financial condition and results of operations"/>
+<node id="part ii, item 7"/>
+<node id="tet announcement in first quarter 2024"/>
+<node id="macbook pro 14-in"/>
+<node id="macbook pro 16-in"/>
+<node id="tet announcement in second quarter 2024"/>
+<node id="macbook air 13-in"/>
+<node id="macbook air 15-in"/>
+<node id="tet announcement in third quarter 2024"/>
+<node id="macbook air 13-in."/>
+<node id="macbook air 13-in. release"/>
+<node id="q2 2024"/>
+<node id="macbook air 15-in."/>
+<node id="macbook air 15-in. release"/>
+<node id="ipad air release"/>
+<node id="q3 2024"/>
+<node id="ipad pro release"/>
+<node id="tet operating system"/>
+<node id="ios 18"/>
+<node id="ios 18 update"/>
+<node id="macos sequoia"/>
+<node id="macos sequoia update"/>
+<node id="ipados 18"/>
+<node id="ipados 18 update"/>
+<node id="watchos 11"/>
+<node id="watchos 11 update"/>
+<node id="visionos 2"/>
+<node id="visionos 2 update"/>
+<node id="tvos 18"/>
+<node id="tvos 18 update"/>
+<node id="apple intelligence™"/>
+<node id="apple intelligence™ release"/>
+<node id="personal intelligence system"/>
+<node id="uses generative models"/>
+<node id="iphone 16 release"/>
+<node id="q4 2024"/>
+<node id="iphone 16 plus"/>
+<node id="iphone 16 plus release"/>
+<node id="iphone 16 pro release"/>
+<node id="iphone 16 pro max"/>
+<node id="iphone 16 pro max release"/>
+<node id="apple watch series 10 release"/>
+<node id="airpods 4"/>
+<node id="airpods 4 release"/>
+<node id="tet fiscal year"/>
+<node id="last saturday of september"/>
+<node id="52- or 53-week"/>
+<node id="tet fiscal year calculation"/>
+<node id="five or six years"/>
+<node id="first quarter of 2023"/>
+<node id="tet fiscal year 2024"/>
+<node id="52 weeks"/>
+<node id="tet fiscal year 2022"/>
+<node id="tet fiscal year 2023"/>
+<node id="53 weeks"/>
+<node id="macroeconomic conditions"/>
+<node id="tet results of operations"/>
+<node id="tet financial condition"/>
+<node id="$391,035 million"/>
+<node id="$383,285 million"/>
+<node id="$394,328 million"/>
+<node id="tet total net sales"/>
+<node id="2%"/>
+<node id="-3%"/>
+<node id="tet americas segment"/>
+<node id="$167,045 million"/>
+<node id="$162,560 million"/>
+<node id="$169,658 million"/>
+<node id="tet americas segment net sales"/>
+<node id="3%"/>
+<node id="-4%"/>
+<node id="tet europe segment"/>
+<node id="$101,328 million"/>
+<node id="$94,294 million"/>
+<node id="$95,118 million"/>
+<node id="tet europe segment net sales"/>
+<node id="7%"/>
+<node id="-1%"/>
+<node id="tet greater china segment"/>
+<node id="$66,952 million"/>
+<node id="$72,559 million"/>
+<node id="$74,200 million"/>
+<node id="tet greater china segment net sales"/>
+<node id="-8%"/>
+<node id="-2%"/>
+<node id="tet japan segment"/>
+<node id="$25,052 million"/>
+<node id="$24,257 million"/>
+<node id="$25,977 million"/>
+<node id="tet japan segment net sales"/>
+<node id="-7%"/>
+<node id="tet rest of asia pacific segment"/>
+<node id="$30,658 million"/>
+<node id="$29,615 million"/>
+<node id="$29,375 million"/>
+<node id="tet rest of asia pacific segment net sales"/>
+<node id="4%"/>
+<node id="1%"/>
+<node id="tet americas net sales"/>
+<node id="2024 vs 2023"/>
+<node id="tet americas net sales increase"/>
+<node id="higher net sales of services"/>
+<node id="tet europe net sales"/>
+<node id="tet europe net sales increase"/>
+<node id="higher net sales of iphone"/>
+<node id="tet greater china net sales"/>
+<node id="tet greater china net sales decrease"/>
+<node id="lower net sales of iphone"/>
+<node id="lower net sales of ipad"/>
+<node id="during 2024 compared to 2023"/>
+<node id="renminbi weakness relative to u.s. dollar"/>
+<node id="tet greater china net sales during 2024"/>
+<node id="tet japan net sales"/>
+<node id="tet japan net sales increase"/>
+<node id="yen weakness relative to u.s. dollar"/>
+<node id="tet japan net sales during 2024"/>
+<node id="weakness in foreign currencies relative to us dollar"/>
+<node id="tet rest of asia pacific net sales"/>
+<node id="in 2024"/>
+<node id="tet rest of asia pacific net sales increase in 2024"/>
+<node id="2023"/>
+<edge source="tet" target="business" id="0">
+  <data key="d0">experiences seasonality</data>
+</edge>
+<edge source="tet" target="first quarter" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet" target="indirect distribution channels" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet" target="product launches" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet" target="people" id="0">
+  <data key="d0">targets</data>
+</edge>
+<edge source="tet" target="approximately 164,000 full-time equivalent employees" id="0">
+  <data key="d0">may have</data>
+</edge>
+<edge source="tet" target="wide variety of employee benefits" id="0">
+  <data key="d0">identifies</data>
+</edge>
+<edge source="tet" target="wide variety of benefits" id="0">
+  <data key="d0">collaborate to offer</data>
+</edge>
+<edge source="tet" target="resources for employee development" id="0">
+  <data key="d0">invests in</data>
+</edge>
+<edge source="tet" target="apple university" id="0">
+  <data key="d0">via direct channels</data>
+</edge>
+<edge source="tet" target="online classes for business, technical and personal development" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="learning opportunities to support team member well-being" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="equal opportunity employer" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet" target="inclusion and diversity" id="0">
+  <data key="d0">committed to</data>
+</edge>
+<edge source="tet" target="workplace free of harassment or discrimination" id="0">
+  <data key="d0">works to support</data>
+</edge>
+<edge source="tet" target="vision to build and sustain a more inclusive workforce" id="0">
+  <data key="d0">targets</data>
+</edge>
+<edge source="tet" target="diverse representation at every level" id="0">
+  <data key="d0">works to support</data>
+</edge>
+<edge source="tet" target="inclusive culture" id="0">
+  <data key="d0">works to support</data>
+</edge>
+<edge source="tet" target="equitable pay and access to opportunity for all employees" id="0">
+  <data key="d0">works to support</data>
+</edge>
+<edge source="tet" target="open and honest communication" id="0">
+  <data key="d0">invests in</data>
+</edge>
+<edge source="tet" target="employee sentiment" id="0">
+  <data key="d0">conducts surveys</data>
+</edge>
+<edge source="tet" target="team members" id="0">
+  <data key="d0">not solely protects</data>
+</edge>
+<edge source="tet" target="potential workplace risks" id="0">
+  <data key="d0">identifies</data>
+</edge>
+<edge source="tet" target="potential hazards" id="0">
+  <data key="d0">mitigates</data>
+</edge>
+<edge source="tet" target="general safety, security, and crisis management training" id="0">
+  <data key="d0">provides training</data>
+</edge>
+<edge source="tet" target="employees in potentially hazardous areas" id="0">
+  <data key="d0">works to support</data>
+</edge>
+<edge source="tet" target="management training" id="0">
+  <data key="d0">identifies</data>
+</edge>
+<edge source="tet" target="specific programs for high-hazard environments" id="0">
+  <data key="d0">identifies</data>
+</edge>
+<edge source="tet" target="single or limited sources" id="0">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="other participants" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="smartphones" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="smartphones" id="1">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="smartphones" id="2">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="smartphones" id="3">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="smartphones" id="4">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="smartphones" id="5">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="personal computers" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="personal computers" id="1">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="personal computers" id="2">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="personal computers" id="3">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="personal computers" id="4">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="personal computers" id="5">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="tablets" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="tablets" id="1">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="tablets" id="2">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="tablets" id="3">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="tablets" id="4">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="wearables" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="wearables" id="1">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="wearables" id="2">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="wearables" id="3">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="accessories" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="accessories" id="1">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="accessories" id="2">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="accessories" id="3">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="initial capacity constraints" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="component availability" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="supply of many components" id="0">
+  <data key="d0">may have</data>
+</edge>
+<edge source="tet" target="for component supply" id="0">
+  <data key="d0">invests in</data>
+</edge>
+<edge source="tet" target="inability to extend component supply agreements" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="rapid technological advances" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="continual flow of competitive products, services and technologies" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet" target="enhance existing products and services" id="0">
+  <data key="d0">develops new technologies</data>
+</edge>
+<edge source="tet" target="research and development" id="0">
+  <data key="d0">expands offerings through</data>
+</edge>
+<edge source="tet" target="licensing of intellectual property" id="0">
+  <data key="d0">expands offerings through</data>
+</edge>
+<edge source="tet" target="acquisition of third-party businesses and technology" id="0">
+  <data key="d0">expands offerings through</data>
+</edge>
+<edge source="tet" target="broad collection of intellectual property rights" id="0">
+  <data key="d0">invests in</data>
+</edge>
+<edge source="tet" target="important for business differentiation" id="0">
+  <data key="d0">views ip ownership</data>
+</edge>
+<edge source="tet" target="personnel skills and abilities" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet" target="filing patent, design, copyright, trademark applications" id="0">
+  <data key="d0">develops new technologies</data>
+</edge>
+<edge source="tet" target="patent" id="0">
+  <data key="d0">files application type</data>
+</edge>
+<edge source="tet" target="design" id="0">
+  <data key="d0">files application type</data>
+</edge>
+<edge source="tet" target="copyright" id="0">
+  <data key="d0">files application type</data>
+</edge>
+<edge source="tet" target="trademark" id="0">
+  <data key="d0">files application type</data>
+</edge>
+<edge source="tet" target="thousands of applications" id="0">
+  <data key="d0">targets</data>
+</edge>
+<edge source="tet" target="large portfolio of issued and registered intellectual property rights" id="0">
+  <data key="d0">invests in</data>
+</edge>
+<edge source="tet" target="ip duration adequate" id="0">
+  <data key="d0">conducts surveys</data>
+</edge>
+<edge source="tet" target="seek or renew third party licenses" id="0">
+  <data key="d0">may have</data>
+</edge>
+<edge source="tet" target="licenses on reasonable terms" id="0">
+  <data key="d0">historically obtained</data>
+</edge>
+<edge source="tet" target="difficulty obtaining future licenses" id="0">
+  <data key="d0">identifies</data>
+</edge>
+<edge source="tet" target="products" id="0">
+  <data key="d0">invests in</data>
+</edge>
+<edge source="tet" target="third-party products" id="0">
+  <data key="d0">resells</data>
+</edge>
+<edge source="tet" target="retail stores" id="0">
+  <data key="d0">via direct channels</data>
+</edge>
+<edge source="tet" target="online stores" id="0">
+  <data key="d0">via direct channels</data>
+</edge>
+<edge source="tet" target="direct sales force" id="0">
+  <data key="d0">via direct channels</data>
+</edge>
+<edge source="tet" target="third-party cellular network carriers" id="0">
+  <data key="d0">via direct channels</data>
+</edge>
+<edge source="tet" target="wholesalers" id="0">
+  <data key="d0">via direct channels</data>
+</edge>
+<edge source="tet" target="retailers" id="0">
+  <data key="d0">via direct channels</data>
+</edge>
+<edge source="tet" target="resellers" id="0">
+  <data key="d0">via direct channels</data>
+</edge>
+<edge source="tet" target="aggressive pricing" id="0">
+  <data key="d0">conducts surveys</data>
+</edge>
+<edge source="tet" target="very low cost structures" id="0">
+  <data key="d0">conducts surveys</data>
+</edge>
+<edge source="tet" target="imitation of products" id="0">
+  <data key="d0">conducts surveys</data>
+</edge>
+<edge source="tet" target="infringement of intellectual property" id="0">
+  <data key="d0">conducts surveys</data>
+</edge>
+<edge source="tet" target="hardware" id="0">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="operating system" id="0">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="software applications" id="0">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="related services" id="0">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="related services" id="1">
+  <data key="d0">invests in</data>
+</edge>
+<edge source="tet" target="price" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="product and service features" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="relative price and performance" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="product and service quality and reliability" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="design innovation" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="strong third-party software and accessories ecosystem" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="wearables and accessories" id="0">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="services" id="0">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="smartphones market" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="personal computers market" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="tablets market" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="wearables and accessories market" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="services market" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="companies with significant technical, marketing, distribution and other resources" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="companies with established hardware, software, and service offerings" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="companies with large customer bases" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="competitors with broader product lines" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="competitors with lower priced products" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="competitors with larger installed base of active devices" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="intense competition" id="0">
+  <data key="d0">identifies</data>
+</edge>
+<edge source="tet" target="significant competition" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="tet" target="tables" id="0">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="the last saturday of september" id="0">
+  <data key="d0">ends on</data>
+</edge>
+<edge source="tet" target="52- or 53-week period" id="0">
+  <data key="d0">fiscal year length</data>
+</edge>
+<edge source="tet" target="iphone" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet" target="apple watch ultra® 2" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet" target="apple watch® series 10" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet" target="apple watch se®" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet" target="wireless headphones" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="apple vision pro™" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="home" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="cloud services" id="0">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="various platforms" id="0">
+  <data key="d0">manufactures</data>
+</edge>
+<edge source="tet" target="digital content through subscription-based services" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="digital content services" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="payment services" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="tet" target="macbook air 13-in." id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet" target="macbook air 15-in." id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet" target="ipad air" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet" target="ipad pro" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet" target="apple intelligence™" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet" target="iphone 16" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet" target="iphone 16 plus" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet" target="iphone 16 pro" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet" target="iphone 16 pro max" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet" target="apple watch series 10" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet" target="airpods 4" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet" target="$391,035 million" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet" target="$383,285 million" id="0">
+  <data key="d0">reported total net sales in 2023</data>
+</edge>
+<edge source="tet" target="$394,328 million" id="0">
+  <data key="d0">reported total net sales in 2023</data>
+</edge>
+<edge source="tet higher net sales in first quarter" target="seasonal holiday demand" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet net sales" target="new product and service introductions" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet net sales" target="38%" id="0">
+  <data key="d0">via direct channels</data>
+</edge>
+<edge source="tet net sales" target="62%" id="0">
+  <data key="d0">via direct channels</data>
+</edge>
+<edge source="new product and service introductions" target="tet cost of sales" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="new product and service introductions" target="tet operating expenses" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet net sales to indirect distribution channels" target="timing of product introductions" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="product launch" target="new inventory" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="consumers and distributors" target="product introduction anticipation" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet's people" target="success" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet employees" target="september 28, 2024" id="0">
+  <data key="d0">ends on</data>
+</edge>
+<edge source="tet compensation" target="competitiveness" id="0">
+  <data key="d0">targets</data>
+</edge>
+<edge source="tet compensation" target="equity" id="0">
+  <data key="d0">targets</data>
+</edge>
+<edge source="tet compensation" target="employee success sharing" id="0">
+  <data key="d0">targets</data>
+</edge>
+<edge source="wide variety of benefits" target="health, wellness and time away" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple university programs" target="leadership, management and influence" id="0">
+  <data key="d0">available across</data>
+</edge>
+<edge source="apple university programs" target="apple culture and values" id="0">
+  <data key="d0">available across</data>
+</edge>
+<edge source="team members" target="online classes" id="0">
+  <data key="d0">can access</data>
+</edge>
+<edge source="tet surveys" target="career development" id="0">
+  <data key="d0">measure sentiment on</data>
+</edge>
+<edge source="tet surveys" target="manager performance" id="0">
+  <data key="d0">measure sentiment on</data>
+</edge>
+<edge source="tet surveys" target="inclusivity" id="0">
+  <data key="d0">measure sentiment on</data>
+</edge>
+<edge source="smartphones" target="iphone" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="accessories" target="tet intellectual property rights" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="many components used by tet" target="industry-wide shortage" id="0">
+  <data key="d0">may have</data>
+</edge>
+<edge source="many components used by tet" target="significant commodity" id="0">
+  <data key="d0">may have</data>
+</edge>
+<edge source="industry-wide shortage" target="tet components" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet components" target="significant commodity pricing fluctuations" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet new products" target="only one source" id="0">
+  <data key="d0">use custom components from</data>
+</edge>
+<edge source="tet components with new technology" target="initial capacity constraints" id="0">
+  <data key="d0">may have</data>
+</edge>
+<edge source="component availability" target="supplier concentration on common components" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet competitive ability" target="continual research and development" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet intellectual property rights" target="hardware" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet intellectual property rights" target="software" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet intellectual property rights" target="services" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet intellectual property rights" target="patents" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet intellectual property rights" target="designs" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet intellectual property rights" target="copyrights" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet intellectual property rights" target="trademarks" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet intellectual property rights" target="trade secrets" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet intellectual property rights" target="u.s." id="0">
+  <data key="d0">located in</data>
+</edge>
+<edge source="tet intellectual property rights" target="various foreign countries" id="0">
+  <data key="d0">located in</data>
+</edge>
+<edge source="tet success" target="ip ownership" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet files applications" target="innovations" id="0">
+  <data key="d0">files application type</data>
+</edge>
+<edge source="tet is pursuing applications" target="around the world" id="0">
+  <data key="d0">located in</data>
+</edge>
+<edge source="around the world" target="tet intellectual property portfolio" id="0">
+  <data key="d0">located in</data>
+</edge>
+<edge source="single intellectual property right" target="tet's products and services" id="0">
+  <data key="d0">not solely protects</data>
+</edge>
+<edge source="tet intellectual property" target="tet products and services" id="0">
+  <data key="d0">not solely protects</data>
+</edge>
+<edge source="tet products and services" target="third party intellectual property" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="licenses" target="tet's products, processes and services" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="licenses" target="third parties" id="0">
+  <data key="d0">invests in</data>
+</edge>
+<edge source="future licenses for tet" target="not on reasonable terms" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="future licenses for tet" target="not obtainable at all" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet reportable segments" target="customer location" id="0">
+  <data key="d0">managed for alignment with</data>
+</edge>
+<edge source="tet reportable segments" target="distribution partner location" id="0">
+  <data key="d0">managed for alignment with</data>
+</edge>
+<edge source="tet reportable segments" target="unique market dynamics" id="0">
+  <data key="d0">managed for alignment with</data>
+</edge>
+<edge source="tet reportable segments" target="similar hardware products" id="0">
+  <data key="d0">works to support</data>
+</edge>
+<edge source="tet reportable segments" target="similar software products" id="0">
+  <data key="d0">works to support</data>
+</edge>
+<edge source="tet customers" target="consumer market" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet customers" target="small and mid-sized business market" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet customers" target="education market" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet customers" target="enterprise market" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet customers" target="government market" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet sales channels" target="2024" id="0">
+  <data key="d0">invests in</data>
+</edge>
+<edge source="2024" target="tet net sales distribution" id="0">
+  <data key="d0">fiscal year length</data>
+</edge>
+<edge source="2024" target="tet japan net sales" id="0">
+  <data key="d0">experiences seasonality</data>
+</edge>
+<edge source="markets for tet products and services" target="highly competitive" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="markets for tet products and services" target="aggressive price competition" id="0">
+  <data key="d0">identifies</data>
+</edge>
+<edge source="markets for tet products and services" target="frequent introduction of new products and services" id="0">
+  <data key="d0">identifies</data>
+</edge>
+<edge source="markets for tet products and services" target="short product life cycles" id="0">
+  <data key="d0">identifies</data>
+</edge>
+<edge source="aggressive price competition" target="downward pressure on gross margins" id="0">
+  <data key="d0">may have</data>
+</edge>
+<edge source="frequent introduction of new products and services" target="industry competition" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="short product life cycles" target="industry competition" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="industry competition" target="evolving industry standards" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="industry competition" target="continual improvement in product price and performance characteristics" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="industry competition" target="rapid adoption of technological advancements by competitors" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="industry competition" target="price sensitivity on the part of consumers and businesses" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet competitors" target="aggressive pricing" id="0">
+  <data key="d0">via direct channels</data>
+</edge>
+<edge source="tet competitors" target="very low cost structures" id="0">
+  <data key="d0">via direct channels</data>
+</edge>
+<edge source="tet competitors" target="imitating tet" id="0">
+  <data key="d0">via direct channels</data>
+</edge>
+<edge source="tet's ability to compete successfully" target="timely introduction of innovative new products, services and technologies" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet competition" target="companies with significant technical capability" id="0">
+  <data key="d0">identifies</data>
+</edge>
+<edge source="tet competition" target="companies with significant marketing capability" id="0">
+  <data key="d0">identifies</data>
+</edge>
+<edge source="tet competition" target="particularly intense" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet competition intensity" target="competitors aggressively cutting prices" id="0">
+  <data key="d0">driven by</data>
+</edge>
+<edge source="certain tet competitors" target="provide products at little or no profit or even at a loss" id="0">
+  <data key="d0">may have</data>
+</edge>
+<edge source="tet services" target="business models offering free content" id="0">
+  <data key="d0">considers competitive factor</data>
+</edge>
+<edge source="business models offering free content" target="illegitimate means to obtain third-party digital content and applications" id="0">
+  <data key="d0">invests in</data>
+</edge>
+<edge source="competitors" target="tet product features and applications" id="0">
+  <data key="d0">imitate</data>
+</edge>
+<edge source="competitors" target="integrated solutions" id="0">
+  <data key="d0">collaborate to offer</data>
+</edge>
+<edge source="certain components" target="single sources" id="0">
+  <data key="d0">available across</data>
+</edge>
+<edge source="iphone" target="tet's ios operating system" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="iphone" target="iphone 16 pro" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="iphone 16 pro" target="tet iphone line" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet smartphones" target="ios" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet personal computers" target="macos" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet tablets" target="ipados" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet iphone line" target="iphone 16" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet iphone line" target="iphone 15" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet iphone line" target="iphone 14" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet iphone line" target="iphone se" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet mac line" target="macbook air" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet mac line" target="macbook pro" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet mac line" target="imac" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet mac line" target="mac mini" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet mac line" target="mac studio" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet mac line" target="mac pro" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="imac" target="tet announcement in first quarter 2024" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple" target="ipad" id="0">
+  <data key="d0">under brand</data>
+</edge>
+<edge source="apple" target="wearables, home and accessories" id="0">
+  <data key="d0">under brand</data>
+</edge>
+<edge source="apple" target="smartwatches" id="0">
+  <data key="d0">under brand</data>
+</edge>
+<edge source="apple" target="applecare portfolio" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="apple" target="fee-based service and support products" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="apple" target="apple cloud services" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="apple" target="payment services" id="0">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="apple" target="geographic basis" id="0">
+  <data key="d0">based on os</data>
+</edge>
+<edge source="ipad" target="ipad line" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="ipad line" target="ipados operating system" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="ipad line" target="ipad pro" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="ipad line" target="ipad air" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="ipad line" target="ipad mini" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="ipad air" target="tet announcement in third quarter 2024" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="wearables, home and accessories category" target="smartwatches" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="wearables, home and accessories category" target="wireless headphones" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="wearables, home and accessories category" target="spatial computers" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="wireless headphones" target="airpods®" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="wireless headphones" target="airpods pro®" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="wireless headphones" target="airpods max®" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="wireless headphones" target="beats® products" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="smartwatches line" target="watchos operating system" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="smartwatches line" target="apple watch ultra 2" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="smartwatches line" target="apple watch series 10" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="smartwatches line" target="apple watch se" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple vision pro™" target="first spatial computer" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple vision pro™" target="visionos™" id="0">
+  <data key="d0">based on os</data>
+</edge>
+<edge source="tet home" target="apple tv®" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet home" target="homepod®" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet home" target="homepod mini®" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple tv®" target="media streaming and gaming device" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple tv®" target="tvos®" id="0">
+  <data key="d0">based on os</data>
+</edge>
+<edge source="apple tvos device" target="tvos operating system" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="homepod" target="high-fidelity wireless smart speaker" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="high-fidelity wireless smart speaker" target="homepod mini" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple accessories segment" target="apple-branded accessories" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple accessories segment" target="third-party accessories" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple advertising services" target="third-party licensing arrangements" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple advertising services" target="apple's own advertising platforms" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="applecare portfolio" target="fee-based service and support products" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="fee-based service and support products" target="applecare® brand" id="0">
+  <data key="d0">under brand</data>
+</edge>
+<edge source="the offerings" target="apple technical support" id="0">
+  <data key="d0">collaborate to offer</data>
+</edge>
+<edge source="the offerings" target="global apple authorized service network" id="0">
+  <data key="d0">invests in</data>
+</edge>
+<edge source="the offerings" target="accidental damage or theft and loss" id="0">
+  <data key="d0">provides additional coverage for</data>
+</edge>
+<edge source="global apple authorized service network" target="repair and replacement services" id="0">
+  <data key="d0">works to support</data>
+</edge>
+<edge source="coverage for accidental damage or theft and loss" target="country" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="coverage for accidental damage or theft and loss" target="type of product" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="apple cloud services" target="customers' content" id="0">
+  <data key="d0">located in</data>
+</edge>
+<edge source="apple cloud services" target="customers' content" id="1">
+  <data key="d0">ends on</data>
+</edge>
+<edge source="tet cloud services" target="customers’ content" id="0">
+  <data key="d0">store and keep</data>
+</edge>
+<edge source="customers’ content stored by tet" target="multiple apple devices and windows personal computers" id="0">
+  <data key="d0">available across</data>
+</edge>
+<edge source="tet platforms" target="the app store" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet platforms" target="customers to discover and download applications and digital content" id="0">
+  <data key="d0">works to support</data>
+</edge>
+<edge source="digital content offered by tet" target="books, music, video, games and podcasts" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="digital content services" target="apple arcade" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="digital content services" target="apple fitness+" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="digital content services" target="apple music" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="digital content services" target="apple news+" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="digital content services" target="apple tv+" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple arcade" target="game subscription service" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple fitness+" target="personalized fitness service" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple music" target="curated listening experience" id="0">
+  <data key="d0">identifies</data>
+</edge>
+<edge source="apple music" target="on-demand radio stations" id="0">
+  <data key="d0">identifies</data>
+</edge>
+<edge source="apple news+" target="subscription news and magazine service" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple tv+" target="exclusive original content" id="0">
+  <data key="d0">identifies</data>
+</edge>
+<edge source="apple tv+" target="exclusive original content" id="1">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="apple tv+" target="live sports" id="0">
+  <data key="d0">identifies</data>
+</edge>
+<edge source="apple tv+" target="live sports" id="1">
+  <data key="d0">faces competition from</data>
+</edge>
+<edge source="apple payment services" target="apple card" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple payment services" target="apple pay" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple card" target="co-branded credit card" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple pay" target="cashless payment service" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple's reportable segments" target="americas" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple's reportable segments" target="europe" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple's reportable segments" target="greater china" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple's reportable segments" target="japan" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple's reportable segments" target="rest of asia pacific" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="americas segment" target="north and south america" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet reportable segment greater china" target="china mainland" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet reportable segment greater china" target="hong kong" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet reportable segment greater china" target="taiwan" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet reportable segment americas" target="north america" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet reportable segment americas" target="south america" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet reportable segment europe" target="european countries" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet reportable segment europe" target="india" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet reportable segment europe" target="middle east" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet reportable segment europe" target="africa" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet reportable segment rest of asia pacific" target="australia" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet reportable segment rest of asia pacific" target="other asian countries" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="scope of this report section" target="2024 items" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="scope of this report section" target="2023 items" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="scope of this report section" target="year-to-year comparisons between 2024 and 2023" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="scope of this report section" target="2022 items" id="0">
+  <data key="d0">excludes</data>
+</edge>
+<edge source="scope of this report section" target="year-to-year comparisons between 2023 and 2022" id="0">
+  <data key="d0">excludes</data>
+</edge>
+<edge source="2022 items and 2023/2022 comparisons" target="tet's annual report on form 10-k for the fiscal year ended september 30, 2023" id="0">
+  <data key="d0">identifies</data>
+</edge>
+<edge source="tet's annual report on form 10-k for the fiscal year ended september 30, 2023" target="management’s discussion and analysis of financial condition and results of operations" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="management’s discussion and analysis of financial condition and results of operations" target="part ii, item 7" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet announcement in first quarter 2024" target="macbook pro 14-in" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet announcement in first quarter 2024" target="macbook pro 16-in" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet announcement in second quarter 2024" target="macbook air 13-in" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet announcement in second quarter 2024" target="macbook air 15-in" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="macbook air 13-in. release" target="q2 2024" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="q2 2024" target="macbook air 15-in. release" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="ipad air release" target="q3 2024" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="q3 2024" target="ipad pro release" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="q3 2024" target="ios 18 update" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="q3 2024" target="macos sequoia update" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="q3 2024" target="ipados 18 update" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="q3 2024" target="watchos 11 update" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="q3 2024" target="visionos 2 update" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="q3 2024" target="tvos 18 update" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="q3 2024" target="apple intelligence™ release" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet operating system" target="ios 18" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet operating system" target="macos sequoia" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet operating system" target="ipados 18" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet operating system" target="watchos 11" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet operating system" target="visionos 2" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet operating system" target="tvos 18" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="apple intelligence™" target="personal intelligence system" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="apple intelligence™" target="uses generative models" id="0">
+  <data key="d0">works to support</data>
+</edge>
+<edge source="iphone 16 release" target="q4 2024" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="q4 2024" target="iphone 16 plus release" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="q4 2024" target="iphone 16 pro release" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="q4 2024" target="iphone 16 pro max release" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="q4 2024" target="apple watch series 10 release" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="q4 2024" target="airpods 4 release" id="0">
+  <data key="d0">plans release</data>
+</edge>
+<edge source="tet fiscal year" target="last saturday of september" id="0">
+  <data key="d0">ends on</data>
+</edge>
+<edge source="tet fiscal year" target="52- or 53-week" id="0">
+  <data key="d0">is section</data>
+</edge>
+<edge source="tet fiscal year calculation" target="five or six years" id="0">
+  <data key="d0">ends on</data>
+</edge>
+<edge source="tet fiscal year calculation" target="first quarter of 2023" id="0">
+  <data key="d0">ends on</data>
+</edge>
+<edge source="tet fiscal year 2024" target="52 weeks" id="0">
+  <data key="d0">ends on</data>
+</edge>
+<edge source="52 weeks" target="tet fiscal year 2022" id="0">
+  <data key="d0">ends on</data>
+</edge>
+<edge source="tet fiscal year 2023" target="53 weeks" id="0">
+  <data key="d0">ends on</data>
+</edge>
+<edge source="macroeconomic conditions" target="tet results of operations" id="0">
+  <data key="d0">impacted unfavorably</data>
+</edge>
+<edge source="macroeconomic conditions" target="tet financial condition" id="0">
+  <data key="d0">impacted unfavorably</data>
+</edge>
+<edge source="tet total net sales" target="2%" id="0">
+  <data key="d0">change 2024 vs 2023</data>
+</edge>
+<edge source="tet total net sales" target="-3%" id="0">
+  <data key="d0">change 2024 vs 2023</data>
+</edge>
+<edge source="tet americas segment" target="$167,045 million" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet americas segment" target="$162,560 million" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet americas segment" target="$169,658 million" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet americas segment net sales" target="3%" id="0">
+  <data key="d0">change 2024 vs 2023</data>
+</edge>
+<edge source="tet americas segment net sales" target="-4%" id="0">
+  <data key="d0">change 2024 vs 2023</data>
+</edge>
+<edge source="3%" target="tet japan segment net sales" id="0">
+  <data key="d0">change 2024 vs 2023</data>
+</edge>
+<edge source="tet europe segment" target="$101,328 million" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet europe segment" target="$94,294 million" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet europe segment" target="$95,118 million" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet europe segment net sales" target="7%" id="0">
+  <data key="d0">change 2024 vs 2023</data>
+</edge>
+<edge source="tet europe segment net sales" target="-1%" id="0">
+  <data key="d0">change 2024 vs 2023</data>
+</edge>
+<edge source="tet greater china segment" target="$66,952 million" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet greater china segment" target="$72,559 million" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet greater china segment" target="$74,200 million" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet greater china segment net sales" target="-8%" id="0">
+  <data key="d0">change 2024 vs 2023</data>
+</edge>
+<edge source="tet greater china segment net sales" target="-2%" id="0">
+  <data key="d0">change 2024 vs 2023</data>
+</edge>
+<edge source="tet japan segment" target="$25,052 million" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet japan segment" target="$24,257 million" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet japan segment" target="$25,977 million" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet japan segment net sales" target="-7%" id="0">
+  <data key="d0">change 2024 vs 2023</data>
+</edge>
+<edge source="tet rest of asia pacific segment" target="$30,658 million" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet rest of asia pacific segment" target="$29,615 million" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet rest of asia pacific segment" target="$29,375 million" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet rest of asia pacific segment net sales" target="4%" id="0">
+  <data key="d0">change 2024 vs 2023</data>
+</edge>
+<edge source="tet rest of asia pacific segment net sales" target="1%" id="0">
+  <data key="d0">change 2024 vs 2023</data>
+</edge>
+<edge source="tet americas net sales" target="2024 vs 2023" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="2024 vs 2023" target="tet europe net sales" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="2024 vs 2023" target="tet greater china net sales" id="0">
+  <data key="d0">decreased</data>
+</edge>
+<edge source="tet americas net sales increase" target="higher net sales of services" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="higher net sales of services" target="tet europe net sales increase" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="higher net sales of services" target="tet rest of asia pacific net sales increase in 2024" id="0">
+  <data key="d0">driven by</data>
+</edge>
+<edge source="tet europe net sales increase" target="higher net sales of iphone" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="higher net sales of iphone" target="tet japan net sales increase" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet greater china net sales" target="during 2024 compared to 2023" id="0">
+  <data key="d0">decreased</data>
+</edge>
+<edge source="tet greater china net sales decrease" target="lower net sales of iphone" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="tet greater china net sales decrease" target="lower net sales of ipad" id="0">
+  <data key="d0">depending on</data>
+</edge>
+<edge source="during 2024 compared to 2023" target="tet japan net sales" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="renminbi weakness relative to u.s. dollar" target="tet greater china net sales during 2024" id="0">
+  <data key="d0">impacted unfavorably</data>
+</edge>
+<edge source="tet japan net sales" target="weakness in foreign currencies relative to us dollar" id="0">
+  <data key="d0">impacted unfavorably</data>
+</edge>
+<edge source="yen weakness relative to u.s. dollar" target="tet japan net sales during 2024" id="0">
+  <data key="d0">impacted unfavorably</data>
+</edge>
+<edge source="tet rest of asia pacific net sales" target="in 2024" id="0">
+  <data key="d0">experiences higher net sales in</data>
+</edge>
+<edge source="tet rest of asia pacific net sales increase in 2024" target="2023" id="0">
+  <data key="d0">compared to</data>
+</edge>
+</graph></graphml>

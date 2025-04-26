@@ -1,0 +1,2606 @@
+[
+  {
+    "subject": "tet",
+    "predicate": "experiences seasonality",
+    "object": "business",
+    "source_chunk": 30
+  },
+  {
+    "subject": "tet",
+    "predicate": "experiences higher net sales in",
+    "object": "first quarter",
+    "source_chunk": 30
+  },
+  {
+    "subject": "tet higher net sales in first quarter",
+    "predicate": "depending on",
+    "object": "seasonal holiday demand",
+    "source_chunk": 30
+  },
+  {
+    "subject": "tet net sales",
+    "predicate": "depending on",
+    "object": "new product and service introductions",
+    "source_chunk": 30
+  },
+  {
+    "subject": "tet cost of sales",
+    "predicate": "depending on",
+    "object": "new product and service introductions",
+    "source_chunk": 30
+  },
+  {
+    "subject": "tet operating expenses",
+    "predicate": "depending on",
+    "object": "new product and service introductions",
+    "source_chunk": 30
+  },
+  {
+    "subject": "tet net sales to indirect distribution channels",
+    "predicate": "depending on",
+    "object": "timing of product introductions",
+    "source_chunk": 30
+  },
+  {
+    "subject": "tet",
+    "predicate": "experiences higher net sales in",
+    "object": "indirect distribution channels",
+    "source_chunk": 31
+  },
+  {
+    "subject": "tet",
+    "predicate": "experiences higher net sales in",
+    "object": "product launches",
+    "source_chunk": 31
+  },
+  {
+    "subject": "product launch",
+    "predicate": "experiences higher net sales in",
+    "object": "new inventory",
+    "source_chunk": 31
+  },
+  {
+    "subject": "consumers and distributors",
+    "predicate": "experiences higher net sales in",
+    "object": "product introduction anticipation",
+    "source_chunk": 31
+  },
+  {
+    "subject": "tet's people",
+    "predicate": "depending on",
+    "object": "success",
+    "source_chunk": 31
+  },
+  {
+    "subject": "tet",
+    "predicate": "targets",
+    "object": "people",
+    "source_chunk": 31
+  },
+  {
+    "subject": "tet",
+    "predicate": "may have",
+    "object": "approximately 164,000 full-time equivalent employees",
+    "source_chunk": 32
+  },
+  {
+    "subject": "tet employees",
+    "predicate": "ends on",
+    "object": "september 28, 2024",
+    "source_chunk": 32
+  },
+  {
+    "subject": "tet compensation",
+    "predicate": "targets",
+    "object": "competitiveness",
+    "source_chunk": 33
+  },
+  {
+    "subject": "tet compensation",
+    "predicate": "targets",
+    "object": "equity",
+    "source_chunk": 33
+  },
+  {
+    "subject": "tet compensation",
+    "predicate": "targets",
+    "object": "employee success sharing",
+    "source_chunk": 33
+  },
+  {
+    "subject": "tet",
+    "predicate": "identifies",
+    "object": "wide variety of employee benefits",
+    "source_chunk": 33
+  },
+  {
+    "subject": "tet",
+    "predicate": "collaborate to offer",
+    "object": "wide variety of benefits",
+    "source_chunk": 34
+  },
+  {
+    "subject": "wide variety of benefits",
+    "predicate": "is section",
+    "object": "health, wellness and time away",
+    "source_chunk": 34
+  },
+  {
+    "subject": "tet",
+    "predicate": "invests in",
+    "object": "resources for employee development",
+    "source_chunk": 34
+  },
+  {
+    "subject": "tet",
+    "predicate": "via direct channels",
+    "object": "apple university",
+    "source_chunk": 34
+  },
+  {
+    "subject": "apple university programs",
+    "predicate": "available across",
+    "object": "leadership, management and influence",
+    "source_chunk": 34
+  },
+  {
+    "subject": "apple university programs",
+    "predicate": "available across",
+    "object": "apple culture and values",
+    "source_chunk": 34
+  },
+  {
+    "subject": "team members",
+    "predicate": "can access",
+    "object": "online classes",
+    "source_chunk": 34
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "online classes for business, technical and personal development",
+    "source_chunk": 35
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "learning opportunities to support team member well-being",
+    "source_chunk": 35
+  },
+  {
+    "subject": "tet",
+    "predicate": "is section",
+    "object": "equal opportunity employer",
+    "source_chunk": 35
+  },
+  {
+    "subject": "tet",
+    "predicate": "committed to",
+    "object": "inclusion and diversity",
+    "source_chunk": 35
+  },
+  {
+    "subject": "tet",
+    "predicate": "works to support",
+    "object": "workplace free of harassment or discrimination",
+    "source_chunk": 35
+  },
+  {
+    "subject": "tet",
+    "predicate": "targets",
+    "object": "vision to build and sustain a more inclusive workforce",
+    "source_chunk": 36
+  },
+  {
+    "subject": "tet",
+    "predicate": "works to support",
+    "object": "diverse representation at every level",
+    "source_chunk": 36
+  },
+  {
+    "subject": "tet",
+    "predicate": "works to support",
+    "object": "inclusive culture",
+    "source_chunk": 36
+  },
+  {
+    "subject": "tet",
+    "predicate": "works to support",
+    "object": "equitable pay and access to opportunity for all employees",
+    "source_chunk": 36
+  },
+  {
+    "subject": "tet",
+    "predicate": "invests in",
+    "object": "open and honest communication",
+    "source_chunk": 36
+  },
+  {
+    "subject": "tet",
+    "predicate": "conducts surveys",
+    "object": "employee sentiment",
+    "source_chunk": 37
+  },
+  {
+    "subject": "tet surveys",
+    "predicate": "measure sentiment on",
+    "object": "career development",
+    "source_chunk": 37
+  },
+  {
+    "subject": "tet surveys",
+    "predicate": "measure sentiment on",
+    "object": "manager performance",
+    "source_chunk": 37
+  },
+  {
+    "subject": "tet surveys",
+    "predicate": "measure sentiment on",
+    "object": "inclusivity",
+    "source_chunk": 37
+  },
+  {
+    "subject": "tet",
+    "predicate": "not solely protects",
+    "object": "team members",
+    "source_chunk": 38
+  },
+  {
+    "subject": "tet",
+    "predicate": "identifies",
+    "object": "potential workplace risks",
+    "source_chunk": 38
+  },
+  {
+    "subject": "tet",
+    "predicate": "mitigates",
+    "object": "potential hazards",
+    "source_chunk": 38
+  },
+  {
+    "subject": "tet",
+    "predicate": "provides training",
+    "object": "general safety, security, and crisis management training",
+    "source_chunk": 38
+  },
+  {
+    "subject": "tet",
+    "predicate": "works to support",
+    "object": "employees in potentially hazardous areas",
+    "source_chunk": 38
+  },
+  {
+    "subject": "tet",
+    "predicate": "identifies",
+    "object": "management training",
+    "source_chunk": 39
+  },
+  {
+    "subject": "tet",
+    "predicate": "identifies",
+    "object": "specific programs for high-hazard environments",
+    "source_chunk": 39
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "single or limited sources",
+    "source_chunk": 20
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "other participants",
+    "source_chunk": 20
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "smartphones",
+    "source_chunk": 20
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "personal computers",
+    "source_chunk": 20
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "tablets",
+    "source_chunk": 20
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "wearables",
+    "source_chunk": 20
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "accessories",
+    "source_chunk": 20
+  },
+  {
+    "subject": "many components used by tet",
+    "predicate": "may have",
+    "object": "industry-wide shortage",
+    "source_chunk": 20
+  },
+  {
+    "subject": "many components used by tet",
+    "predicate": "may have",
+    "object": "significant commodity",
+    "source_chunk": 20
+  },
+  {
+    "subject": "tet components",
+    "predicate": "depending on",
+    "object": "industry-wide shortage",
+    "source_chunk": 21
+  },
+  {
+    "subject": "tet components",
+    "predicate": "depending on",
+    "object": "significant commodity pricing fluctuations",
+    "source_chunk": 21
+  },
+  {
+    "subject": "tet new products",
+    "predicate": "use custom components from",
+    "object": "only one source",
+    "source_chunk": 21
+  },
+  {
+    "subject": "tet components with new technology",
+    "predicate": "may have",
+    "object": "initial capacity constraints",
+    "source_chunk": 21
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "initial capacity constraints",
+    "source_chunk": 22
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "component availability",
+    "source_chunk": 22
+  },
+  {
+    "subject": "component availability",
+    "predicate": "depending on",
+    "object": "supplier concentration on common components",
+    "source_chunk": 22
+  },
+  {
+    "subject": "tet",
+    "predicate": "may have",
+    "object": "supply of many components",
+    "source_chunk": 22
+  },
+  {
+    "subject": "tet",
+    "predicate": "invests in",
+    "object": "for component supply",
+    "source_chunk": 23
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "inability to extend component supply agreements",
+    "source_chunk": 23
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "rapid technological advances",
+    "source_chunk": 23
+  },
+  {
+    "subject": "tet competitive ability",
+    "predicate": "depending on",
+    "object": "continual research and development",
+    "source_chunk": 23
+  },
+  {
+    "subject": "tet",
+    "predicate": "depending on",
+    "object": "continual flow of competitive products, services and technologies",
+    "source_chunk": 24
+  },
+  {
+    "subject": "tet",
+    "predicate": "develops new technologies",
+    "object": "enhance existing products and services",
+    "source_chunk": 24
+  },
+  {
+    "subject": "tet",
+    "predicate": "expands offerings through",
+    "object": "research and development",
+    "source_chunk": 24
+  },
+  {
+    "subject": "tet",
+    "predicate": "expands offerings through",
+    "object": "licensing of intellectual property",
+    "source_chunk": 24
+  },
+  {
+    "subject": "tet",
+    "predicate": "expands offerings through",
+    "object": "acquisition of third-party businesses and technology",
+    "source_chunk": 24
+  },
+  {
+    "subject": "tet",
+    "predicate": "invests in",
+    "object": "broad collection of intellectual property rights",
+    "source_chunk": 25
+  },
+  {
+    "subject": "tet intellectual property rights",
+    "predicate": "is section",
+    "object": "hardware",
+    "source_chunk": 25
+  },
+  {
+    "subject": "tet intellectual property rights",
+    "predicate": "is section",
+    "object": "accessories",
+    "source_chunk": 25
+  },
+  {
+    "subject": "tet intellectual property rights",
+    "predicate": "is section",
+    "object": "software",
+    "source_chunk": 25
+  },
+  {
+    "subject": "tet intellectual property rights",
+    "predicate": "is section",
+    "object": "services",
+    "source_chunk": 25
+  },
+  {
+    "subject": "tet intellectual property rights",
+    "predicate": "is section",
+    "object": "patents",
+    "source_chunk": 25
+  },
+  {
+    "subject": "tet intellectual property rights",
+    "predicate": "is section",
+    "object": "designs",
+    "source_chunk": 25
+  },
+  {
+    "subject": "tet intellectual property rights",
+    "predicate": "is section",
+    "object": "copyrights",
+    "source_chunk": 25
+  },
+  {
+    "subject": "tet intellectual property rights",
+    "predicate": "is section",
+    "object": "trademarks",
+    "source_chunk": 25
+  },
+  {
+    "subject": "tet intellectual property rights",
+    "predicate": "is section",
+    "object": "trade secrets",
+    "source_chunk": 25
+  },
+  {
+    "subject": "tet intellectual property rights",
+    "predicate": "located in",
+    "object": "u.s.",
+    "source_chunk": 25
+  },
+  {
+    "subject": "tet intellectual property rights",
+    "predicate": "located in",
+    "object": "various foreign countries",
+    "source_chunk": 25
+  },
+  {
+    "subject": "tet",
+    "predicate": "views ip ownership",
+    "object": "important for business differentiation",
+    "source_chunk": 26
+  },
+  {
+    "subject": "tet success",
+    "predicate": "depending on",
+    "object": "ip ownership",
+    "source_chunk": 26
+  },
+  {
+    "subject": "tet",
+    "predicate": "depending on",
+    "object": "personnel skills and abilities",
+    "source_chunk": 26
+  },
+  {
+    "subject": "tet",
+    "predicate": "develops new technologies",
+    "object": "filing patent, design, copyright, trademark applications",
+    "source_chunk": 26
+  },
+  {
+    "subject": "tet",
+    "predicate": "files application type",
+    "object": "patent",
+    "source_chunk": 27
+  },
+  {
+    "subject": "tet",
+    "predicate": "files application type",
+    "object": "design",
+    "source_chunk": 27
+  },
+  {
+    "subject": "tet",
+    "predicate": "files application type",
+    "object": "copyright",
+    "source_chunk": 27
+  },
+  {
+    "subject": "tet",
+    "predicate": "files application type",
+    "object": "trademark",
+    "source_chunk": 27
+  },
+  {
+    "subject": "tet files applications",
+    "predicate": "files application type",
+    "object": "innovations",
+    "source_chunk": 27
+  },
+  {
+    "subject": "tet",
+    "predicate": "targets",
+    "object": "thousands of applications",
+    "source_chunk": 27
+  },
+  {
+    "subject": "tet is pursuing applications",
+    "predicate": "located in",
+    "object": "around the world",
+    "source_chunk": 27
+  },
+  {
+    "subject": "tet",
+    "predicate": "invests in",
+    "object": "large portfolio of issued and registered intellectual property rights",
+    "source_chunk": 27
+  },
+  {
+    "subject": "tet intellectual property portfolio",
+    "predicate": "located in",
+    "object": "around the world",
+    "source_chunk": 27
+  },
+  {
+    "subject": "single intellectual property right",
+    "predicate": "not solely protects",
+    "object": "tet's products and services",
+    "source_chunk": 27
+  },
+  {
+    "subject": "tet intellectual property",
+    "predicate": "not solely protects",
+    "object": "tet products and services",
+    "source_chunk": 28
+  },
+  {
+    "subject": "tet",
+    "predicate": "conducts surveys",
+    "object": "ip duration adequate",
+    "source_chunk": 28
+  },
+  {
+    "subject": "tet products and services",
+    "predicate": "is section",
+    "object": "third party intellectual property",
+    "source_chunk": 28
+  },
+  {
+    "subject": "tet",
+    "predicate": "may have",
+    "object": "seek or renew third party licenses",
+    "source_chunk": 28
+  },
+  {
+    "subject": "licenses",
+    "predicate": "is section",
+    "object": "tet's products, processes and services",
+    "source_chunk": 29
+  },
+  {
+    "subject": "licenses",
+    "predicate": "invests in",
+    "object": "third parties",
+    "source_chunk": 29
+  },
+  {
+    "subject": "tet",
+    "predicate": "historically obtained",
+    "object": "licenses on reasonable terms",
+    "source_chunk": 29
+  },
+  {
+    "subject": "tet",
+    "predicate": "identifies",
+    "object": "difficulty obtaining future licenses",
+    "source_chunk": 29
+  },
+  {
+    "subject": "future licenses for tet",
+    "predicate": "depending on",
+    "object": "not on reasonable terms",
+    "source_chunk": 29
+  },
+  {
+    "subject": "future licenses for tet",
+    "predicate": "depending on",
+    "object": "not obtainable at all",
+    "source_chunk": 29
+  },
+  {
+    "subject": "tet reportable segments",
+    "predicate": "managed for alignment with",
+    "object": "customer location",
+    "source_chunk": 10
+  },
+  {
+    "subject": "tet reportable segments",
+    "predicate": "managed for alignment with",
+    "object": "distribution partner location",
+    "source_chunk": 10
+  },
+  {
+    "subject": "tet reportable segments",
+    "predicate": "managed for alignment with",
+    "object": "unique market dynamics",
+    "source_chunk": 10
+  },
+  {
+    "subject": "tet customers",
+    "predicate": "is section",
+    "object": "consumer market",
+    "source_chunk": 10
+  },
+  {
+    "subject": "tet customers",
+    "predicate": "is section",
+    "object": "small and mid-sized business market",
+    "source_chunk": 10
+  },
+  {
+    "subject": "tet customers",
+    "predicate": "is section",
+    "object": "education market",
+    "source_chunk": 10
+  },
+  {
+    "subject": "tet customers",
+    "predicate": "is section",
+    "object": "enterprise market",
+    "source_chunk": 10
+  },
+  {
+    "subject": "tet customers",
+    "predicate": "is section",
+    "object": "government market",
+    "source_chunk": 10
+  },
+  {
+    "subject": "tet",
+    "predicate": "invests in",
+    "object": "products",
+    "source_chunk": 11
+  },
+  {
+    "subject": "tet",
+    "predicate": "resells",
+    "object": "third-party products",
+    "source_chunk": 11
+  },
+  {
+    "subject": "tet",
+    "predicate": "via direct channels",
+    "object": "retail stores",
+    "source_chunk": 11
+  },
+  {
+    "subject": "tet",
+    "predicate": "via direct channels",
+    "object": "online stores",
+    "source_chunk": 11
+  },
+  {
+    "subject": "tet",
+    "predicate": "via direct channels",
+    "object": "direct sales force",
+    "source_chunk": 11
+  },
+  {
+    "subject": "tet",
+    "predicate": "via direct channels",
+    "object": "third-party cellular network carriers",
+    "source_chunk": 11
+  },
+  {
+    "subject": "tet",
+    "predicate": "via direct channels",
+    "object": "wholesalers",
+    "source_chunk": 11
+  },
+  {
+    "subject": "tet",
+    "predicate": "via direct channels",
+    "object": "retailers",
+    "source_chunk": 11
+  },
+  {
+    "subject": "tet",
+    "predicate": "via direct channels",
+    "object": "resellers",
+    "source_chunk": 11
+  },
+  {
+    "subject": "tet sales channels",
+    "predicate": "invests in",
+    "object": "2024",
+    "source_chunk": 11
+  },
+  {
+    "subject": "tet net sales",
+    "predicate": "via direct channels",
+    "object": "38%",
+    "source_chunk": 12
+  },
+  {
+    "subject": "tet net sales",
+    "predicate": "via direct channels",
+    "object": "62%",
+    "source_chunk": 12
+  },
+  {
+    "subject": "tet net sales distribution",
+    "predicate": "fiscal year length",
+    "object": "2024",
+    "source_chunk": 12
+  },
+  {
+    "subject": "markets for tet products and services",
+    "predicate": "is section",
+    "object": "highly competitive",
+    "source_chunk": 12
+  },
+  {
+    "subject": "markets for tet products and services",
+    "predicate": "identifies",
+    "object": "aggressive price competition",
+    "source_chunk": 12
+  },
+  {
+    "subject": "aggressive price competition",
+    "predicate": "may have",
+    "object": "downward pressure on gross margins",
+    "source_chunk": 12
+  },
+  {
+    "subject": "markets for tet products and services",
+    "predicate": "identifies",
+    "object": "frequent introduction of new products and services",
+    "source_chunk": 12
+  },
+  {
+    "subject": "markets for tet products and services",
+    "predicate": "identifies",
+    "object": "short product life cycles",
+    "source_chunk": 12
+  },
+  {
+    "subject": "industry competition",
+    "predicate": "is section",
+    "object": "frequent introduction of new products and services",
+    "source_chunk": 13
+  },
+  {
+    "subject": "industry competition",
+    "predicate": "is section",
+    "object": "short product life cycles",
+    "source_chunk": 13
+  },
+  {
+    "subject": "industry competition",
+    "predicate": "is section",
+    "object": "evolving industry standards",
+    "source_chunk": 13
+  },
+  {
+    "subject": "industry competition",
+    "predicate": "is section",
+    "object": "continual improvement in product price and performance characteristics",
+    "source_chunk": 13
+  },
+  {
+    "subject": "industry competition",
+    "predicate": "is section",
+    "object": "rapid adoption of technological advancements by competitors",
+    "source_chunk": 13
+  },
+  {
+    "subject": "industry competition",
+    "predicate": "is section",
+    "object": "price sensitivity on the part of consumers and businesses",
+    "source_chunk": 13
+  },
+  {
+    "subject": "tet competitors",
+    "predicate": "via direct channels",
+    "object": "aggressive pricing",
+    "source_chunk": 13
+  },
+  {
+    "subject": "tet competitors",
+    "predicate": "via direct channels",
+    "object": "very low cost structures",
+    "source_chunk": 13
+  },
+  {
+    "subject": "tet competitors",
+    "predicate": "via direct channels",
+    "object": "imitating tet",
+    "source_chunk": 13
+  },
+  {
+    "subject": "tet",
+    "predicate": "conducts surveys",
+    "object": "aggressive pricing",
+    "source_chunk": 14
+  },
+  {
+    "subject": "tet",
+    "predicate": "conducts surveys",
+    "object": "very low cost structures",
+    "source_chunk": 14
+  },
+  {
+    "subject": "tet",
+    "predicate": "conducts surveys",
+    "object": "imitation of products",
+    "source_chunk": 14
+  },
+  {
+    "subject": "tet",
+    "predicate": "conducts surveys",
+    "object": "infringement of intellectual property",
+    "source_chunk": 14
+  },
+  {
+    "subject": "tet's ability to compete successfully",
+    "predicate": "depending on",
+    "object": "timely introduction of innovative new products, services and technologies",
+    "source_chunk": 14
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "hardware",
+    "source_chunk": 15
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "operating system",
+    "source_chunk": 15
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "software applications",
+    "source_chunk": 15
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "related services",
+    "source_chunk": 15
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "price",
+    "source_chunk": 15
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "product and service features",
+    "source_chunk": 15
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "relative price and performance",
+    "source_chunk": 15
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "product and service quality and reliability",
+    "source_chunk": 15
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "design innovation",
+    "source_chunk": 15
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "strong third-party software and accessories ecosystem",
+    "source_chunk": 15
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "smartphones",
+    "source_chunk": 16
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "personal computers",
+    "source_chunk": 16
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "tablets",
+    "source_chunk": 16
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "wearables and accessories",
+    "source_chunk": 16
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "services",
+    "source_chunk": 16
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "smartphones market",
+    "source_chunk": 16
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "personal computers market",
+    "source_chunk": 16
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "tablets market",
+    "source_chunk": 16
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "wearables and accessories market",
+    "source_chunk": 16
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "services market",
+    "source_chunk": 16
+  },
+  {
+    "subject": "tet competition",
+    "predicate": "identifies",
+    "object": "companies with significant technical capability",
+    "source_chunk": 16
+  },
+  {
+    "subject": "tet competition",
+    "predicate": "identifies",
+    "object": "companies with significant marketing capability",
+    "source_chunk": 16
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "companies with significant technical, marketing, distribution and other resources",
+    "source_chunk": 17
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "companies with established hardware, software, and service offerings",
+    "source_chunk": 17
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "companies with large customer bases",
+    "source_chunk": 17
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "competitors with broader product lines",
+    "source_chunk": 17
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "competitors with lower priced products",
+    "source_chunk": 17
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "competitors with larger installed base of active devices",
+    "source_chunk": 17
+  },
+  {
+    "subject": "tet competition",
+    "predicate": "is section",
+    "object": "particularly intense",
+    "source_chunk": 17
+  },
+  {
+    "subject": "tet competition intensity",
+    "predicate": "driven by",
+    "object": "competitors aggressively cutting prices",
+    "source_chunk": 17
+  },
+  {
+    "subject": "tet",
+    "predicate": "identifies",
+    "object": "intense competition",
+    "source_chunk": 18
+  },
+  {
+    "subject": "certain tet competitors",
+    "predicate": "may have",
+    "object": "provide products at little or no profit or even at a loss",
+    "source_chunk": 18
+  },
+  {
+    "subject": "tet services",
+    "predicate": "considers competitive factor",
+    "object": "business models offering free content",
+    "source_chunk": 18
+  },
+  {
+    "subject": "business models offering free content",
+    "predicate": "invests in",
+    "object": "illegitimate means to obtain third-party digital content and applications",
+    "source_chunk": 18
+  },
+  {
+    "subject": "tet",
+    "predicate": "considers competitive factor",
+    "object": "significant competition",
+    "source_chunk": 19
+  },
+  {
+    "subject": "competitors",
+    "predicate": "imitate",
+    "object": "tet product features and applications",
+    "source_chunk": 19
+  },
+  {
+    "subject": "competitors",
+    "predicate": "collaborate to offer",
+    "object": "integrated solutions",
+    "source_chunk": 19
+  },
+  {
+    "subject": "certain components",
+    "predicate": "available across",
+    "object": "single sources",
+    "source_chunk": 19
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "smartphones",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "personal computers",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "tables",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "wearables",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "accessories",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "smartphones",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "personal computers",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "tablets",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "wearables",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "accessories",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "smartphones",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "personal computers",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "tablets",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "wearables",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "accessories",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "invests in",
+    "object": "related services",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "ends on",
+    "object": "the last saturday of september",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "fiscal year length",
+    "object": "52- or 53-week period",
+    "source_chunk": 0
+  },
+  {
+    "subject": "iphone",
+    "predicate": "is section",
+    "object": "tet",
+    "source_chunk": 0
+  },
+  {
+    "subject": "iphone",
+    "predicate": "is section",
+    "object": "smartphones",
+    "source_chunk": 0
+  },
+  {
+    "subject": "iphone",
+    "predicate": "depending on",
+    "object": "tet's ios operating system",
+    "source_chunk": 0
+  },
+  {
+    "subject": "iphone",
+    "predicate": "is section",
+    "object": "iphone 16 pro",
+    "source_chunk": 0
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "smartphones",
+    "source_chunk": 1
+  },
+  {
+    "subject": "tet smartphones",
+    "predicate": "depending on",
+    "object": "ios",
+    "source_chunk": 1
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "personal computers",
+    "source_chunk": 1
+  },
+  {
+    "subject": "tet personal computers",
+    "predicate": "depending on",
+    "object": "macos",
+    "source_chunk": 1
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "tablets",
+    "source_chunk": 1
+  },
+  {
+    "subject": "tet tablets",
+    "predicate": "depending on",
+    "object": "ipados",
+    "source_chunk": 1
+  },
+  {
+    "subject": "tet iphone line",
+    "predicate": "is section",
+    "object": "iphone 16 pro",
+    "source_chunk": 1
+  },
+  {
+    "subject": "tet iphone line",
+    "predicate": "is section",
+    "object": "iphone 16",
+    "source_chunk": 1
+  },
+  {
+    "subject": "tet iphone line",
+    "predicate": "is section",
+    "object": "iphone 15",
+    "source_chunk": 1
+  },
+  {
+    "subject": "tet iphone line",
+    "predicate": "is section",
+    "object": "iphone 14",
+    "source_chunk": 1
+  },
+  {
+    "subject": "tet iphone line",
+    "predicate": "is section",
+    "object": "iphone se",
+    "source_chunk": 1
+  },
+  {
+    "subject": "tet mac line",
+    "predicate": "is section",
+    "object": "macbook air",
+    "source_chunk": 1
+  },
+  {
+    "subject": "tet mac line",
+    "predicate": "is section",
+    "object": "macbook pro",
+    "source_chunk": 1
+  },
+  {
+    "subject": "tet mac line",
+    "predicate": "is section",
+    "object": "imac",
+    "source_chunk": 1
+  },
+  {
+    "subject": "tet mac line",
+    "predicate": "is section",
+    "object": "mac mini",
+    "source_chunk": 1
+  },
+  {
+    "subject": "tet mac line",
+    "predicate": "is section",
+    "object": "mac studio",
+    "source_chunk": 1
+  },
+  {
+    "subject": "tet mac line",
+    "predicate": "is section",
+    "object": "mac pro",
+    "source_chunk": 1
+  },
+  {
+    "subject": "apple",
+    "predicate": "under brand",
+    "object": "ipad",
+    "source_chunk": 2
+  },
+  {
+    "subject": "ipad line",
+    "predicate": "depending on",
+    "object": "ipados operating system",
+    "source_chunk": 2
+  },
+  {
+    "subject": "ipad line",
+    "predicate": "is section",
+    "object": "ipad pro",
+    "source_chunk": 2
+  },
+  {
+    "subject": "ipad line",
+    "predicate": "is section",
+    "object": "ipad air",
+    "source_chunk": 2
+  },
+  {
+    "subject": "ipad line",
+    "predicate": "is section",
+    "object": "ipad",
+    "source_chunk": 2
+  },
+  {
+    "subject": "ipad line",
+    "predicate": "is section",
+    "object": "ipad mini",
+    "source_chunk": 2
+  },
+  {
+    "subject": "apple",
+    "predicate": "under brand",
+    "object": "wearables, home and accessories",
+    "source_chunk": 2
+  },
+  {
+    "subject": "wearables, home and accessories category",
+    "predicate": "is section",
+    "object": "smartwatches",
+    "source_chunk": 2
+  },
+  {
+    "subject": "wearables, home and accessories category",
+    "predicate": "is section",
+    "object": "wireless headphones",
+    "source_chunk": 2
+  },
+  {
+    "subject": "wearables, home and accessories category",
+    "predicate": "is section",
+    "object": "spatial computers",
+    "source_chunk": 2
+  },
+  {
+    "subject": "apple",
+    "predicate": "under brand",
+    "object": "smartwatches",
+    "source_chunk": 2
+  },
+  {
+    "subject": "smartwatches line",
+    "predicate": "depending on",
+    "object": "watchos operating system",
+    "source_chunk": 2
+  },
+  {
+    "subject": "smartwatches line",
+    "predicate": "is section",
+    "object": "apple watch ultra 2",
+    "source_chunk": 2
+  },
+  {
+    "subject": "smartwatches line",
+    "predicate": "is section",
+    "object": "apple watch series 10",
+    "source_chunk": 2
+  },
+  {
+    "subject": "smartwatches line",
+    "predicate": "is section",
+    "object": "apple watch se",
+    "source_chunk": 2
+  },
+  {
+    "subject": "tet",
+    "predicate": "is section",
+    "object": "apple watch ultra\u00ae 2",
+    "source_chunk": 3
+  },
+  {
+    "subject": "tet",
+    "predicate": "is section",
+    "object": "apple watch\u00ae series 10",
+    "source_chunk": 3
+  },
+  {
+    "subject": "tet",
+    "predicate": "is section",
+    "object": "apple watch se\u00ae",
+    "source_chunk": 3
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "wireless headphones",
+    "source_chunk": 3
+  },
+  {
+    "subject": "wireless headphones",
+    "predicate": "is section",
+    "object": "airpods\u00ae",
+    "source_chunk": 3
+  },
+  {
+    "subject": "wireless headphones",
+    "predicate": "is section",
+    "object": "airpods pro\u00ae",
+    "source_chunk": 3
+  },
+  {
+    "subject": "wireless headphones",
+    "predicate": "is section",
+    "object": "airpods max\u00ae",
+    "source_chunk": 3
+  },
+  {
+    "subject": "wireless headphones",
+    "predicate": "is section",
+    "object": "beats\u00ae products",
+    "source_chunk": 3
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "apple vision pro\u2122",
+    "source_chunk": 3
+  },
+  {
+    "subject": "apple vision pro\u2122",
+    "predicate": "is section",
+    "object": "first spatial computer",
+    "source_chunk": 3
+  },
+  {
+    "subject": "apple vision pro\u2122",
+    "predicate": "based on os",
+    "object": "visionos\u2122",
+    "source_chunk": 3
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "home",
+    "source_chunk": 3
+  },
+  {
+    "subject": "tet home",
+    "predicate": "is section",
+    "object": "apple tv\u00ae",
+    "source_chunk": 3
+  },
+  {
+    "subject": "apple tv\u00ae",
+    "predicate": "is section",
+    "object": "media streaming and gaming device",
+    "source_chunk": 3
+  },
+  {
+    "subject": "apple tv\u00ae",
+    "predicate": "based on os",
+    "object": "tvos\u00ae",
+    "source_chunk": 3
+  },
+  {
+    "subject": "tet home",
+    "predicate": "is section",
+    "object": "homepod\u00ae",
+    "source_chunk": 3
+  },
+  {
+    "subject": "tet home",
+    "predicate": "is section",
+    "object": "homepod mini\u00ae",
+    "source_chunk": 3
+  },
+  {
+    "subject": "apple tvos device",
+    "predicate": "depending on",
+    "object": "tvos operating system",
+    "source_chunk": 4
+  },
+  {
+    "subject": "homepod",
+    "predicate": "is section",
+    "object": "high-fidelity wireless smart speaker",
+    "source_chunk": 4
+  },
+  {
+    "subject": "homepod mini",
+    "predicate": "is section",
+    "object": "high-fidelity wireless smart speaker",
+    "source_chunk": 4
+  },
+  {
+    "subject": "apple accessories segment",
+    "predicate": "is section",
+    "object": "apple-branded accessories",
+    "source_chunk": 4
+  },
+  {
+    "subject": "apple accessories segment",
+    "predicate": "is section",
+    "object": "third-party accessories",
+    "source_chunk": 4
+  },
+  {
+    "subject": "apple advertising services",
+    "predicate": "is section",
+    "object": "third-party licensing arrangements",
+    "source_chunk": 4
+  },
+  {
+    "subject": "apple advertising services",
+    "predicate": "is section",
+    "object": "apple's own advertising platforms",
+    "source_chunk": 4
+  },
+  {
+    "subject": "apple",
+    "predicate": "faces competition from",
+    "object": "applecare portfolio",
+    "source_chunk": 4
+  },
+  {
+    "subject": "applecare portfolio",
+    "predicate": "is section",
+    "object": "fee-based service and support products",
+    "source_chunk": 4
+  },
+  {
+    "subject": "fee-based service and support products",
+    "predicate": "under brand",
+    "object": "applecare\u00ae brand",
+    "source_chunk": 5
+  },
+  {
+    "subject": "apple",
+    "predicate": "faces competition from",
+    "object": "fee-based service and support products",
+    "source_chunk": 5
+  },
+  {
+    "subject": "the offerings",
+    "predicate": "collaborate to offer",
+    "object": "apple technical support",
+    "source_chunk": 5
+  },
+  {
+    "subject": "the offerings",
+    "predicate": "invests in",
+    "object": "global apple authorized service network",
+    "source_chunk": 5
+  },
+  {
+    "subject": "global apple authorized service network",
+    "predicate": "works to support",
+    "object": "repair and replacement services",
+    "source_chunk": 5
+  },
+  {
+    "subject": "the offerings",
+    "predicate": "provides additional coverage for",
+    "object": "accidental damage or theft and loss",
+    "source_chunk": 5
+  },
+  {
+    "subject": "coverage for accidental damage or theft and loss",
+    "predicate": "depending on",
+    "object": "country",
+    "source_chunk": 5
+  },
+  {
+    "subject": "coverage for accidental damage or theft and loss",
+    "predicate": "depending on",
+    "object": "type of product",
+    "source_chunk": 5
+  },
+  {
+    "subject": "apple",
+    "predicate": "faces competition from",
+    "object": "apple cloud services",
+    "source_chunk": 5
+  },
+  {
+    "subject": "apple cloud services",
+    "predicate": "located in",
+    "object": "customers' content",
+    "source_chunk": 5
+  },
+  {
+    "subject": "apple cloud services",
+    "predicate": "ends on",
+    "object": "customers' content",
+    "source_chunk": 5
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "cloud services",
+    "source_chunk": 6
+  },
+  {
+    "subject": "tet cloud services",
+    "predicate": "store and keep",
+    "object": "customers\u2019 content",
+    "source_chunk": 6
+  },
+  {
+    "subject": "customers\u2019 content stored by tet",
+    "predicate": "available across",
+    "object": "multiple apple devices and windows personal computers",
+    "source_chunk": 6
+  },
+  {
+    "subject": "tet",
+    "predicate": "manufactures",
+    "object": "various platforms",
+    "source_chunk": 6
+  },
+  {
+    "subject": "tet platforms",
+    "predicate": "is section",
+    "object": "the app store",
+    "source_chunk": 6
+  },
+  {
+    "subject": "tet platforms",
+    "predicate": "works to support",
+    "object": "customers to discover and download applications and digital content",
+    "source_chunk": 6
+  },
+  {
+    "subject": "digital content offered by tet",
+    "predicate": "is section",
+    "object": "books, music, video, games and podcasts",
+    "source_chunk": 6
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "digital content through subscription-based services",
+    "source_chunk": 6
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "digital content services",
+    "source_chunk": 7
+  },
+  {
+    "subject": "digital content services",
+    "predicate": "is section",
+    "object": "apple arcade",
+    "source_chunk": 7
+  },
+  {
+    "subject": "apple arcade",
+    "predicate": "is section",
+    "object": "game subscription service",
+    "source_chunk": 7
+  },
+  {
+    "subject": "digital content services",
+    "predicate": "is section",
+    "object": "apple fitness+",
+    "source_chunk": 7
+  },
+  {
+    "subject": "apple fitness+",
+    "predicate": "is section",
+    "object": "personalized fitness service",
+    "source_chunk": 7
+  },
+  {
+    "subject": "digital content services",
+    "predicate": "is section",
+    "object": "apple music",
+    "source_chunk": 7
+  },
+  {
+    "subject": "apple music",
+    "predicate": "identifies",
+    "object": "curated listening experience",
+    "source_chunk": 7
+  },
+  {
+    "subject": "apple music",
+    "predicate": "identifies",
+    "object": "on-demand radio stations",
+    "source_chunk": 7
+  },
+  {
+    "subject": "digital content services",
+    "predicate": "is section",
+    "object": "apple news+",
+    "source_chunk": 7
+  },
+  {
+    "subject": "apple news+",
+    "predicate": "is section",
+    "object": "subscription news and magazine service",
+    "source_chunk": 7
+  },
+  {
+    "subject": "digital content services",
+    "predicate": "is section",
+    "object": "apple tv+",
+    "source_chunk": 7
+  },
+  {
+    "subject": "apple tv+",
+    "predicate": "identifies",
+    "object": "exclusive original content",
+    "source_chunk": 7
+  },
+  {
+    "subject": "apple tv+",
+    "predicate": "identifies",
+    "object": "live sports",
+    "source_chunk": 7
+  },
+  {
+    "subject": "tet",
+    "predicate": "faces competition from",
+    "object": "payment services",
+    "source_chunk": 7
+  },
+  {
+    "subject": "apple tv+",
+    "predicate": "faces competition from",
+    "object": "exclusive original content",
+    "source_chunk": 8
+  },
+  {
+    "subject": "apple tv+",
+    "predicate": "faces competition from",
+    "object": "live sports",
+    "source_chunk": 8
+  },
+  {
+    "subject": "apple",
+    "predicate": "faces competition from",
+    "object": "payment services",
+    "source_chunk": 8
+  },
+  {
+    "subject": "apple payment services",
+    "predicate": "is section",
+    "object": "apple card",
+    "source_chunk": 8
+  },
+  {
+    "subject": "apple card",
+    "predicate": "is section",
+    "object": "co-branded credit card",
+    "source_chunk": 8
+  },
+  {
+    "subject": "apple payment services",
+    "predicate": "is section",
+    "object": "apple pay",
+    "source_chunk": 8
+  },
+  {
+    "subject": "apple pay",
+    "predicate": "is section",
+    "object": "cashless payment service",
+    "source_chunk": 8
+  },
+  {
+    "subject": "apple",
+    "predicate": "based on os",
+    "object": "geographic basis",
+    "source_chunk": 8
+  },
+  {
+    "subject": "apple's reportable segments",
+    "predicate": "is section",
+    "object": "americas",
+    "source_chunk": 8
+  },
+  {
+    "subject": "apple's reportable segments",
+    "predicate": "is section",
+    "object": "europe",
+    "source_chunk": 8
+  },
+  {
+    "subject": "apple's reportable segments",
+    "predicate": "is section",
+    "object": "greater china",
+    "source_chunk": 8
+  },
+  {
+    "subject": "apple's reportable segments",
+    "predicate": "is section",
+    "object": "japan",
+    "source_chunk": 8
+  },
+  {
+    "subject": "apple's reportable segments",
+    "predicate": "is section",
+    "object": "rest of asia pacific",
+    "source_chunk": 8
+  },
+  {
+    "subject": "americas segment",
+    "predicate": "is section",
+    "object": "north and south america",
+    "source_chunk": 8
+  },
+  {
+    "subject": "tet reportable segment greater china",
+    "predicate": "is section",
+    "object": "china mainland",
+    "source_chunk": 9
+  },
+  {
+    "subject": "tet reportable segment greater china",
+    "predicate": "is section",
+    "object": "hong kong",
+    "source_chunk": 9
+  },
+  {
+    "subject": "tet reportable segment greater china",
+    "predicate": "is section",
+    "object": "taiwan",
+    "source_chunk": 9
+  },
+  {
+    "subject": "tet reportable segment americas",
+    "predicate": "is section",
+    "object": "north america",
+    "source_chunk": 9
+  },
+  {
+    "subject": "tet reportable segment americas",
+    "predicate": "is section",
+    "object": "south america",
+    "source_chunk": 9
+  },
+  {
+    "subject": "tet reportable segment europe",
+    "predicate": "is section",
+    "object": "european countries",
+    "source_chunk": 9
+  },
+  {
+    "subject": "tet reportable segment europe",
+    "predicate": "is section",
+    "object": "india",
+    "source_chunk": 9
+  },
+  {
+    "subject": "tet reportable segment europe",
+    "predicate": "is section",
+    "object": "middle east",
+    "source_chunk": 9
+  },
+  {
+    "subject": "tet reportable segment europe",
+    "predicate": "is section",
+    "object": "africa",
+    "source_chunk": 9
+  },
+  {
+    "subject": "tet reportable segment rest of asia pacific",
+    "predicate": "is section",
+    "object": "australia",
+    "source_chunk": 9
+  },
+  {
+    "subject": "tet reportable segment rest of asia pacific",
+    "predicate": "is section",
+    "object": "other asian countries",
+    "source_chunk": 9
+  },
+  {
+    "subject": "tet reportable segments",
+    "predicate": "works to support",
+    "object": "similar hardware products",
+    "source_chunk": 9
+  },
+  {
+    "subject": "tet reportable segments",
+    "predicate": "works to support",
+    "object": "similar software products",
+    "source_chunk": 9
+  },
+  {
+    "subject": "scope of this report section",
+    "predicate": "is section",
+    "object": "2024 items",
+    "source_chunk": 40
+  },
+  {
+    "subject": "scope of this report section",
+    "predicate": "is section",
+    "object": "2023 items",
+    "source_chunk": 40
+  },
+  {
+    "subject": "scope of this report section",
+    "predicate": "is section",
+    "object": "year-to-year comparisons between 2024 and 2023",
+    "source_chunk": 40
+  },
+  {
+    "subject": "scope of this report section",
+    "predicate": "excludes",
+    "object": "2022 items",
+    "source_chunk": 40
+  },
+  {
+    "subject": "scope of this report section",
+    "predicate": "excludes",
+    "object": "year-to-year comparisons between 2023 and 2022",
+    "source_chunk": 40
+  },
+  {
+    "subject": "2022 items and 2023/2022 comparisons",
+    "predicate": "identifies",
+    "object": "tet's annual report on form 10-k for the fiscal year ended september 30, 2023",
+    "source_chunk": 40
+  },
+  {
+    "subject": "tet's annual report on form 10-k for the fiscal year ended september 30, 2023",
+    "predicate": "is section",
+    "object": "management\u2019s discussion and analysis of financial condition and results of operations",
+    "source_chunk": 40
+  },
+  {
+    "subject": "management\u2019s discussion and analysis of financial condition and results of operations",
+    "predicate": "is section",
+    "object": "part ii, item 7",
+    "source_chunk": 40
+  },
+  {
+    "subject": "tet announcement in first quarter 2024",
+    "predicate": "is section",
+    "object": "macbook pro 14-in",
+    "source_chunk": 41
+  },
+  {
+    "subject": "tet announcement in first quarter 2024",
+    "predicate": "is section",
+    "object": "macbook pro 16-in",
+    "source_chunk": 41
+  },
+  {
+    "subject": "tet announcement in first quarter 2024",
+    "predicate": "is section",
+    "object": "imac",
+    "source_chunk": 41
+  },
+  {
+    "subject": "tet announcement in second quarter 2024",
+    "predicate": "is section",
+    "object": "macbook air 13-in",
+    "source_chunk": 41
+  },
+  {
+    "subject": "tet announcement in second quarter 2024",
+    "predicate": "is section",
+    "object": "macbook air 15-in",
+    "source_chunk": 41
+  },
+  {
+    "subject": "tet announcement in third quarter 2024",
+    "predicate": "is section",
+    "object": "ipad air",
+    "source_chunk": 41
+  },
+  {
+    "subject": "tet",
+    "predicate": "plans release",
+    "object": "macbook air 13-in.",
+    "source_chunk": 42
+  },
+  {
+    "subject": "macbook air 13-in. release",
+    "predicate": "plans release",
+    "object": "q2 2024",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tet",
+    "predicate": "plans release",
+    "object": "macbook air 15-in.",
+    "source_chunk": 42
+  },
+  {
+    "subject": "macbook air 15-in. release",
+    "predicate": "plans release",
+    "object": "q2 2024",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tet",
+    "predicate": "plans release",
+    "object": "ipad air",
+    "source_chunk": 42
+  },
+  {
+    "subject": "ipad air release",
+    "predicate": "plans release",
+    "object": "q3 2024",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tet",
+    "predicate": "plans release",
+    "object": "ipad pro",
+    "source_chunk": 42
+  },
+  {
+    "subject": "ipad pro release",
+    "predicate": "plans release",
+    "object": "q3 2024",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tet operating system",
+    "predicate": "plans release",
+    "object": "ios 18",
+    "source_chunk": 42
+  },
+  {
+    "subject": "ios 18 update",
+    "predicate": "plans release",
+    "object": "q3 2024",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tet operating system",
+    "predicate": "plans release",
+    "object": "macos sequoia",
+    "source_chunk": 42
+  },
+  {
+    "subject": "macos sequoia update",
+    "predicate": "plans release",
+    "object": "q3 2024",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tet operating system",
+    "predicate": "plans release",
+    "object": "ipados 18",
+    "source_chunk": 42
+  },
+  {
+    "subject": "ipados 18 update",
+    "predicate": "plans release",
+    "object": "q3 2024",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tet operating system",
+    "predicate": "plans release",
+    "object": "watchos 11",
+    "source_chunk": 42
+  },
+  {
+    "subject": "watchos 11 update",
+    "predicate": "plans release",
+    "object": "q3 2024",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tet operating system",
+    "predicate": "plans release",
+    "object": "visionos 2",
+    "source_chunk": 42
+  },
+  {
+    "subject": "visionos 2 update",
+    "predicate": "plans release",
+    "object": "q3 2024",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tet operating system",
+    "predicate": "plans release",
+    "object": "tvos 18",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tvos 18 update",
+    "predicate": "plans release",
+    "object": "q3 2024",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tet",
+    "predicate": "plans release",
+    "object": "apple intelligence\u2122",
+    "source_chunk": 42
+  },
+  {
+    "subject": "apple intelligence\u2122 release",
+    "predicate": "plans release",
+    "object": "q3 2024",
+    "source_chunk": 42
+  },
+  {
+    "subject": "apple intelligence\u2122",
+    "predicate": "is section",
+    "object": "personal intelligence system",
+    "source_chunk": 42
+  },
+  {
+    "subject": "apple intelligence\u2122",
+    "predicate": "works to support",
+    "object": "uses generative models",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tet",
+    "predicate": "plans release",
+    "object": "iphone 16",
+    "source_chunk": 42
+  },
+  {
+    "subject": "iphone 16 release",
+    "predicate": "plans release",
+    "object": "q4 2024",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tet",
+    "predicate": "plans release",
+    "object": "iphone 16 plus",
+    "source_chunk": 42
+  },
+  {
+    "subject": "iphone 16 plus release",
+    "predicate": "plans release",
+    "object": "q4 2024",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tet",
+    "predicate": "plans release",
+    "object": "iphone 16 pro",
+    "source_chunk": 42
+  },
+  {
+    "subject": "iphone 16 pro release",
+    "predicate": "plans release",
+    "object": "q4 2024",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tet",
+    "predicate": "plans release",
+    "object": "iphone 16 pro max",
+    "source_chunk": 42
+  },
+  {
+    "subject": "iphone 16 pro max release",
+    "predicate": "plans release",
+    "object": "q4 2024",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tet",
+    "predicate": "plans release",
+    "object": "apple watch series 10",
+    "source_chunk": 42
+  },
+  {
+    "subject": "apple watch series 10 release",
+    "predicate": "plans release",
+    "object": "q4 2024",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tet",
+    "predicate": "plans release",
+    "object": "airpods 4",
+    "source_chunk": 42
+  },
+  {
+    "subject": "airpods 4 release",
+    "predicate": "plans release",
+    "object": "q4 2024",
+    "source_chunk": 42
+  },
+  {
+    "subject": "tet fiscal year",
+    "predicate": "ends on",
+    "object": "last saturday of september",
+    "source_chunk": 43
+  },
+  {
+    "subject": "tet fiscal year",
+    "predicate": "is section",
+    "object": "52- or 53-week",
+    "source_chunk": 43
+  },
+  {
+    "subject": "tet fiscal year calculation",
+    "predicate": "ends on",
+    "object": "five or six years",
+    "source_chunk": 43
+  },
+  {
+    "subject": "tet fiscal year calculation",
+    "predicate": "ends on",
+    "object": "first quarter of 2023",
+    "source_chunk": 43
+  },
+  {
+    "subject": "tet fiscal year 2024",
+    "predicate": "ends on",
+    "object": "52 weeks",
+    "source_chunk": 43
+  },
+  {
+    "subject": "tet fiscal year 2022",
+    "predicate": "ends on",
+    "object": "52 weeks",
+    "source_chunk": 43
+  },
+  {
+    "subject": "tet fiscal year 2023",
+    "predicate": "ends on",
+    "object": "53 weeks",
+    "source_chunk": 43
+  },
+  {
+    "subject": "macroeconomic conditions",
+    "predicate": "impacted unfavorably",
+    "object": "tet results of operations",
+    "source_chunk": 44
+  },
+  {
+    "subject": "macroeconomic conditions",
+    "predicate": "impacted unfavorably",
+    "object": "tet financial condition",
+    "source_chunk": 44
+  },
+  {
+    "subject": "tet",
+    "predicate": "experiences higher net sales in",
+    "object": "$391,035 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet",
+    "predicate": "reported total net sales in 2023",
+    "object": "$383,285 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet",
+    "predicate": "reported total net sales in 2023",
+    "object": "$394,328 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet total net sales",
+    "predicate": "change 2024 vs 2023",
+    "object": "2%",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet total net sales",
+    "predicate": "change 2024 vs 2023",
+    "object": "-3%",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet americas segment",
+    "predicate": "experiences higher net sales in",
+    "object": "$167,045 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet americas segment",
+    "predicate": "experiences higher net sales in",
+    "object": "$162,560 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet americas segment",
+    "predicate": "experiences higher net sales in",
+    "object": "$169,658 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet americas segment net sales",
+    "predicate": "change 2024 vs 2023",
+    "object": "3%",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet americas segment net sales",
+    "predicate": "change 2024 vs 2023",
+    "object": "-4%",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet europe segment",
+    "predicate": "experiences higher net sales in",
+    "object": "$101,328 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet europe segment",
+    "predicate": "experiences higher net sales in",
+    "object": "$94,294 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet europe segment",
+    "predicate": "experiences higher net sales in",
+    "object": "$95,118 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet europe segment net sales",
+    "predicate": "change 2024 vs 2023",
+    "object": "7%",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet europe segment net sales",
+    "predicate": "change 2024 vs 2023",
+    "object": "-1%",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet greater china segment",
+    "predicate": "experiences higher net sales in",
+    "object": "$66,952 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet greater china segment",
+    "predicate": "experiences higher net sales in",
+    "object": "$72,559 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet greater china segment",
+    "predicate": "experiences higher net sales in",
+    "object": "$74,200 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet greater china segment net sales",
+    "predicate": "change 2024 vs 2023",
+    "object": "-8%",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet greater china segment net sales",
+    "predicate": "change 2024 vs 2023",
+    "object": "-2%",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet japan segment",
+    "predicate": "experiences higher net sales in",
+    "object": "$25,052 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet japan segment",
+    "predicate": "experiences higher net sales in",
+    "object": "$24,257 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet japan segment",
+    "predicate": "experiences higher net sales in",
+    "object": "$25,977 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet japan segment net sales",
+    "predicate": "change 2024 vs 2023",
+    "object": "3%",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet japan segment net sales",
+    "predicate": "change 2024 vs 2023",
+    "object": "-7%",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet rest of asia pacific segment",
+    "predicate": "experiences higher net sales in",
+    "object": "$30,658 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet rest of asia pacific segment",
+    "predicate": "experiences higher net sales in",
+    "object": "$29,615 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet rest of asia pacific segment",
+    "predicate": "experiences higher net sales in",
+    "object": "$29,375 million",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet rest of asia pacific segment net sales",
+    "predicate": "change 2024 vs 2023",
+    "object": "4%",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet rest of asia pacific segment net sales",
+    "predicate": "change 2024 vs 2023",
+    "object": "1%",
+    "source_chunk": 45
+  },
+  {
+    "subject": "tet americas net sales",
+    "predicate": "experiences higher net sales in",
+    "object": "2024 vs 2023",
+    "source_chunk": 46
+  },
+  {
+    "subject": "tet americas net sales increase",
+    "predicate": "depending on",
+    "object": "higher net sales of services",
+    "source_chunk": 46
+  },
+  {
+    "subject": "tet europe net sales",
+    "predicate": "experiences higher net sales in",
+    "object": "2024 vs 2023",
+    "source_chunk": 46
+  },
+  {
+    "subject": "tet europe net sales increase",
+    "predicate": "depending on",
+    "object": "higher net sales of services",
+    "source_chunk": 46
+  },
+  {
+    "subject": "tet europe net sales increase",
+    "predicate": "depending on",
+    "object": "higher net sales of iphone",
+    "source_chunk": 46
+  },
+  {
+    "subject": "tet greater china net sales",
+    "predicate": "decreased",
+    "object": "2024 vs 2023",
+    "source_chunk": 46
+  },
+  {
+    "subject": "tet greater china net sales decrease",
+    "predicate": "depending on",
+    "object": "lower net sales of iphone",
+    "source_chunk": 46
+  },
+  {
+    "subject": "tet greater china net sales decrease",
+    "predicate": "depending on",
+    "object": "lower net sales of ipad",
+    "source_chunk": 46
+  },
+  {
+    "subject": "tet greater china net sales",
+    "predicate": "decreased",
+    "object": "during 2024 compared to 2023",
+    "source_chunk": 47
+  },
+  {
+    "subject": "renminbi weakness relative to u.s. dollar",
+    "predicate": "impacted unfavorably",
+    "object": "tet greater china net sales during 2024",
+    "source_chunk": 47
+  },
+  {
+    "subject": "tet japan net sales",
+    "predicate": "experiences higher net sales in",
+    "object": "during 2024 compared to 2023",
+    "source_chunk": 47
+  },
+  {
+    "subject": "tet japan net sales increase",
+    "predicate": "depending on",
+    "object": "higher net sales of iphone",
+    "source_chunk": 47
+  },
+  {
+    "subject": "yen weakness relative to u.s. dollar",
+    "predicate": "impacted unfavorably",
+    "object": "tet japan net sales during 2024",
+    "source_chunk": 47
+  },
+  {
+    "subject": "tet japan net sales",
+    "predicate": "impacted unfavorably",
+    "object": "weakness in foreign currencies relative to us dollar",
+    "source_chunk": 48
+  },
+  {
+    "subject": "tet japan net sales",
+    "predicate": "experiences seasonality",
+    "object": "2024",
+    "source_chunk": 48
+  },
+  {
+    "subject": "tet rest of asia pacific net sales",
+    "predicate": "experiences higher net sales in",
+    "object": "in 2024",
+    "source_chunk": 48
+  },
+  {
+    "subject": "tet rest of asia pacific net sales increase in 2024",
+    "predicate": "compared to",
+    "object": "2023",
+    "source_chunk": 48
+  },
+  {
+    "subject": "tet rest of asia pacific net sales increase in 2024",
+    "predicate": "driven by",
+    "object": "higher net sales of services",
+    "source_chunk": 48
+  }
+]
