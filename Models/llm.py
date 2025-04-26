@@ -1,12 +1,8 @@
 import instructor
 from google.genai import types
 from google import genai
-from schemas.models import TripleList
-from utils.prompts import extraction_system_prompt, extraction_user_prompt_template
-import os
-import boto3
 from instructor import Mode
-from pydantic import BaseModel
+
 
 from config.settings import GOOGLE_API_KEY, GEMINI_MODEL_NAME
 
