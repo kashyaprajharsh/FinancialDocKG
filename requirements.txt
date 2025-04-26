@@ -21,3 +21,4 @@ python-Levenshtein
 ipython
 torch
 pydantic
+matplotlib
