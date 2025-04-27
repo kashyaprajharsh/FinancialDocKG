@@ -15,6 +15,8 @@ It leverages Large Language Models (LLMs) and Natural Language Processing (NLP) 
 *   **Interactive Visualization:** Generates an interactive graph visualization using `pyvis` and `NetworkX`, allowing exploration of the extracted knowledge.
 *   **RAG Querying:** Implements a Retrieval-Augmented Generation (RAG) system allowing users to ask natural language questions against the generated knowledge graph, grounding answers in document facts.
 *   **Caching:** Persists intermediate results (normalized triples, schema info, final graphs) to disk, enabling faster reprocessing and analysis.
+*   **Graph Building & Visualization**
+*   **(Note: Intermediate results are cached in the `companies/<company_name>/` directory, speeding up subsequent runs.)*
 
 ## Technology Stack
 
@@ -97,6 +99,20 @@ It leverages Large Language Models (LLMs) and Natural Language Processing (NLP) 
     *   **Schema Info:** Examine the generated relation definitions and canonical mappings.
     *   **Query (RAG):** Ask natural language questions about the document content.
 
+5.  **Evaluate Extracted Triples (Optional):**
+    *   Use the LLM-based evaluation module to assess the quality of extracted triples.
+    *   **Evaluate a specific company (sampling 50 random triples):**
+        ```bash
+        python -m eval.triple_evaluator --company <COMPANY_NAME> --total 50
+        ```
+    *   **Evaluate all companies:**
+        ```bash
+        python -m eval.evaluate_all_companies --total 50
+        ```
+    *   Replace `<COMPANY_NAME>` with the actual company directory name (e.g., `APPLE`).
+    *   Adjust `--total` to change the number of randomly sampled triples.
+    *   Results are saved as CSV and JSON files in the `eval/results/` directory.
+
 ## Project Structure
 
 ```
@@ -108,6 +124,7 @@ It leverages Large Language Models (LLMs) and Natural Language Processing (NLP) 
 ├── requirements.txt   # Project dependencies
 ├── README.md          # This file
 ├── companies/         # Output directory for processed data (ignored by git)
+├── eval/              # Triple evaluation scripts and results
 ├── Models/            # LLM and Embedding model interaction logic
 ├── rag_service/       # RAG retrieval and querying logic
 ├── schemas/           # Pydantic models for data structures

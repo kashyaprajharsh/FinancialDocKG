@@ -442,11 +442,56 @@ This phase describes how the Natural Language Querying feature, implemented in t
 *   **Advantages:** Completes the interactive query loop while allowing users to verify the sources of information.
 *   **Example:** The answer appears below the user's query, with an expandable "View Graph Context Used" section showing the triples that informed the response. 
 
-## Phase 10: Performance Optimizations & Production Considerations
+## Phase 10: Triple Evaluation (Using LLM-as-Judge)
+
+This optional phase uses an LLM to evaluate the quality and correctness of the extracted triples against their source text chunks.
+
+### Step 10.1: Sampling Triples
+
+*   **What:** Selects a subset of triples for evaluation.
+*   **How:** Two main strategies are supported:
+    1.  **Total Random Sampling (`--total` parameter):** Randomly selects a fixed number of triples (e.g., 50, 100) from the *entire* set of extracted triples across all chunks. The specific chunk ID for each selected triple is retained.
+    2.  **Per-Chunk Sampling (`--samples` parameter):** Randomly selects a fixed number of triples (e.g., 5) from *each individual chunk* that contains triples. The total number of evaluated triples will vary depending on how many chunks produced triples.
+*   **Why:** Evaluating all triples can be time-consuming and expensive due to LLM calls. Sampling provides a representative assessment of quality. Total random sampling gives a fixed sample size for overall quality, while per-chunk sampling helps understand quality variance between different parts of the document.
+*   **Advantages:** Provides a manageable subset for evaluation. Allows flexible control over the evaluation scope and cost.
+*   **Example:** Using `--total 100` selects 100 triples randomly from the entire `canonical_triples.json` file. Using `--samples 5` selects 5 triples from chunk 0, 5 from chunk 1 (if they exist), etc.
+
+### Step 10.2: LLM-Based Evaluation for Each Sampled Triple
+
+*   **What:** For each sampled triple, uses an LLM to judge its correctness based *only* on the text of its original source chunk.
+*   **How:**
+    1.  For a sampled triple, retrieve its `source_chunk` ID.
+    2.  Load the corresponding text content from the `source_chunks.json` file.
+    3.  Construct a detailed prompt for the LLM (e.g., Gemini):
+        *   Provide the `source_chunk` text as context.
+        *   Provide the `subject`, `predicate`, and `object` of the triple.
+        *   Instruct the LLM to act as a validator.
+        *   Ask the LLM to classify the triple as `CORRECT`, `PARTIAL`, or `INCORRECT` based *strictly* on the provided source text.
+        *   Ask for a brief `reasoning` for the classification.
+        *   Ask for a `confidence` score (0-1).
+    4.  Use the `Models.llm.generate_response` function, specifying a Pydantic model (`TripleEvaluation`) to structure the LLM's output (classification, reasoning, confidence).
+*   **Why:** Leverages the LLM's understanding to assess semantic correctness beyond simple string matching. Constraining the evaluation to the source chunk ensures the triple is judged against the context it was extracted from.
+*   **Advantages:** Provides a nuanced, semantic evaluation of triple quality. Can identify issues like hallucination, misinterpretation, or lack of direct support in the text.
+*   **Example:** Given a triple `(Apple, headquarters_location, Cupertino)` and its source chunk text containing "Apple Inc. is headquartered in Cupertino, California", the LLM should classify it as `CORRECT` with high confidence.
+
+### Step 10.3: Aggregation and Reporting
+
+*   **What:** Collects the LLM evaluation results for all sampled triples and generates summary reports.
+*   **How:**
+    1.  Stores the evaluation results (classification, reasoning, confidence) alongside each sampled triple.
+    2.  Calculates aggregate statistics: overall rates of CORRECT, PARTIAL, INCORRECT classifications, and average confidence score.
+    3.  Saves the detailed results (each triple + its evaluation) to a CSV file (e.g., `eval/results/COMPANY_evaluation_random100.csv`).
+    4.  Saves the aggregate statistics to a separate summary CSV file (e.g., `eval/results/COMPANY_evaluation_random100_summary.csv`).
+    5.  Optionally saves the full results structure to a JSON file.
+*   **Why:** Provides both detailed, per-triple feedback and high-level summary metrics to understand the overall quality of the knowledge graph extraction process.
+*   **Advantages:** Offers clear, quantifiable metrics for quality assessment. CSV format allows for easy analysis and comparison across different runs or documents.
+*   **Example:** The summary CSV might show: `correct_rate: 0.85`, `partial_rate: 0.10`, `incorrect_rate: 0.05`, `avg_confidence: 0.92`.
+
+## Phase 11: Performance Optimizations & Production Considerations
 
 This phase outlines key performance optimizations and production-ready aspects implemented throughout the system.
 
-### Step 10.1: Result Caching & Persistence
+### Step 11.1: Result Caching & Persistence
 
 *   **What:** The system implements strategic caching and persistence of intermediate results throughout the pipeline.
 *   **How:** 
@@ -457,7 +502,7 @@ This phase outlines key performance optimizations and production-ready aspects i
 *   **Advantages:** Dramatically improves performance for repeated operations. Enables graceful recovery from failures in later stages. Allows users to close and reopen the application without losing work.
 *   **Example:** If a user processes an Apple 10-K and then closes the app, the normalized triples file `companies/AAPL/normalized_triples.json` remains. When they reopen the app, they can immediately apply schema canonicalization or visualization without reprocessing the PDF.
 
-### Step 10.2: Parallel Processing
+### Step 11.2: Parallel Processing
 
 *   **What:** The system uses parallel processing at several compute-intensive stages.
 *   **How:** 
@@ -467,7 +512,7 @@ This phase outlines key performance optimizations and production-ready aspects i
 *   **Advantages:** Reduces overall processing time significantly by utilizing multiple CPU cores and handling multiple LLM requests concurrently. The batch size parameter allows control over memory consumption.
 *   **Example:** If a document has 40 chunks, with 4 workers and a batch size of 10, the system processes 4 chunks simultaneously, with each worker handling one chunk at a time from its assigned batch of 10.
 
-### Step 10.3: Visualization Performance Optimizations
+### Step 11.3: Visualization Performance Optimizations
 
 *   **What:** The system implements special handling for visualizing large knowledge graphs effectively in the browser.
 *   **How:** 
@@ -478,7 +523,7 @@ This phase outlines key performance optimizations and production-ready aspects i
 *   **Advantages:** Provides a responsive, interactive visualization even for large graphs. Focuses attention on the most important/connected entities. Improves user experience.
 *   **Example:** For an Apple 10-K with hundreds or thousands of extracted entities, setting a minimum degree of 3 might focus the visualization on only the ~50 most connected entities (e.g., "Apple", "iPhone", "Tim Cook", "China", "Services"), making the visualization both more meaningful and performant.
 
-### Step 10.4: Error Handling & Robustness
+### Step 11.4: Error Handling & Robustness
 
 *   **What:** The system implements comprehensive error handling throughout the pipeline.
 *   **How:** 
@@ -626,7 +671,14 @@ A 10-K filing for Apple Inc. (AAPL) is a comprehensive annual report containing:
 
 4. **LLM Response (Gemini):** "According to the information, Apple's net sales decreased in 2023 compared to 2022 primarily due to lower sales of iPhone, Mac, and iPad. This decrease was partially offset by higher net sales of Services. Additionally, the weakness of foreign currencies against the U.S. dollar negatively impacted net sales during 2023."
 
-### Phase 10: Performance Optimizations Example
+### Phase 10: Triple Evaluation Example
+
+1. **Sampling:** Using `--total 100`, 100 random triples are selected from the ~3000 canonical triples for AAPL.
+2. **LLM Evaluation:** The triple `(weakness in foreign currency against the u.s. dollar, negatively impact, net sale during 2023)` is evaluated against its source chunk text.
+3. **Result:** The LLM classifies it as `CORRECT`, with reasoning like "The text explicitly states that currency weakness negatively impacted net sales during 2023." and a confidence of 0.95.
+4. **Reporting:** A file `eval/results/AAPL_evaluation_random100.csv` is generated, and the summary might show `correct_rate: 0.90`, `partial_rate: 0.08`, `incorrect_rate: 0.02`.
+
+### Phase 11: Performance Optimizations Example
 
 1. **Caching:** After initial processing, `companies/AAPL/normalized_triples.json` contains ~3000 extracted and normalized triples, allowing the system to skip extraction on subsequent runs.
 
