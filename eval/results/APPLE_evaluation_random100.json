@@ -1,0 +1,1520 @@
+{
+  "total_chunks": 196,
+  "chunks_with_triples": 67,
+  "total_sampled_triples": 100,
+  "evaluated_triples": [
+    {
+      "chunk_id": 34,
+      "triple": {
+        "subject": "apple manufacturing/logistics disruption",
+        "predicate": "can_be_caused_by",
+        "object": "natural disaster",
+        "source_chunk": 34
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text explicitly states in the second paragraph that 'manufacturing or logistics ... can be disrupted for a variety of reasons, including natural and man-made disasters'. This directly supports the triple's claim that manufacturing/logistics disruption can be caused by natural disasters for 'The Company' (assumed to be Apple in this context).",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 34,
+      "triple": {
+        "subject": "apple manufacturing/logistics disruption",
+        "predicate": "can_be_caused_by",
+        "object": "public health issue",
+        "source_chunk": 34
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.9,
+        "reasoning": "The source text states that for 'The Company', manufacturing or logistics can be disrupted by 'public health... issues'. The triple correctly identifies this relationship and the object. However, the subject specifies 'apple', which is not mentioned in the provided text ('The Company' is used instead). Therefore, the triple is only partially correct as it substitutes 'The Company' with 'apple' based on assumed external knowledge, not the text itself. The core fact about the potential cause of disruption is accurate according to the text for 'The Company' though company mentioned in the text .",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 34,
+      "triple": {
+        "subject": "apple single-source component partner",
+        "predicate": "located_in",
+        "object": "asia",
+        "source_chunk": 34
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.9,
+        "reasoning": "The text states that the company relies on single-source outsourcing partners in the U.S., Asia and Europe to supply and manufacture components. While Asia is mentioned as a location, the triple omits the U.S. and Europe, making it incomplete but partially correct based on the text provided. The triple is valid in that Asia is *one* of the locations mentioned for these partners, but it doesn't represent the full scope specified in the text for component suppliers.",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 117,
+      "triple": {
+        "subject": "apple",
+        "predicate": "reported_income",
+        "object": "net income $ 93,736 million ( fy2024 )",
+        "source_chunk": 117
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text, Apple Inc.'s Consolidated Statements of Cash Flows, explicitly lists 'Net income' under 'Operating activities'. For the column corresponding to the year ended September 28, 2024 (which aligns with 'fy2024'), the value for 'Net income' is 93,736. The table notes values are '(In millions)'. Therefore, the triple accurately reflects that Apple reported a net income of $93,736 million for the fiscal year 2024 according to the provided text segment a financial statement represents reported figures for fiscal year ended September 28, 2024",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 117,
+      "triple": {
+        "subject": "apple",
+        "predicate": "used_cash_for",
+        "object": "dividend and dividend equivalent $ 15,234 million ( fy2024 )",
+        "source_chunk": 117
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text is Apple Inc.'s Consolidated Statements of Cash Flows. Under the 'Financing activities' section for the year ended September 28, 2024 (FY2024), the line item 'Payments for dividends and dividend equivalents' shows a value of (15,234) million. This directly confirms that Apple used $15,234 million cash for dividend and dividend equivalent payments in FY2024, matching the triple's subject, predicate, and object precisely. The use of parentheses indicates a cash outflow or payment ('used cash used for').",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 142,
+      "triple": {
+        "subject": "european commission",
+        "predicate": "appealed_by",
+        "object": "general court decision",
+        "source_chunk": 142
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text states 'On September 25, 2020, the Commission appealed the General Court\u2019s decision...'. This means the Commission performed the action of appealing. The triple reverses this relationship, suggesting the General Court's decision appealed against the Commission, which is incorrect according to the text.",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 142,
+      "triple": {
+        "subject": "ireland",
+        "predicate": "appeal",
+        "object": "state aid decision",
+        "source_chunk": 142
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The first sentence of the source text explicitly states: 'The Company and Ireland appealed the State Aid Decision...'. This confirms that Ireland did appeal the State Aid Decision, making the triple accurate based on the text provided. ",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 130,
+      "triple": {
+        "subject": "apple",
+        "predicate": "has_asset",
+        "object": "corporate debt security : $ 70,890 million fair value",
+        "source_chunk": 130
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text details the assets of an unspecified entity referred to as 'The Company'. The subject 'apple' is not mentioned anywhere in the provided text. While the table does list 'Corporate debt securities' with a Fair Value of 70,890, this asset pertains to 'The Company', not 'apple'. Therefore, the triple cannot be validated from the source text and misattributes the asset information.",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 115,
+      "triple": {
+        "subject": "apple",
+        "predicate": "reported_income",
+        "object": "$ 93,736 million for year end 2024-09-28",
+        "source_chunk": 115
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The Consolidated Statements of Shareholders' Equity section shows a row for 'Net income'. Under the column for the year ended 'September 28, 2024', the value listed for 'Net income' is 93,736. The table header indicates the values are 'In millions', matching the object '$ 93,736 million'. The subject 'apple' correctly refers to Apple Inc., and the predicate 'reported_income' accurately describes the relationship shown in the statement for the specified period. The triple is fully supported by the text.",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 52,
+      "triple": {
+        "subject": "apple",
+        "predicate": "faces_risk_from",
+        "object": "malicious attack",
+        "source_chunk": 52
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text explicitly identifies 'the Company' as Apple Inc. in the header. It states 'The Company experiences malicious attacks...' and details how these attacks 'could materially adversely affect the Company\u2019s business, reputation, results of operations and financial condition.' This directly supports the triple stating that Apple faces risk from malicious attacks. The relationship 'faces_risk_from' accurately captures the potential negative consequences described in the text associated with these attacks experienced by the company. ",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 12,
+      "triple": {
+        "subject": "apple",
+        "predicate": "sells_product",
+        "object": "indirectly via retailer",
+        "source_chunk": 12
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The text explicitly states that 'The Company' (identified as Apple Inc. in the document header) uses 'indirect distribution channels' and lists 'retailers' as an example of these channels through which it sells its products. The triple accurately reflects this information stated in the source text passage ('The Company also employs a variety of indirect distribution channels, such as ... retailers... retailers and names retailers').",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 12,
+      "triple": {
+        "subject": "apple",
+        "predicate": "sells_product",
+        "object": "through third-party cellular network carrier",
+        "source_chunk": 12
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The text explicitly states that 'The Company' (identified as Apple Inc. later in the text) employs 'a variety of indirect distribution channels, such as third-party cellular network carriers...'. This is in the context of how the company sells its products, as the preceding sentence discusses direct sales channels and the following sentence quantifies sales percentages through direct and indirect channels. Therefore, the triple accurately reflects that Apple sells products through third-party cellular network carriers as an indirect channel. ",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 9,
+      "triple": {
+        "subject": "home category",
+        "predicate": "includes_product",
+        "object": "homepod\u00ae",
+        "source_chunk": 9
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text explicitly states under the 'Home' section: 'Home includes ... HomePod\u00ae and HomePod mini\u00ae...'. The triple accurately captures this relationship by stating that the 'home category' includes the product 'homepod\u00ae' ('homepod\u00ae').",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 132,
+      "triple": {
+        "subject": "apple",
+        "predicate": "classifies",
+        "object": "marketable debt security base on maturity",
+        "source_chunk": 132
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.95,
+        "reasoning": "The source text states: 'The Company classifies marketable debt securities as either current or non-current based on each instrument\u2019s underlying maturity.' The triple correctly identifies 'apple' (implied 'The Company' from the document context) as the subject, 'classifies' as the predicate, and 'marketable debt security base on maturity' as the object, accurately reflecting the classification criteria mentioned in the text. The core relationship is directly supported by the text. Minor grammatical variations ('security' vs 'securities', 'base' vs 'based') are acceptable for triples representation and do not change the meaning",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 132,
+      "triple": {
+        "subject": "forward , option or other instrument",
+        "predicate": "used_to",
+        "object": "protect gross margin from foreign exchange fluctuation",
+        "source_chunk": 132
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text explicitly states: 'To protect gross margins from fluctuations in foreign exchange rates, the Company may use forwards, options or other instruments...'. The triple accurately captures this relationship and the specific elements involved (the instruments and their purpose).",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 14,
+      "triple": {
+        "subject": "apple",
+        "predicate": "faces_risk_from",
+        "object": "competitor imitate application",
+        "source_chunk": 14
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.9,
+        "reasoning": "The source text states 'The Company faces significant competition as competitors imitate the Company\u2019s product features and applications'. This supports the relationship ('faces_risk_from') and the object ('competitor imitate application'). However, the text uses 'The Company' and does not explicitly mention 'apple'. Substituting 'apple' for 'The Company' makes the triple partially correct, as the core risk is identified, but the subject is inferred and not directly stated in the text provided.",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 145,
+      "triple": {
+        "subject": "apple other deferred tax liability",
+        "predicate": "reported_value_as_of_sep_30_2023",
+        "object": "$ 7,118 million",
+        "source_chunk": 145
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text table shows that 'Other' deferred tax liabilities as of September 30, 2023, were $490 million. The value $7,118 million represents the *Total* deferred tax liabilities for that date, not the 'Other' component specifically mentioned in the subject of the triple.",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 145,
+      "triple": {
+        "subject": "apple total deferred tax asset",
+        "predicate": "reported_value_as_of_sep_30_2023",
+        "object": "$ 24,369 million",
+        "source_chunk": 145
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.9,
+        "reasoning": "The triple correctly identifies the value ($24,369 million) and the date (September 30, 2023) from the source text. However, the text specifies this value as 'Total deferred tax assets, net', while the triple's subject is simply 'total deferred tax asset'. The omission of 'net' makes the subject slightly imprecise, as there is a different line item for 'Total deferred tax assets' before the valuation allowance deduction in the table ($32,743 million).",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 162,
+      "triple": {
+        "subject": "apple",
+        "predicate": "had_rsu_balance",
+        "object": "163,326 unit",
+        "source_chunk": 162
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 0.95,
+        "reasoning": "Table 48-1 shows an RSU balance of 163,326 units as of September 28, 2024. However, the provided source text does not mention 'apple' anywhere. Therefore, attributing this balance to 'apple' cannot be validated from the given text alone. The subject is not supported by the source text provided for evaluation.",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 162,
+      "triple": {
+        "subject": "apple",
+        "predicate": "reported_metric",
+        "object": "$ ( 3,350 )",
+        "source_chunk": 162
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text contains the metric '$ (3,350)' in Table 48-2, representing 'Income tax benefit related to share-based compensation expense'. However, the source text provided (Tables 48-1, 48-2, 48-3) does not mention the entity 'apple' anywhere. Therefore, the triple incorrectly links the metric to 'apple', which cannot be verified from the text alone..",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 139,
+      "triple": {
+        "subject": "adjust recovery amount plus interest",
+        "predicate": "held_in",
+        "object": "escrow a of september 28 , 2024",
+        "source_chunk": 139
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.8,
+        "reasoning": "The source text states 'As of September 28, 2024, the adjusted recovery amount of \u20ac12.7 billion plus interest of \u20ac1.2 billion was held in escrow'. The triple captures this relationship, identifying the subject (adjusted recovery amount plus interest), the predicate (held in), and the object (escrow as of Sep 28, 2024). However, the subject phrasing 'adjust recovery amount' is slightly different from the text's 'adjusted recovery amount', and the specific monetary values are omitted, making it PARTIAL rather than fully CORRECT. The object phrasing 'escrow a of september 28 , 2024' is also slightly awkward but understandable in context..",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 55,
+      "triple": {
+        "subject": "apple investment and acquisition",
+        "predicate": "faces_risk_from",
+        "object": "fail to obtain required regulatory approval",
+        "source_chunk": 55
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 0.95,
+        "reasoning": "The source text discusses risks faced by 'The Company' regarding investments and acquisitions, including 'failing to obtain required regulatory approvals'. However, the text does not mention 'apple' at all. The triple incorrectly substitutes 'apple' for 'The Company', making the subject invalid according to the provided text. The relationship and object accurately reflect a risk mentioned for 'The Company', but not for 'apple'apple'' based on the text provided for 'apple'",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 24,
+      "triple": {
+        "subject": "apple manufacture outsource partner",
+        "predicate": "located_in",
+        "object": "south korea",
+        "source_chunk": 24
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.95,
+        "reasoning": "The source text explicitly lists South Korea as one of the primary locations where the Company's (Apple's) outsourcing partners are located for manufacturing purposes. The sentence states: 'Substantially all of the Company\u2019s manufacturing is performed in whole or in part by outsourcing partners located primarily in China mainland, India, Japan, South Korea, Taiwan and...'",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 127,
+      "triple": {
+        "subject": "apple dilute earnings per share of $ 6.13",
+        "predicate": "for_fiscal_year",
+        "object": "2023",
+        "source_chunk": 127
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.9,
+        "reasoning": "The table in Note 3 explicitly states that Diluted earnings per share for 2023 was $6.13. The triple correctly captures this value and associates it with the correct fiscal year (2023). However, the subject 'apple dilute earnings per share of $ 6.13' is poorly structured as it includes the metric and its value within the subject itself. A better subject would be 'The Company' or 'Apple', with the predicate and object representing the metric and its value. Because the core fact is correct but the triple's structure is awkward, it's classified as PARTIAL rather than CORRECT. The underlying fact is valid based on the text provided (is_valid=True).",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 127,
+      "triple": {
+        "subject": "apple total defer revenue of $ 12.1 billion",
+        "predicate": "as_of_date",
+        "object": "september 30 , 2023",
+        "source_chunk": 127
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.9,
+        "reasoning": "The source text states that 'The Company' had total deferred revenue of $12.1 billion as of September 30, 2023. The triple correctly identifies the amount ($12.1 billion), the date (September 30, 2023), and the concept ('total defer revenue'). However, it uses 'apple' as the subject, whereas the text uses 'The Company'. While likely referring to the same entity, the text provided does not explicitly state 'The Company' is 'apple' in this specific snippet.",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 127,
+      "triple": {
+        "subject": "apple",
+        "predicate": "expects_realization_of_deferred_revenue",
+        "object": "64 % in less than a year",
+        "source_chunk": 127
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.95,
+        "reasoning": "The source text explicitly states in the second paragraph: 'As of September 28, 2024, the Company expects 64% of total deferred revenue to be realized in less than a year...'. The triple accurately captures this fact, substituting 'The Company' with 'apple', which is strongly implied by the mention of 'iPhone revenue' elsewhere in the text and represents the information correctly in context. The predicate 'expects_realization_of_deferred_revenue' and the object '64 % in less than a year' directly match the information provided in the text regarding the company's expectation for deferred revenue realization timeframe and percentage. ",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 127,
+      "triple": {
+        "subject": "apple weighted-average dilute share of 15,812,547 thousand",
+        "predicate": "for_fiscal_year",
+        "object": "2023",
+        "source_chunk": 127
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text, specifically the table in 'Note 3 \u2013 Earnings Per Share', lists 'Weighted-average diluted shares' for '2023' as '15,812,547'. The table header clarifies that shares are 'in thousands'. While the subject uses 'apple' instead of 'The Company' and 'dilute' instead of 'diluted', these are minor variations. The core information (metric, value, unit, year) directly corresponds to the text. Therefore, the triple accurately represents the information found in the source text for the fiscal year 2023.",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 85,
+      "triple": {
+        "subject": "apple share repurchase program",
+        "predicate": "allows_repurchase_method",
+        "object": "rule 10b5-1 plan",
+        "source_chunk": 85
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text explicitly states in footnote (1) that under the share repurchase programs, 'shares may be repurchased in privately negotiated or open market transactions, including under plans complying with Rule 10b5-1 under the Exchange Act.' This directly supports the triple's assertion that the program allows Rule 10b5-1 plans as a repurchase method for Apple's shares (referred to as 'the Company').",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 13,
+      "triple": {
+        "subject": "apple",
+        "predicate": "strategy_focuses_on",
+        "object": "tablet market",
+        "source_chunk": 13
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.85,
+        "reasoning": "The source text states 'The Company is focused on expanding its market opportunities related to smartphones, personal computers, tablets, wearables and accessories, and services.' While Apple's focus includes tablets, the triple isolates 'tablet market' and omits the other mentioned areas (smartphones, PCs, wearables, accessories, services) and the nuance of 'expanding market opportunities'. Thus, it's only partially representative of the text information but the core relationship is present in the text.",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 158,
+      "triple": {
+        "subject": "apple",
+        "predicate": "reported_metric",
+        "object": "common stock repurchase : ( 568,589 )",
+        "source_chunk": 158
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text provides a table showing common stock data, including 'Common stock repurchased' with the value '(568,589)'. However, the text does not mention 'apple' or any specific company. Therefore, the triple's assertion that the subject is 'apple' cannot be validated from the provided text snippet alone.",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 86,
+      "triple": {
+        "subject": "apple share repurchase of 33,653",
+        "predicate": "average_price",
+        "object": "$ 222.86",
+        "source_chunk": 86
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "Table 22-1 clearly shows share purchases for the period 'September 1, 2024 to September 28, 2024'. For this period, the quantity purchased is listed as 33,653, and the associated dollar value is $ 222.86, which represents the average price per share. The subject correctly identifies the quantity of shares purchased (implicitly by Apple, given the document context) and the object correctly states the average price associated with those purchases as found in the table for that specific period. The predicate 'average_price' accurately describes the relationship between the subject and object according to the table data format (Quantity | Avg Price | Total Shares).",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 86,
+      "triple": {
+        "subject": "s & p 500 index cumulative total shareholder return",
+        "predicate": "value_as_of_sep_2024",
+        "object": "$ 156",
+        "source_chunk": 86
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text states the value for the S&P 500 Index as of September 2024 was $210, based on a $100 investment in September 2019. The triple incorrectly lists the value as $156, which corresponds to the value as of September 2021 according to the text and Table 23-1.",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 86,
+      "triple": {
+        "subject": "s & p 500 index cumulative total shareholder return",
+        "predicate": "value_as_of_sep_2024",
+        "object": "$ 113",
+        "source_chunk": 86
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text, in both the Company Stock Performance section graph data and TABLE 23-1, indicates that the value for the S&P 500 Index cumulative total shareholder return as of September 2024 is $210, based on an initial $100 investment in September 2019. The triple incorrectly states the value is $113; this value corresponds to September 2020 in the source text, not September 2024. ",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 124,
+      "triple": {
+        "subject": "transfer of control to customer",
+        "predicate": "generally_occurs",
+        "object": "upon product shipment",
+        "source_chunk": 124
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text states, 'Revenue allocated to the delivered hardware and bundled software is recognized when control has transferred to the customer, which generally occurs when the product is shipped.' The triple accurately reflects this statement, linking the transfer of control to the customer with the event of product shipment, qualified by 'generally occurs' as stated in the text.",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 124,
+      "triple": {
+        "subject": "apple",
+        "predicate": "does_not_disclose_amounts_for",
+        "object": "undelivered service ( long-term arrangement )",
+        "source_chunk": 124
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text states that 'the Company' does not disclose amounts related to undelivered services in long-term arrangements. The triple correctly captures the predicate ('does_not_disclose_amounts_for') and the object ('undelivered service ( long-term arrangement )'). However, the subject 'apple' is not mentioned anywhere in the provided text. The text consistently uses 'the Company' instead. Therefore, the triple incorrectly attributes the action to 'apple' instead of 'the Company' as stated in the source text. ",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 31,
+      "triple": {
+        "subject": "apple business performance",
+        "predicate": "depends_on",
+        "object": "ability to continually improve it product and service",
+        "source_chunk": 31
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 0.9,
+        "reasoning": "The source text states that 'The Company\u2019s business, results of operations and financial condition depend substantially on the Company\u2019s ability to continually improve its products and services'. While the predicate 'depends_on' and the object 'ability to continually improve it product and service' (minor typo noted) are largely reflected in the text concerning 'The Company', the text never explicitly identifies 'The Company' as 'Apple'. Therefore, the subject 'apple business performance' cannot be verified solely based on the provided text. The triple introduces an external assumption about the company's identity.",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 98,
+      "triple": {
+        "subject": "other purchase obligation",
+        "predicate": "payable_within_12_months",
+        "object": "$ 4.1 billion",
+        "source_chunk": 98
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text explicitly states under the 'Other Purchase Obligations' section: 'As of September 28, 2024, the Company had other purchase obligations of $12.0 billion, with $4.1 billion payable within 12 months.' The triple accurately reflects this information, matching the subject, predicate (relationship), and object (value ($4.1 billion).",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 19,
+      "triple": {
+        "subject": "apple university",
+        "predicate": "strategy_focuses_on",
+        "object": "apple culture and value",
+        "source_chunk": 19
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 0.9,
+        "reasoning": "The source text states that Apple University 'offers programs through Apple University on leadership, management and influence, as well as Apple culture and values'. While Apple University provides programs on 'Apple culture and values', the text does not state that its overall 'strategy_focuses_on' this topic. Offering a program on a subject is different from having a strategic focus on it. The predicate misrepresents the relationship described in the text.",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 191,
+      "triple": {
+        "subject": "form of ceo performance award agreement ( effective sept 27 , 2020 )",
+        "predicate": "effective_date",
+        "object": "september 27 , 2020",
+        "source_chunk": 191
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text lists item 10.12 as 'Form of CEO Performance Award Agreement under 2014 Employee Stock Plan ... effective as of September 27, 2020.' The triple accurately extracts the subject (the specific agreement) and its effective date as stated in the text. Although the subject itself includes the effective date, the predicate and object correctly represent the relationship mentioned in the text for that specific agreement form. ",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 191,
+      "triple": {
+        "subject": "apple",
+        "predicate": "has_agreement",
+        "object": "form of ceo performance award agreement ( effective sept 27 , 2020 )",
+        "source_chunk": 191
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text explicitly lists '10.12* Form of CEO Performance Award Agreement under 2014 Employee Stock Plan effective as of September 27, 2020.' The subject 'apple' is inferred from the context of the list (e.g., 'Apple Inc.' mentioned in 10.3, 10.4, 10.13). The object accurately names the agreement and its effective date. The predicate 'has_agreement' correctly describes the relationship shown in the list of exhibits/agreements associated with the company implied (Apple).",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 191,
+      "triple": {
+        "subject": "apple non-employee director stock plan",
+        "predicate": "referenced_in_filing",
+        "object": "10-q 10.1 12/25/21",
+        "source_chunk": 191
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text lists item 10.3 as 'Apple Inc. Non-Employee Director Stock Plan, as amended November 9, 2021.' and provides the reference '10-Q 10.1 12/25/21' for this item. The triple accurately reflects this information, linking the subject (the plan) to the object (the filing reference) with the correct predicate 'referenced_in_filing' based on the context of the list format where the plan is listed and the filing reference follows it..",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 63,
+      "triple": {
+        "subject": "apple",
+        "predicate": "faces_risk_from",
+        "object": "legal action",
+        "source_chunk": 63
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.95,
+        "reasoning": "The source text explicitly states that failure to meet various standards 'could result in legal and regulatory proceedings against the Company and materially adversely affect the Company\u2019s business'. It also mentions that the Company is exposed to 'legal actions and penalties' due to scrutiny. This directly supports the idea that 'the Company' (implicitly Apple, given the context and the triple's subject) faces risks from legal actions/proceedings. The triple accurately captures this relationship stated in the text.",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 113,
+      "triple": {
+        "subject": "apple",
+        "predicate": "reported_metric",
+        "object": "deferred revenue : $ 8,061 million ( a of 2023-09-30 )",
+        "source_chunk": 113
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text is Apple Inc.'s Consolidated Balance Sheet. The table shows a line item 'Deferred revenue' under 'Current liabilities'. In the column for 'September 30, 2023', the value listed for 'Deferred revenue' is 8,061. The header indicates the values are in millions of dollars. Therefore, the triple accurately reports that Apple had $8,061 million in deferred revenue as of September 30, 2023 according to the provided text. The subject 'apple' correctly refers to Apple Inc., and 'reported_metric' is an appropriate predicate for a value from a financial statement. ",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 113,
+      "triple": {
+        "subject": "apple",
+        "predicate": "reported_metric",
+        "object": "total shareholder \u2019 equity : $ 56,950 million ( a of 2024-09-28 )",
+        "source_chunk": 113
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text is a Consolidated Balance Sheet for Apple Inc. Under the 'Shareholders\u2019 equity' section, the line item 'Total shareholders\u2019 equity' shows a value of 56,950 (in millions) for the column dated September 28, 2024. The triple accurately captures this information: Subject 'apple' maps to Apple Inc., the Predicate 'reported_metric' is appropriate, and the Object correctly identifies 'total shareholder ' equity' as $56,950 million as of the specified date 2024-09-28 (corresponding to September 28, 2024).",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 113,
+      "triple": {
+        "subject": "apple common stock",
+        "predicate": "issued_and_outstanding_shares",
+        "object": "15,550,061 thousand ( a of 2023-09-30 )",
+        "source_chunk": 113
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text, within the Shareholders' Equity section, states 'Common stock and additional paid-in capital... 15,116,786 and 15,550,061 shares issued and outstanding, respectively'. The header specifies dates 'September 28, 2024' and 'September 30, 2023' for the columns. Thus, 15,550,061 shares were issued and outstanding as of September 30, 2023. The header also clarifies '(In millions, except number of shares, which are reflected in thousands...)', confirming the unit. The triple accurately reflects this information for Apple's common stock as of the specified date. ",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 113,
+      "triple": {
+        "subject": "apple",
+        "predicate": "reported_metric",
+        "object": "total asset : $ 352,583 million ( a of 2023-09-30 )",
+        "source_chunk": 113
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text is a Consolidated Balance Sheet for Apple Inc. It clearly shows the value for 'Total assets' under the column 'September 30, 2023' as '$ 352,583'. The header notes that figures are 'In millions'. Therefore, the triple accurately represents that Apple reported total assets of $352,583 million as of September 30, 2023 (2023-09-30).",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 156,
+      "triple": {
+        "subject": "apple",
+        "predicate": "reported_metric",
+        "object": "common stock repurchase 2023 : 471,419 thousand share",
+        "source_chunk": 156
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text contains a table under 'Shares of Common Stock' showing changes in shares. The row 'Common stock repurchased' shows the value (471,419) under the '2023' column. The table heading specifies units '(in thousands)'. This directly supports the object 'common stock repurchase 2023 : 471,419 thousand share'. The subject 'apple' is reasonably inferred as 'The Company' within the context of the financial document (Note 11 explicitly names Apple Inc.). The predicate 'reported_metric' is appropriate for data found in financial tables within notes to report performance or activity on common stock repurchase amount in 2023. The parentheses around the number in the table typically indicate a reduction, consistent with a repurchase action. The value matches exactly. ",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 156,
+      "triple": {
+        "subject": "apple share repurchase program",
+        "predicate": "allows_method",
+        "object": "privately negotiate transaction",
+        "source_chunk": 156
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text states under the 'Share Repurchase Program' section: 'Under the programs, shares may be repurchased in privately negotiated or open market transactions...'. This directly confirms that the share repurchase program allows privately negotiated transactions as a method for repurchasing shares. Assuming 'The Company' refers to Apple based on context, the triple is accurate and directly supported by the text.",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 156,
+      "triple": {
+        "subject": "apple",
+        "predicate": "reported_metric",
+        "object": "common stock outstanding end balance 2023 : 15,550,061 thousand share",
+        "source_chunk": 156
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text contains a table under 'Shares of Common Stock' which explicitly lists 'Common stock outstanding, ending balances' for '2023' as 15,550,061. The text specifies these figures are 'in thousands'. The triple accurately captures this information directly from the table including the metric, year, value, and units (thousands).",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 131,
+      "triple": {
+        "subject": "apple classification of marketable debt security",
+        "predicate": "based_on",
+        "object": "underlie maturity",
+        "source_chunk": 131
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.95,
+        "reasoning": "The source text explicitly states: 'The Company classifies marketable debt securities as either current or non-current based on each instrument\u2019s underlying maturity.' This directly supports the triple's claim that the classification of these securities is based on their underlying maturity. The object 'underlie maturity' appears to be a slight misspelling of 'underlying maturity' found in the text, but the meaning is preserved. The subject implies 'The Company' is Apple, which is not explicitly stated in the text but doesn't contradict the core relationship presented in the triple derived from the text provided..",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 131,
+      "triple": {
+        "subject": "apple restrict marketable security september 28 , 2024",
+        "predicate": "amount_as_of_date",
+        "object": "$ 13.2 billion",
+        "source_chunk": 131
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.9,
+        "reasoning": "The source text states that as of September 28, 2024, total marketable securities included $13.2 billion held in escrow and restricted from general use. This supports the relationship and object ($13.2 billion) for restricted marketable securities on that date. However, the text refers to 'the Company', not explicitly 'Apple'. While the core financial fact is present for 'the Company', attributing it specifically to 'Apple' cannot be verified solely from the provided text snippet, making the triple partially correct based on the given source material only. The triple is considered valid as the core financial information is present in the text for the entity mentioned ('the Company').",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 100,
+      "triple": {
+        "subject": "fund for state aid obligation",
+        "predicate": "restricted_from",
+        "object": "general use",
+        "source_chunk": 100
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text explicitly states, \"The funds necessary to settle the obligation [State Aid Decision] were held in escrow as of September 28, 2024, and restricted from general use.\" The triple accurately reflects this statement.",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 100,
+      "triple": {
+        "subject": "apple",
+        "predicate": "reported_metric",
+        "object": "quarterly cash dividend of $ 0.25 per share",
+        "source_chunk": 100
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 0.75,
+        "reasoning": "The source text confirms that 'the Company\u2019s quarterly cash dividend was $0.25 per share' as of September 28, 2024, and was raised to this amount in May 2024. However, the text only refers to 'the Company' and never explicitly names it as 'apple'. Therefore, while the reported metric (quarterly dividend of $0.25/share) is correct according to the text, the subject 'apple' cannot be verified solely from the provided source text.",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 167,
+      "triple": {
+        "subject": "apple great china",
+        "predicate": "reported_net_sales",
+        "object": "$ 74,200",
+        "source_chunk": 167
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.9,
+        "reasoning": "The source text, specifically Table 50-1 under 'Greater China' and Table 50-3 under 'China (1)', lists three Net Sales figures: $66,952, $72,559, and $74,200. The triple correctly identifies $74,200 as a reported net sales figure for Greater China/China. However, it lacks the specific time period context associated with this figure, as the table presents multiple values presumably for different periods. Therefore, the triple is only partially correct as it represents a valid data point but without the necessary temporal context provided in the source table structure B32",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 73,
+      "triple": {
+        "subject": "apple",
+        "predicate": "distributes_product_through",
+        "object": "retailer",
+        "source_chunk": 73
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text states 'The Company distributes its products... through... retailers'. It does not explicitly name 'The Company' as 'Apple'. Therefore, the subject 'apple' is not supported by the text.",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 28,
+      "triple": {
+        "subject": "business interruption",
+        "predicate": "can_result_from",
+        "object": "significant expenditure to resume operation",
+        "source_chunk": 28
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 0.95,
+        "reasoning": "The source text states that 'Following any interruption to its business, the Company can ... experience significant expenditures to resume operations'. This indicates that significant expenditures are a potential consequence *following* a business interruption, not the cause *of* a business interruption as suggested by the triple's 'can_result_from' predicate. The relationship is reversed in the triple compared to the source text",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 28,
+      "triple": {
+        "subject": "disruption",
+        "predicate": "potential_consequence_of",
+        "object": "delay in production ramp of new product",
+        "source_chunk": 28
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text explicitly states that disruptions in the Company's operations, supply chain, and sales/distribution channels result in several negative outcomes, including 'delays in production ramps of new products'. The triple accurately captures this cause-and-effect relationship stated in the text where a delay in production ramps is a consequence of disruptions experienced by the company..",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 28,
+      "triple": {
+        "subject": "highly competitive market",
+        "predicate": "has_characteristic",
+        "object": "downward pressure on gross margin",
+        "source_chunk": 28
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text explicitly states that the 'highly competitive global markets' where the company operates are 'characterized by aggressive price competition and resulting downward pressure on gross margins'. The triple accurately reflects this by stating that the 'highly competitive market' (subject) 'has_characteristic' (predicate) 'downward pressure on gross margin' (object).",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 28,
+      "triple": {
+        "subject": "disruption",
+        "predicate": "potential_consequence_of",
+        "object": "delay in development of new service",
+        "source_chunk": 28
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.95,
+        "reasoning": "The source text explicitly states that 'disruptions in the Company\u2019s operations, supply chain and sales and distribution channels' can result in 'delays in... development of new services'. The triple accurately reflects this stated consequence of disruptions mentioned in the text section related to business interruptions and their effects. ",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 49,
+      "triple": {
+        "subject": "apple",
+        "predicate": "distributes_product",
+        "object": "through resellers",
+        "source_chunk": 49
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 0.9,
+        "reasoning": "The source text states 'The Company distributes its products... through... resellers'. However, the text never explicitly identifies 'The Company' as 'apple'. While the predicate 'distributes_product' and object 'through resellers' are accurate concerning 'The Company', the subject 'apple' is not mentioned in the text. The triple assumes external knowledge to link 'The Company' to 'apple' and is therefore only partially correct based strictly on the provided text.",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 134,
+      "triple": {
+        "subject": "apple maximum hedge duration for term debt fx cash flow variability",
+        "predicate": "be",
+        "object": "18 year",
+        "source_chunk": 134
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.85,
+        "reasoning": "The source text states 'the maximum length of time over which the Company is hedging its exposure to the variability in future cash flows for term debt\u2013related foreign currency transactions is 18 years.' The triple correctly identifies the 18-year maximum duration for this specific type of hedging. However, the text refers to 'the Company', while the triple's subject is 'apple'. Since 'Apple' is not explicitly mentioned in the provided text, this makes the triple partially correct based solely on the given source text, although the core fact is accurate according to the text about 'the Company'",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 11,
+      "triple": {
+        "subject": "apple",
+        "predicate": "resells_third_party_products_via",
+        "object": "online store",
+        "source_chunk": 11
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The text states under 'Markets and Distribution': 'The Company sells its products and resells third-party products in most of its major markets directly to customers through its retail and online stores and its direct sales force.' This directly supports that Apple ('The Company') resells third-party products via its online stores. The triple accurately reflects this specific channel mentioned in the text.",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 168,
+      "triple": {
+        "subject": "apple internal control audit report",
+        "predicate": "conforms_to",
+        "object": "pcaob ( united state ) standard",
+        "source_chunk": 168
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.8,
+        "reasoning": "The source text states that the audit of Apple's internal control over financial reporting was conducted 'in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB)'. While the triple captures the core entities (Apple's internal control process, PCAOB standards) and the relationship (conformance/accordance), it attributes the conformance to the 'report' rather than the 'audit' itself, which is a slight inaccuracy based on the precise wording in the text. The audit followed the standards, which led to the report expressing an opinion based on that audit process. Thus, the triple is mostly correct but not precise about what conforms to the standards according to the text provided (the audit vs. the report).",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 179,
+      "triple": {
+        "subject": "apple internal control over financial reporting",
+        "predicate": "reported_no_material_changes_in",
+        "object": "fourth quarter of 2024",
+        "source_chunk": 179
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.95,
+        "reasoning": "The source text explicitly states 'There were no changes in the Company\u2019s internal control over financial reporting during the fourth quarter of 2024... that have materially affected, or are reasonably likely to materially affect, the Company\u2019s internal control over financial reporting'. The triple accurately reflects this information, linking the subject (Apple's internal control) to the lack of material changes within the specified timeframe (fourth quarter of 2024).",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 179,
+      "triple": {
+        "subject": "deirdre o'brien",
+        "predicate": "role",
+        "object": "senior vice president , retail",
+        "source_chunk": 179
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text explicitly mentions 'Deirdre O\u2019Brien, the Company\u2019s Senior Vice President, Retail'. The triple accurately captures her name as the subject, her title/role as the object, and the relationship ('role') as the predicate directly from this phrase in the text. The case difference is acceptable for this type of extraction task-irrelevant for this type of extraction and validation",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 179,
+      "triple": {
+        "subject": "apple internal control over financial reporting",
+        "predicate": "effective_date",
+        "object": "september 28 , 2024",
+        "source_chunk": 179
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text explicitly states in the first sentence: 'management has concluded that its internal control over financial reporting was effective as of September 28, 2024'. The triple accurately reflects this statement, identifying the subject (Apple's internal control over financial reporting, inferred from context and 'its'), the predicate (effective_date), and the object (September 28, 2024).",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 70,
+      "triple": {
+        "subject": "apple",
+        "predicate": "faces_risk_from",
+        "object": "potential cost increase in component , manufacturing , and content",
+        "source_chunk": 70
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.9,
+        "reasoning": "The source text explicitly mentions 'potential increases in the cost of components, outside manufacturing services, and developing, acquiring and delivering content' as factors that could negatively impact 'the Company'. This supports the predicate 'faces_risk_from' and the object 'potential cost increase in component, manufacturing, and content'. However, the text refers to 'the Company', not specifically 'apple'. While the company might be Apple in a larger context, based *only* on the provided text, the subject 'apple' is not mentioned, making the triple partially correct as the risk itself is described but attributed to 'the Company' instead of 'apple'. The triple is considered valid in representing a risk mentioned in the text, despite the subject mismatch based solely on the excerpt provided. ",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 91,
+      "triple": {
+        "subject": "apple ipad",
+        "predicate": "generated_revenue_in_year",
+        "object": "$ 26,694 million",
+        "source_chunk": 91
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The table clearly shows 'iPad' net sales for '2024' as '26,694'. The table header specifies '(dollars in millions)'. Thus, the triple accurately represents that Apple iPad generated $26,694 million in net sales (revenue) in 2024 according to the text. ",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 184,
+      "triple": {
+        "subject": "apple",
+        "predicate": "has_liability",
+        "object": "2.000 % note due 2020",
+        "source_chunk": 184
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text mentions '2.000% Notes due 2020' associated with 'the Registrant'. However, the text does not identify 'the Registrant' as 'apple'. Therefore, the triple cannot be validated based on the provided text as the subject is not mentioned or linked to the object within the source snippet.",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 184,
+      "triple": {
+        "subject": "apple officer 's certificate",
+        "predicate": "effective_date",
+        "object": "may 6 , 2014",
+        "source_chunk": 184
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text mentions an \"Officer\u2019s Certificate of the Registrant\" dated May 6, 2014. However, the triple's subject incorrectly states \"apple officer 's certificate\". The text does not mention \"apple\" at all; the certificate belongs to \"the Registrant\" according to the text provided. Therefore, the subject is wrong, making the triple invalid based on the source text information alone. ",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 72,
+      "triple": {
+        "subject": "increase cost of product component",
+        "predicate": "negatively_affects",
+        "object": "apple gross margin",
+        "source_chunk": 72
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text states that strengthening foreign currencies may increase the Company\u2019s cost of product components, which in turn adversely affects gross margins. While the relationship 'increase cost of product component negatively affects gross margin' is supported, the text refers to 'the Company's' gross margins, not specifically 'Apple's gross margin'. The triple introduces an entity ('Apple') not mentioned in the provided text snippet, making it invalid based solely on the given source material.",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 30,
+      "triple": {
+        "subject": "apple",
+        "predicate": "faces_risk_from",
+        "object": "lack of consistent ip protection globally",
+        "source_chunk": 30
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 0.9,
+        "reasoning": "The source text states that 'Effective intellectual property protection is not consistently available in every country in which the Company operates' and that this could 'materially adversely affect' the Company's competitive advantage, implying a risk. However, the text consistently refers to 'the Company' and never explicitly identifies it as 'Apple'. Therefore, substituting 'Apple' for 'the Company' is an assumption not directly supported by the provided text, making the triple partially inaccurate according to the strict evaluation criteria based only on the given text content. The core risk related to inconsistent IP protection is correctly identified for 'the Company' mentioned in the text.",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 106,
+      "triple": {
+        "subject": "apple",
+        "predicate": "reported_metric",
+        "object": "maximum one-day loss in fair value",
+        "source_chunk": 106
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text is from Apple Inc.'s 2024 Form 10-K. It explicitly mentions 'the Company' (referring to Apple) estimating 'a maximum one-day loss in fair value'. This value is a reported metric within the financial document. Therefore, the triple correctly identifies Apple as the subject, 'maximum one-day loss in fair value' as the object (a metric), and 'reported_metric' as the valid predicate representing the action/relationship found in the text. The triple accurately reflects information stated in the source text. ",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 106,
+      "triple": {
+        "subject": "maximum one-day loss in fair value $ 669 million",
+        "predicate": "confidence_level",
+        "object": "95 %",
+        "source_chunk": 106
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text explicitly states: 'Based on the results of the model, the Company estimates, with 95% confidence, a maximum one-day loss in fair value of $538 million and $669 million as of September 28, 2024 and September 30, 2023, respectively.' This confirms that the $669 million maximum one-day loss figure was estimated with 95% confidence, matching the triple's subject, predicate, and object precisely based on the provided text chunk content alone. Although the date associated with the $669 million is not in the subject, the confidence level directly applies to that specific figure mentioned in the text chunk",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 138,
+      "triple": {
+        "subject": "apple",
+        "predicate": "has_asset",
+        "object": "other non-current asset $ 55,335 million a of september 28 , 2024",
+        "source_chunk": 138
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.95,
+        "reasoning": "The source text, specifically in Note 6 under 'Other Non-Current Assets', explicitly states that 'Other non-current assets' were $55,335 million as of September 28, 2024. The triple accurately captures this specific line item, its value, and the corresponding date. The subject 'apple' is inferred as 'The Company' mentioned in the notes, which is standard practice for financial statement notes. The minor difference in plurality ('asset' vs 'assets') does not change the core meaning or value represented..",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 172,
+      "triple": {
+        "subject": "ernst & young llp service a apple inc. auditor",
+        "predicate": "start_date",
+        "object": "2009",
+        "source_chunk": 172
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text explicitly states, 'We have served as the Company\u2019s auditor since 2009.' The signature '/s/ Ernst & Young LLP' precedes this sentence, identifying 'We' as Ernst & Young LLP. The report context confirms 'the Company' is Apple Inc. Thus, the triple accurately reflects that Ernst & Young LLP began serving as Apple Inc.'s auditor in 2009 according to the text provided.",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 50,
+      "triple": {
+        "subject": "it system failure and network disruption",
+        "predicate": "could_be_affected_by",
+        "object": "apple 's financial condition",
+        "source_chunk": 50
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 0.95,
+        "reasoning": "The source text states that IT system failures and network disruptions can adversely affect the Company's financial condition. The triple reverses this relationship, suggesting that the failures/disruptions are affected by the financial condition. Additionally, the text refers to \"the Company\", not specifically \"apple\".",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 50,
+      "triple": {
+        "subject": "apple",
+        "predicate": "faces_risk_from",
+        "object": "resellers stop distribution of product",
+        "source_chunk": 50
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 0.9,
+        "reasoning": "The source text mentions that 'resellers could stop distributing the Company\u2019s products', which represents a potential risk. However, the text consistently refers to 'the Company', not specifically 'apple'. The triple correctly identifies the potential risk event but incorrectly substitutes 'apple' for 'the Company' based on information not present in the provided text snippet.",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 36,
+      "triple": {
+        "subject": "apple",
+        "predicate": "depends_on",
+        "object": "single or limited source component",
+        "source_chunk": 36
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text refers to 'the Company' and its reliance on single or limited source components. The subject 'apple' is not mentioned anywhere in the provided text segment. Therefore, the triple incorrectly identifies the subject involved in the dependency relationship described in the text.",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 87,
+      "triple": {
+        "subject": "apple",
+        "predicate": "announced_in_q1_2024",
+        "object": "macbook pro 16-in .",
+        "source_chunk": 87
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text lists product announcements by quarter for fiscal year 2024. Under the heading 'First Quarter 2024:', it explicitly lists 'MacBook Pro 16-in.' as one of the announced products. The subject 'apple' is a correct representation of 'The Company' based on the context of other product names listed (e.g., Apple Intelligence, Apple Watch, iPhone).",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 87,
+      "triple": {
+        "subject": "ipados 18",
+        "predicate": "is_a",
+        "object": "apple operate system update",
+        "source_chunk": 87
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text lists significant announcements during fiscal year 2024. Under 'Third Quarter 2024', it explicitly lists 'iPadOS 18' as one of several items described as 'updates to the Company\u2019s operating systems'. This directly supports the triple's assertion that iPadOS 18 is an Apple operating system update (assuming 'the Company' refers to Apple, which is strongly implied by the context of product names like iPhone, MacBook, etc.).",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 69,
+      "triple": {
+        "subject": "apple",
+        "predicate": "faces_risk_from",
+        "object": "significant fee or fine",
+        "source_chunk": 69
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text discusses risks faced by 'the Company', including the potential to incur 'significant fees or fines'. However, the text does not mention 'apple' at all. Therefore, the triple, which identifies 'apple' as the subject facing this risk, cannot be validated from the provided text and is incorrect as it substitutes 'apple' for 'the Company' without any basis in the text provided..",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 51,
+      "triple": {
+        "subject": "apple",
+        "predicate": "shares_with",
+        "object": "confidential information",
+        "source_chunk": 51
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text refers to 'the Company' sharing confidential information with suppliers and other third parties. The text does not mention 'apple' at all. Therefore, the triple is incorrect as the subject is not found in the provided text passage or associated with the action described..",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 129,
+      "triple": {
+        "subject": "apple",
+        "predicate": "has_asset",
+        "object": "u.s. agency security",
+        "source_chunk": 129
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text (TABLE 39-2) lists 'U.S. agency securities' as an asset type with corresponding values, but the text does not mention 'apple' anywhere. Therefore, the link between 'apple' and this asset cannot be validated from the provided source text alone the provided source text fragments which lack any mention of the owning entity for the assets listed in the tables. ",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 129,
+      "triple": {
+        "subject": "apple",
+        "predicate": "has_asset",
+        "object": "mortgage- and asset-backed security",
+        "source_chunk": 129
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text lists 'Mortgage- and asset-backed securities' within a financial table (TABLE 39-2), indicating it's a type of asset held by some entity. However, the entity 'apple' is not mentioned anywhere in the provided text. Therefore, the statement that 'apple' has this asset cannot be confirmed from the text provided.",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 62,
+      "triple": {
+        "subject": "apple esg failure",
+        "predicate": "can_be_caused_by",
+        "object": "potential liability",
+        "source_chunk": 62
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text discusses potential consequences of failures related to ESG (Environmental, Social, Governance) considerations for 'the Company', including potential liabilities. However, the text never mentions 'apple'. Furthermore, the text implies that ESG failures can lead to potential liabilities, not the other way around as suggested by the triple's 'can_be_caused_by' predicate. Therefore, the subject is incorrect, and the relationship is misrepresented based on the provided text alone. ",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 47,
+      "triple": {
+        "subject": "apple",
+        "predicate": "required_by_third_parties_to_provide",
+        "object": "digital right management",
+        "source_chunk": 47
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text explicitly states, 'Some third-party digital content providers require the Company to provide digital rights management...'. The document header indicates 'the Company' is Apple Inc. Therefore, the triple accurately reflects that Apple is required by third parties to provide digital rights management as stated in the text.",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 1,
+      "triple": {
+        "subject": "apple 's 3.050 % note due 2029",
+        "predicate": "listed_on",
+        "object": "the nasdaq stock market llc",
+        "source_chunk": 1
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text lists '3.050% Notes due 2029 \u2014 The Nasdaq Stock Market LLC'. While this indicates an association between the notes and the market, the text does not mention 'apple' at all. The triple incorrectly attributes these notes to 'apple', which cannot be verified from the provided text snippet alone.",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 96,
+      "triple": {
+        "subject": "one-time income tax charge",
+        "predicate": "increased_by",
+        "object": "apple 2024 effective tax rate",
+        "source_chunk": 96
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.95,
+        "reasoning": "The text explicitly states twice that 'The Company\u2019s effective tax rate for 2024 was higher... due primarily to a one-time income tax charge of $10.2 billion...'. This directly supports the triple's assertion that the one-time charge caused an increase in the 2024 effective tax rate for the company mentioned in the text. The predicate 'increased_by' accurately reflects this causal relationship described in the source text, where the charge led to a higher rate compared to both the statutory rate and the previous year's rate..",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 15,
+      "triple": {
+        "subject": "apple",
+        "predicate": "faces_risk_from",
+        "object": "inability to renew supply agreement",
+        "source_chunk": 15
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 0.9,
+        "reasoning": "The source text explicitly mentions that 'The Company' might face issues renewing supply agreements ('there can be no guarantee that the Company will be able to extend or renew these agreements...'). While this represents a risk, the text refers to 'The Company', not specifically 'apple'. Therefore, the triple is partially correct as it captures the risk but uses a subject not explicitly mentioned in the provided snippet.",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 58,
+      "triple": {
+        "subject": "apple",
+        "predicate": "faces_risk_from",
+        "object": "remedial corporate measure from litigation outcome",
+        "source_chunk": 58
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text discusses risks faced by 'the Company' related to litigation outcomes, including potential 'remedial corporate measures'. However, the text never mentions 'apple'. The triple incorrectly identifies the subject as 'apple' instead of 'the Company'. Therefore, the triple is not supported by the provided text chunk content. ",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 88,
+      "triple": {
+        "subject": "apple europe segment",
+        "predicate": "generated_revenue_from_products",
+        "object": "$ 95,118 million",
+        "source_chunk": 88
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 0.95,
+        "reasoning": "The source text provides a table showing 'net sales by reportable segment'. For the Europe segment, the value $95,118 million corresponds to the total net sales in 2022, not specifically revenue 'from products'. The table represents total net sales, which likely includes both product and service revenue, but it does not isolate product revenue for that specific value and year in the main table view presented in the context window. Therefore, the predicate 'generated_revenue_from_products' is incorrect as it attributes the total net sales figure solely to products for the year 2022 based on the provided table structure alone, without further breakdown shown in the excerpt for that figure or year directly in the main table line for Europe 2022 figure..",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 79,
+      "triple": {
+        "subject": "apple audit committee",
+        "predicate": "discusses_with",
+        "object": "apple head of compliance and business conduct",
+        "source_chunk": 79
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 0.95,
+        "reasoning": "The source text refers to 'The Company' and its 'Audit Committee'. It does not mention 'apple' anywhere. Therefore, attributing the Audit Committee and the Head of Compliance and Business Conduct to 'apple' is not supported by the text. Additionally, the text mentions plural 'Heads of Compliance and Business Conduct' discussing with the committee, while the triple uses the singular 'Head'",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 42,
+      "triple": {
+        "subject": "apple",
+        "predicate": "notified_of",
+        "object": "potential infringement of third-party intellectual property",
+        "source_chunk": 42
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text explicitly states, 'From time to time, the Company has been notified that it may be infringing certain patents or other intellectual property rights of third parties.' The context ('Apple Inc. | 2024 Form 10-K') identifies 'the Company' as Apple. Therefore, the triple (apple, notified_of, potential infringement of third-party intellectual property) is directly supported by the text content. 'notified_of' matches 'has been notified', and 'potential infringement of third-party intellectual property' accurately summarizes 'may be infringing certain patents or other intellectual property rights of third parties'",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 53,
+      "triple": {
+        "subject": "apple",
+        "predicate": "faces_risk_from",
+        "object": "hack",
+        "source_chunk": 53
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text discusses risks faced by 'the Company', including hacking. However, the text never identifies 'the Company' as 'apple'. Therefore, the subject of the triple is not supported by the provided text.",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 77,
+      "triple": {
+        "subject": "apple share repurchase program",
+        "predicate": "has_characteristic",
+        "object": "no obligation to acquire specific number of share",
+        "source_chunk": 77
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 0.95,
+        "reasoning": "The source text mentions 'the Company\u2019s share repurchase program does not obligate it to acquire any specific number of shares'. While the characteristic (no obligation to acquire a specific number of shares) is correctly identified from the text, the text only refers to 'The Company' and never identifies this company as 'Apple'. Therefore, the subject 'apple share repurchase program' is not supported by the provided text, making the triple incorrect as it attributes the information to the wrong entity based solely on the source text provided.",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 186,
+      "triple": {
+        "subject": "apple consolidate balance sheet",
+        "predicate": "reported_as_of",
+        "object": "september 28 , 2024 and september 30 , 2023",
+        "source_chunk": 186
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 0.9,
+        "reasoning": "The source text lists 'Consolidated Balance Sheets as of September 28, 2024 and September 30, 2023'. The triple correctly identifies the statement type and the dates. However, the source text snippet provided does not explicitly mention 'apple'. While it's likely Apple's report, the triple includes information ('apple') not directly present in the text snippet, making it only partially correct based solely on the provided text",
+        "classification": "PARTIAL"
+      }
+    },
+    {
+      "chunk_id": 25,
+      "triple": {
+        "subject": "restriction on international trade",
+        "predicate": "can_adversely_affect",
+        "object": "apple supply chain",
+        "source_chunk": 25
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text states that restrictions on international trade can adversely affect 'the Company\u2019s business and supply chain'. While the subject ('restriction on international trade') and predicate ('can_adversely_affect') are supported by the text, the object ('apple supply chain') is not. The text refers only to 'the Company' and does not explicitly identify the company as Apple. Therefore, the triple introduces external information not present in the source text, making the object incorrect based solely on the provided information_",
+        "classification": "INCORRECT"
+      }
+    },
+    {
+      "chunk_id": 165,
+      "triple": {
+        "subject": "apple america segment",
+        "predicate": "reported_operating_income",
+        "object": "$ 67,656 million ( 2024 )",
+        "source_chunk": 165
+      },
+      "evaluation": {
+        "is_valid": true,
+        "confidence": 1.0,
+        "reasoning": "The source text provides a table showing information by reportable segment for Apple Inc. Under the 'Americas' segment, the 'Operating income' for '2024' is listed as '$ 67,656'. The table header specifies figures are 'in millions'. The triple accurately captures this specific data point: Subject ('apple america segment') corresponds to the 'Americas' segment of Apple Inc., Predicate ('reported_operating_income') corresponds to 'Operating income', and Object ('$ 67,656 million ( 2024 )') matches the value and year provided in the table for that segment and metric.",
+        "classification": "CORRECT"
+      }
+    },
+    {
+      "chunk_id": 189,
+      "triple": {
+        "subject": "apple",
+        "predicate": "has_liability",
+        "object": "0.000 % note due 2025",
+        "source_chunk": 189
+      },
+      "evaluation": {
+        "is_valid": false,
+        "confidence": 1.0,
+        "reasoning": "The source text mentions '0.000% Notes due 2025' in relation to 'Officer\u2019s Certificate of the Registrant'. However, the text does not identify 'the Registrant' as 'apple'. Therefore, the triple cannot be validated from the provided text as the subject 'apple' is not mentioned anywhere in the source text fragment provided..",
+        "classification": "INCORRECT"
+      }
+    }
+  ],
+  "summary": {
+    "correct_rate": 0.49,
+    "partial_rate": 0.19,
+    "incorrect_rate": 0.32,
+    "error_rate": 0.0,
+    "avg_confidence": 0.9665000000000005,
+    "classification_counts": {
+      "CORRECT": 49,
+      "PARTIAL": 19,
+      "INCORRECT": 32,
+      "ERROR": 0
+    }
+  }
+}

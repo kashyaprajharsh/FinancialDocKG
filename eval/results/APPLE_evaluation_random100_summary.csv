@@ -1,0 +1,11 @@
+metric,value
+correct_rate,0.49
+partial_rate,0.19
+incorrect_rate,0.32
+error_rate,0.0
+avg_confidence,0.9665000000000005
+correct_count,49.0
+partial_count,19.0
+incorrect_count,32.0
+error_count,0.0
+total_triples,100.0
