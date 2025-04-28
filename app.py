@@ -357,7 +357,7 @@ def display_graph_analysis(G):
     
     with col2:
         st.subheader("Most Common Relations")
-        relations = [d.get('relation', '') for _, _, d in G.edges(data=True)]
+        relations = [d.get('edge', d.get('relation', '')) for _, _, d in G.edges(data=True)]
         relation_counts = Counter(relations)
         for rel, count in relation_counts.most_common(10):
             st.write(f"- {rel}: {count} occurrences")

@@ -74,7 +74,7 @@ def link_entities_to_graph(question: str, G: nx.Graph, llm_based_extraction: boo
     return list(found_nodes)
 
 
-def retrieve_graph_context(start_nodes: List[str], G: nx.Graph, depth: int = 2, max_triples: int = 550) -> str:
+def retrieve_graph_context(start_nodes: List[str], G: nx.Graph, depth: int = 2, max_triples: int = 750) -> str:
     """
     Retrieves context from the graph around start nodes by exploring neighbors up to a specified depth.
     Limits the total number of triples returned.
